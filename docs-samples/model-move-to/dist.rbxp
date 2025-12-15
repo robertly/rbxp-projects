@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "model-move-to",
+		"tree": {
+			"model-move-to": {
+				"$path": "demo"
+			}
+		}
+	}
+}

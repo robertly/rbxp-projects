@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Instance-ChildAdded1",
+		"tree": {
+			"Instance-ChildAdded1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

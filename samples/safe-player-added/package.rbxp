@@ -1,0 +1,9 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "safe-player-added",
+        "tree": {
+            "$path": "package"
+        }
+    }
+}

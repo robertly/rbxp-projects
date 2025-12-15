@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "using-a-modulescript",
+		"tree": {
+			"using-a-modulescript": {
+				"$path": "demo"
+			}
+		}
+	}
+}

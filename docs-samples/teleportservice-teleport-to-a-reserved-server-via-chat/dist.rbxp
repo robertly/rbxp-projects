@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "teleportservice-teleport-to-a-reserved-server-via-chat",
+		"tree": {
+			"teleportservice-teleport-to-a-reserved-server-via-chat": {
+				"$path": "demo"
+			}
+		}
+	}
+}

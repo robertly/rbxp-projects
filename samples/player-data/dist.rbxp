@@ -1,0 +1,27 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "PlayerDataExample",
+        "tree": {
+            "PlayerData": {
+                "$path": "package.rbxp",
+            },
+            "Example": {
+                "Client": {
+                    "$className": "Script",
+                    "$path": "example/Client.client.lua",
+                    "$properties": {
+                        "RunContext": 2
+                    },
+                },
+                "Server": {
+                    "$className": "Script",
+                    "$path": "example/Server.server.lua",
+                    "$properties": {
+                        "RunContext": 1
+                    },
+                },
+            }
+        }
+    }
+}

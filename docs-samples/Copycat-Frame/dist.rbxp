@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Copycat-Frame",
+		"tree": {
+			"Copycat-Frame": {
+				"$path": "demo"
+			}
+		}
+	}
+}

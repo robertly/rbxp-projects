@@ -1,0 +1,13 @@
+"description": |
+  The following code would send everyone in the current game to a reserved
+  server. Since reserved servers can only be joined by using
+  `Class.TeleportService:TeleportToPrivateServer()`, nobody will join the
+  reserved server afterwards.
+
+  Mind that, since everyone will be teleported, the current server will
+  (probably) shutdown as nobody would be left in it.
+"display_name": |-
+  TeleportService: Teleport to a Reserved Server
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

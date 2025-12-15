@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Full-Screen-Mode-Detection",
+		"tree": {
+			"Full-Screen-Mode-Detection": {
+				"$path": "demo"
+			}
+		}
+	}
+}

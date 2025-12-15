@@ -1,0 +1,13 @@
+"description": |
+  This sample includes a function that will jump to the first keyframe of a
+  specified name in an AnimationTrack.
+
+  As AnimationTrack.TimePosition cannot be set while the animation is not
+  playing the function first checks to see if the animation is playing.
+
+  This sample will only work once an Animation has loaded.
+"display_name": |-
+  Jump To Keyframe
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

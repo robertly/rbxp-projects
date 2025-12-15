@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Player-GetRankInGroup1",
+		"tree": {
+			"Player-GetRankInGroup1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

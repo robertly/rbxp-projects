@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "DataStoreService-GetRequestBudgetForRequestType1",
+		"tree": {
+			"DataStoreService-GetRequestBudgetForRequestType1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

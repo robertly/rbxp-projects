@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "KeyframeSequenceProvider-RegisterKeyframeSequence",
+		"tree": {
+			"KeyframeSequenceProvider-RegisterKeyframeSequence": {
+				"$path": "demo"
+			}
+		}
+	}
+}

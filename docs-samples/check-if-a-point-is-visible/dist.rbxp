@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "check-if-a-point-is-visible",
+		"tree": {
+			"check-if-a-point-is-visible": {
+				"$path": "demo"
+			}
+		}
+	}
+}

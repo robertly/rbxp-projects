@@ -1,0 +1,10 @@
+"description": |
+  Using the Gyroscope gives us the down direction for the player's device. We
+  can use this to move objects in the game world. This example implements a
+  level where the bubble will move along the X and Z axes depending on the device's
+  current gryoscope position in X and Z.
+"display_name": |-
+  Moving Objects with the Gyroscope
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

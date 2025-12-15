@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "limiting-the-slope-a-humanoid-can-walk-up",
+		"tree": {
+			"limiting-the-slope-a-humanoid-can-walk-up": {
+				"$path": "demo"
+			}
+		}
+	}
+}

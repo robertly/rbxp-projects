@@ -1,0 +1,17 @@
+"description": |
+  This sample contains a simple function that creates a custom explosion. The
+  custom explosion will not break joints as Explosion.DestroyJointRadiusPercent
+  is equal to 0. This means Humanoids will not be instantly killed as their neck
+  joints are broken. In this example explosion.BlastPressure is equal to zero so
+  as not to apply force or damage terrain but this can be changed.
+
+  The Explosion.Hit event is used to listen for contact. Once contact has been
+  made the code will look for the parent model of the BasePart hit by the
+  explosion. If that model exists, hasn't already been damaged and has a
+  Humanoid in it damage will be applied based on distance from the explosion's
+  origin.
+"display_name": |-
+  Custom Explosion
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

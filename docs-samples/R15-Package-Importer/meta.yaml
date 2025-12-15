@@ -1,0 +1,8 @@
+"description": |
+  A script that generates an R15 character from scratch using a package's
+  assetId.
+"display_name": |-
+  R15 Package Importer
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

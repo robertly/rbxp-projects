@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "set-accessories",
+		"tree": {
+			"set-accessories": {
+				"$path": "demo"
+			}
+		}
+	}
+}

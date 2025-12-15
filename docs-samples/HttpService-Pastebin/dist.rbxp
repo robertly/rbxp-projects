@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "HttpService-Pastebin",
+		"tree": {
+			"HttpService-Pastebin": {
+				"$path": "demo"
+			}
+		}
+	}
+}

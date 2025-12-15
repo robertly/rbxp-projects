@@ -1,0 +1,10 @@
+"description": |
+  This example shows how you can use `Class.TextService:GetTextBoundsAsync()`.
+
+  It measures the size of some text in a specific font, then prints the result.
+"display_name": |-
+  TextService: Measuring text size
+"expected_output": |-
+  The size of the text is: 56, 20
+"highlight_lines": ""
+"category": Docs Sample

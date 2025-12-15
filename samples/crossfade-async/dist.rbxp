@@ -1,0 +1,24 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "crossfade-sounds",
+        "tree": {
+            "Crossfade Sounds": {
+                "crossfadeAsync": {
+                    "$path": "package.rbxp"
+                },
+                "Demo": {
+                    "Sounds": {
+                        "$path": "demo/sounds"
+                    },
+                    "DemoScript": {
+                        "$path": "demo/DemoScript.server.lua",
+                        "$properties": {
+                            "RunContext": 1
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

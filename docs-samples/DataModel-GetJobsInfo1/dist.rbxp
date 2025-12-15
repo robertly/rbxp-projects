@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "DataModel-GetJobsInfo1",
+		"tree": {
+			"DataModel-GetJobsInfo1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

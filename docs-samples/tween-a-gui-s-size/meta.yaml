@@ -1,0 +1,15 @@
+"description": |
+  This code sample demonstrates the usage of the `Class.GuiObject:TweenSize()`
+  function. It initiates an animation on the parent's `Class.GuiObject.Size`
+  property to `UDim2.new(0.5, 0, 0.5, 0)`, which is half the `GuiObject`'s
+  parent size on both axes.
+
+  Additionally, it demonstrates how the callback parameter can be used to detect
+  when the tween stops (whether it was cancelled by another tween or completed).
+"display_name": |-
+  Tween a GuiObject's Size
+"expected_output": |-
+  The GuiObject will tween
+  The tween was completed successfully
+"highlight_lines": ""
+"category": Docs Sample

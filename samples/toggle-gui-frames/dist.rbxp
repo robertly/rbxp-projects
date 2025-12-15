@@ -1,0 +1,26 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "toggle-gui-frames",
+        "tree": {
+            "ToggleGuiFrames": {
+                "GuiToggleScript": {
+                    "$className": "Script",
+                    "$path": "demo/GuiToggleScript.client.lua",
+                    "$properties": {
+                        "RunContext": 2
+                    }
+                },
+                "MainGui": {
+                    "$path": "demo/MainGui.rbxm"
+                },
+                "DemoScript": {
+                    "$path": "demo/DemoScript.server.lua",
+                    "$properties": {
+                        "RunContext": 1
+                    }
+                }
+            }
+        }
+    }
+}

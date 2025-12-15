@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "GuiObject-LayoutOrder1",
+		"tree": {
+			"GuiObject-LayoutOrder1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

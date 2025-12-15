@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Tween-Completed-2",
+		"tree": {
+			"Tween-Completed-2": {
+				"$path": "demo"
+			}
+		}
+	}
+}

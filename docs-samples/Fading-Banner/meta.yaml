@@ -1,0 +1,8 @@
+"description": |
+  This code sample creates a fading banner for a TextLabel. It fades text out,
+  chooses a random string (avoiding repetition), and fades back in.
+"display_name": |-
+  Fading Banner
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,9 @@
+"description": |
+  A simple demonstration of how a `BlockMesh` can be created and how the
+  `Class.DataModelMesh.Scale` and `Class.DataModelMesh.Offset` properties can be
+  used.
+"display_name": |-
+  BlockMesh Instantiation
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

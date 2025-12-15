@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Explosion-DestroyJointRadiusPercent",
+		"tree": {
+			"Explosion-DestroyJointRadiusPercent": {
+				"$path": "demo"
+			}
+		}
+	}
+}

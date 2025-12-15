@@ -1,0 +1,6 @@
+display_name: Leaderboard Module
+description:
+  The Leaderboard Module updates a player's leaderboard with a name (statName) and value. The module creates the initial leaderboard as well as the stat for the player if it does not already exist.
+
+  The demo used the Leaderboard Module to update all player's leaderboards with a "Points" stat that increases over time.
+category: Leaderboard

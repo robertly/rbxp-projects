@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "LogService-MessageOut1",
+		"tree": {
+			"LogService-MessageOut1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

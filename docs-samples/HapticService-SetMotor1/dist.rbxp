@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "HapticService-SetMotor1",
+		"tree": {
+			"HapticService-SetMotor1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "remove-accessories-after-loading",
+		"tree": {
+			"remove-accessories-after-loading": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "x-ray-function",
+		"tree": {
+			"x-ray-function": {
+				"$path": "demo"
+			}
+		}
+	}
+}

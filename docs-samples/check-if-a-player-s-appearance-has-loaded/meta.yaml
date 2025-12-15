@@ -1,0 +1,8 @@
+"description": |
+  This example prints the result of `Class.Player:HasAppearanceLoaded()` after a
+  player joins the game until the player's appearance has loaded.
+"display_name": |-
+  Check if a Player's Appearance Has Loaded
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

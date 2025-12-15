@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Instance-FindFirstChildOfClass1",
+		"tree": {
+			"Instance-FindFirstChildOfClass1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

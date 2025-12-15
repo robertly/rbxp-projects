@@ -1,0 +1,10 @@
+"description": |
+  In this example a player and an animation is loaded. The Length of an
+  AnimationTrack determines how long the track would take to play if the speed
+  is at 1. If the speed is adjusted, then the actual time it will take a track
+  to play can be computed by dividing the length by the speed.
+"display_name": |-
+  Animation Speed
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

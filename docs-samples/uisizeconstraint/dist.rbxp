@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "uisizeconstraint",
+		"tree": {
+			"uisizeconstraint": {
+				"$path": "demo"
+			}
+		}
+	}
+}

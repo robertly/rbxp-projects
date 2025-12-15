@@ -1,0 +1,9 @@
+"description": |
+  The following code, when placed inside a `LocalScript` in `ReplicatedFirst`
+  will preserve a custom teleport loading screen for five seconds before
+  destroying it.
+"display_name": |-
+  Handling a Teleport Loading GUI
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

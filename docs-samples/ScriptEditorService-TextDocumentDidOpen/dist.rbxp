@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "ScriptEditorService-TextDocumentDidOpen",
+		"tree": {
+			"ScriptEditorService-TextDocumentDidOpen": {
+				"$path": "demo"
+			}
+		}
+	}
+}

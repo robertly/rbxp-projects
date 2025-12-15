@@ -1,0 +1,18 @@
+"description": |
+  The example below allows the `Class.Players.LocalPlayer|local player` to move
+  parts with their mouse.
+
+  When the player presses their left mouse button over a part, that part is the
+  `Class.Mouse.Target|mouse's target` and becomes the _point_. Until the player
+  releases their left mouse button, that part will move to the mouse's world
+  position when the player moves their mouse.
+
+  Note that the `Class.Mouse.TargetFilter` property allows the code to ignore
+  the part being moved when determining the mouse's world position.
+
+  The code should work as expected when placed in a `LocalScript`.
+"display_name": |-
+  Move Parts with the Mouse
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

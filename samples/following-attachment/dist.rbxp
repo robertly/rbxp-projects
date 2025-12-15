@@ -1,0 +1,24 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "following-attachment",
+        "tree": {
+            "FollowingAttachment": {
+                "FollowingAttachment": {
+                    "$path": "package.rbxp",
+                },
+                "Demo": {
+                    "Rock": {
+                        "$path": "demo/Rock.rbxm"
+                    },
+                    "DemoScript": {
+                        "$path": "demo/DemoScript.server.lua",
+                        "$properties": {
+                            "RunContext": 1
+                        }
+                    }
+                } 
+            }
+        }
+    }
+}

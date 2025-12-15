@@ -1,0 +1,8 @@
+"description": |
+  The code below demonstrates how to handle when the SelectedObject changes. For
+  instance, this event fires when the Gamepad navigates to another GUI element.
+"display_name": |-
+  Printing When Gamepad Selection Changes
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

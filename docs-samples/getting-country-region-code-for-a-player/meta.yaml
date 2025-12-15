@@ -1,0 +1,8 @@
+"description": |
+  This code sample gets the country/region code for a local player and prints
+  "Hello, friend from Canada!" if the player's client IP geolocation is Canada.
+"display_name": |-
+  Getting Country/Region Code for a Player
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

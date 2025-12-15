@@ -1,0 +1,9 @@
+"description": |
+  In this code sample, a sound and a texture are preloaded using `Sound` and
+  `Decal` instances, as well as general
+  [asset format strings](/projects/assets#asset-format-strings).
+"display_name": |-
+  Preloading Assets
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

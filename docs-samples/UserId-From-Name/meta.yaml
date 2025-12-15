@@ -1,0 +1,10 @@
+"description": |
+  This code sample demonstrates using the
+  `Class.Players:GetUserIdFromNameAsync()` method to get a user's
+  `Class.Player.UserId` from their `Class.Player.Name`.
+"display_name": |-
+  Get UserId from Name
+"expected_output": |-
+  118271 131963979
+"highlight_lines": ""
+"category": Docs Sample

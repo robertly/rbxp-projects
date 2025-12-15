@@ -1,0 +1,17 @@
+"description": |
+  This code sample demonstrates how to check if a player owns a certain bundle.
+  Here, we're checking for the bundle
+  [Junkbot](https://www.roblox.com/bundles/589/Junkbot). As a player enters the
+  game, their account is checked for the ownership of that item and a message is
+  printed.
+
+  Notice that a `pcall()` wraps the call to
+  `MarketplaceService:PlayerOwnsBundle()` to prevent the code from throwing an
+  error in case the player's inventory can't be checked. If such an error
+  occurs, the `success` variable is false.
+"display_name": |-
+  Check for Bundle Ownership
+"expected_output": |-
+  Player owns Junkbot
+"highlight_lines": ""
+"category": Docs Sample

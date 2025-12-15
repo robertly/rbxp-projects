@@ -1,0 +1,18 @@
+"description": |
+  This code sample creates two plugin widget windows: a drag source and a drop
+  target. In the source window, the script creates a `TextBox` and `TextButton`
+  to allow the user to begin a plugin drag action. The drop target window will
+  display the MimeType of whatever is dragged into it using a `TextLabel`. If
+  the MimeType is text/plain, it will display the plain text data instead.
+  Pictured below is an animation of the drag and drop action.
+
+  ![Screen recording of the drag and drop action in-Studio](/assets/legacy/drag-and-drop.gif)
+
+  To run this code sample as a plugin, paste it into a `Script`. Then,
+  right-click the script in the Explorer window and choose "Save as Local
+  Plugin".
+"display_name": |-
+  Plugin Drag and Drop
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

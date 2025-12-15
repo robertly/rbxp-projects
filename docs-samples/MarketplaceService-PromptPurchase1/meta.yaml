@@ -1,0 +1,12 @@
+"description": |
+  The below example would prompt all new players to buy Beautiful Hair for
+  Beautiful People when they click on a part.
+
+  Place this LocalScript somewhere on the Client such as within Players ->
+  StarterPlayerScripts so that it will be able to fire a
+  `Class.RemoteEvent:FireServer()` signal from a Client to the Server.
+"display_name": |-
+  LocalScript (Client)
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

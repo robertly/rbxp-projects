@@ -1,0 +1,10 @@
+"description": |
+  This code sample includes an example of how the Explosion.ExplosionType
+  property can be used to stop Explosions from damaging terrain. It is
+  recommended to set the ExplosionType to NoCraters at the point of Explosion
+  instantiation, but if that is not practical the code below will work.
+"display_name": |-
+  Stop Explosions from Damaging Terrain
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

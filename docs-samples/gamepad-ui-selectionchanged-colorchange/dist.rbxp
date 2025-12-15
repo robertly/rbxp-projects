@@ -1,0 +1,12 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "gamepad-ui-selectionchanged-colorchange",
+		"tree": {
+			"gamepad-ui-selectionchanged-colorchange": {
+				"$className": "ScreenGui",
+				"$path": "demo"
+			}
+		}
+	}
+}

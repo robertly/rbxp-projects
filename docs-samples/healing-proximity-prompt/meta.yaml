@@ -1,0 +1,9 @@
+"description": |
+  The example below illustrates a prompt that requires the user to hold the
+  button down in order to heal their character. This should be used in a
+  `Script` that is a child of a `ProximityPrompt`.
+"display_name": |-
+  Healing Proximity Prompt
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

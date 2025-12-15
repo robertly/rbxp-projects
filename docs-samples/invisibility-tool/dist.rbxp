@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "invisibility-tool",
+		"tree": {
+			"invisibility-tool": {
+				"$path": "demo"
+			}
+		}
+	}
+}

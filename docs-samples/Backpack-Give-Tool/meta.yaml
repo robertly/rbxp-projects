@@ -1,0 +1,8 @@
+"description": |
+  This sample includes a simple function demonstrating how a Tool can be given
+  to a Player by parenting it to their Backpack.
+"display_name": |-
+  Backpack Give Tool
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

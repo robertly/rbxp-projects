@@ -1,0 +1,12 @@
+"description": |
+  The code below enables a button's `Class.GuiButton.AutoButtonColor` as long as
+  it it not a `ImageButton` with `Class.ImageButton.HoverImage` and
+  `Class.ImageButton.PressedImage` properties set to images.
+
+  In order for the code to work as expected, it must be placed in a
+  `LocalScript` that is a child of the button.
+"display_name": |-
+  Changing a GUI Button's Color on Hover and Click
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

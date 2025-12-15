@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "how-to-remove-a-player-s-character",
+		"tree": {
+			"how-to-remove-a-player-s-character": {
+				"$path": "demo"
+			}
+		}
+	}
+}

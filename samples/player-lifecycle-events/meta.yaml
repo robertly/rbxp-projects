@@ -1,0 +1,4 @@
+display_name: Player Lifecycle Events
+description: |
+  Demonstrates connecting to common player, character and humanoid events. Events covered: PlayerAdded, PlayerRemoving, CharacterAdded, CharacterRemoving, CharacterAppearanceLoaded and Died (humanoid).
+category: Player & Character

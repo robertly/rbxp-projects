@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "check-membership-status",
+		"tree": {
+			"check-membership-status": {
+				"$path": "demo"
+			}
+		}
+	}
+}

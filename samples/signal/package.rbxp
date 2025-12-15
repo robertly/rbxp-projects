@@ -1,0 +1,9 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "signal",
+		"tree": {
+			"$path": "package"
+		}
+	}
+}

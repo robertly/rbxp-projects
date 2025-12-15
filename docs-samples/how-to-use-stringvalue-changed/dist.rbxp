@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "how-to-use-stringvalue-changed",
+		"tree": {
+			"how-to-use-stringvalue-changed": {
+				"$path": "demo"
+			}
+		}
+	}
+}

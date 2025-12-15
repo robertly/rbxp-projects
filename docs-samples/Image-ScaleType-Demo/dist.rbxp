@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Image-ScaleType-Demo",
+		"tree": {
+			"Image-ScaleType-Demo": {
+				"$path": "demo"
+			}
+		}
+	}
+}

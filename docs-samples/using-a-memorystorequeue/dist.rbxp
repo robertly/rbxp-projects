@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "using-a-memorystorequeue",
+		"tree": {
+			"using-a-memorystorequeue": {
+				"$path": "demo"
+			}
+		}
+	}
+}

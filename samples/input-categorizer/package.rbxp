@@ -1,0 +1,12 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "input-categorizer",
+		"tree": {
+			"$path": "package",
+			"Signal": {
+				"$path": "../../dependencies/Signal.lua"
+			}
+		}
+	}
+}

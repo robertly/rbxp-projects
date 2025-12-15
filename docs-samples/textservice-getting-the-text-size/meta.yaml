@@ -1,0 +1,14 @@
+"description": |
+  This example showcases a possible usage of the GetTextSize function.
+
+  It computes the possible `Datatype.Vector2` dimensions (in pixels) of the
+  string _"Hello World"_ when the font size is _12_, the font size _SourceSans_
+  and the frame size is _(1,1)_.
+
+  The expected return of this function is the Vector2 value _9, 13_.
+"display_name": |-
+  TextService: Getting the Text Size
+"expected_output": |-
+  "9, 13"
+"highlight_lines": ""
+"category": Docs Sample

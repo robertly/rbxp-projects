@@ -1,0 +1,8 @@
+"description": |
+  This example works when placed in a `Class.LocalScript` that is the child of a
+  TextBox. When the TextBox gains focus, the example prints "Focus".
+"display_name": |-
+  Focus
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

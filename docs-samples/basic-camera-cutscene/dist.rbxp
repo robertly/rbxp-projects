@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "basic-camera-cutscene",
+		"tree": {
+			"basic-camera-cutscene": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,12 @@
+"description": |
+  This code sample demonstrates use of the `Class.Plugin:GetSetting()` and
+  `Class.Plugin:SetSetting()` functions. They detect if a plugin is running for
+  the first time by setting a key. If the key is `true`, it prints a "welcome
+  back" message; otherwise it prints a "first run" message and sets the key to
+  `true`.
+"display_name": |-
+  Plugin:GetSetting and Plugin:SetSetting
+"expected_output": ""
+"highlight_lines": |
+  2,8
+"category": Docs Sample

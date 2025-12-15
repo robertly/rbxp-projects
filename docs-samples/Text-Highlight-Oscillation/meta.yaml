@@ -1,0 +1,8 @@
+"description": |
+  This code sample oscillates a TextLabel's TextStrokeTransparency so that it
+  blinks the highlight of a text.
+"display_name": |-
+  Text Highlight Oscillation
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

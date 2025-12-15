@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "center-pivot",
+		"tree": {
+			"center-pivot": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+"description": |
+  This code sample is meant for a `LocalScript` within an inner `Frame` that is
+  inside an outer `Frame`, or other `GuiObject`. It allows the player to scale
+  the inner frame by performing a `Class.GuiObject.TouchPinch` gesture on the
+  outer frame.
+"display_name": |-
+  Pinch/Pull Scaling
+"expected_output": |-
+  When the player performs a pinch gesture, the inner frame should get smaller. When the player performs a pull gesture, the inner frame should get bigger. Note that if the inner frame renders text, there may be text rendering issues using a `UIScale`.
+"highlight_lines": ""
+"category": Docs Sample

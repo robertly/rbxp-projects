@@ -1,0 +1,8 @@
+"description": |
+  This code sample includes a function that will play a sound and allow it to
+  loop for a given number of times before stopping it.
+"display_name": |-
+  Loop a Number of Times
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

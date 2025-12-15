@@ -1,0 +1,10 @@
+"description": |
+  The code below insert's a `Tool` named "Stick" into the
+  `Class.Players.LocalPlayer|LocalPlayer's` `BackPack`. When the player pressed
+  their left mouse button and activates the tool, the code prints the values of
+  the tool's grip properties.
+"display_name": |-
+  Grip Stick
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

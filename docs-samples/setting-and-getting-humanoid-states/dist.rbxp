@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "setting-and-getting-humanoid-states",
+		"tree": {
+			"setting-and-getting-humanoid-states": {
+				"$path": "demo"
+			}
+		}
+	}
+}

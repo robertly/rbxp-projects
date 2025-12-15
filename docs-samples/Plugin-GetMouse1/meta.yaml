@@ -1,0 +1,8 @@
+"description": |
+  This code would print Button 1 pressed from PluginMouse each time the mouse's
+  left button was clicked.
+"display_name": |-
+  Plugin:GetMouse
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

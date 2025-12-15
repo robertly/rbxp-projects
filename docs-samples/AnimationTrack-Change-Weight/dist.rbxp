@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "AnimationTrack-Change-Weight",
+		"tree": {
+			"AnimationTrack-Change-Weight": {
+				"$path": "demo"
+			}
+		}
+	}
+}

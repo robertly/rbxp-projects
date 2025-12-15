@@ -1,0 +1,9 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "lighting-presets",
+		"tree": {
+			"$path": "package"
+		}
+	}
+}

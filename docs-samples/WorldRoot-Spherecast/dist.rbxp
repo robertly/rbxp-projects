@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "WorldRoot-Spherecast",
+		"tree": {
+			"WorldRoot-Spherecast": {
+				"$path": "demo"
+			}
+		}
+	}
+}

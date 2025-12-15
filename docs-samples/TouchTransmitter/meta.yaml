@@ -1,0 +1,9 @@
+"description": |
+  This sample demonstrates how a `TouchTransmitter` object is created when the
+  `Class.BasePart.Touched` or `Class.BasePart.TouchEnded` events are connected
+  to. Also demonstrates what happened when the `TouchTransmitter` is destroyed.
+"display_name": |-
+  TouchTransmitter
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,16 @@
+"description": |
+  This code is meant to be placed in a Script within a Tool. It allows a player
+  to spawn explosions by equipping the tool and clicking on the ground. It does
+  so by defining a function, `explode`, which creates a non-deadly explosion at
+  a given point. Then, it defines a function, `onActivated`, that runs when the
+  tool is activated. Finally, it connects the Activated event of the tool to the
+  `onActivated` function.
+
+  To test this code out, try creating a Tool and put a Part inside it. Name the
+  Part "Handle". Put a Script inside the Tool next, and paste the code into it.
+  Finally, put the Tool in the StarterPack.
+"display_name": |-
+  Explode Tool Example
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

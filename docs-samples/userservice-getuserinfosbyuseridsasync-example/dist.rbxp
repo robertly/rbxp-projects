@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "userservice-getuserinfosbyuseridsasync-example",
+		"tree": {
+			"userservice-getuserinfosbyuseridsasync-example": {
+				"$path": "demo"
+			}
+		}
+	}
+}

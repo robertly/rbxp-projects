@@ -1,0 +1,17 @@
+"description": "This code sample visualizes how to create a `PluginAction`. Plugin\
+  \ actions\nmust be created using the `Class.Plugin:CreatePluginAction()` function\
+  \ in\norder to work.\n\nIn order to work as expected, the code block must but pasted\
+  \ into the command\nbar, but only once. Consecutive attempts at executing the code\
+  \ in the command\nbar will result in an error because a plugin cannot create more\
+  \ than one\nPluginAction with the same id.\n\nAfter executing the code, the newly\
+  \ created action can be assigned a keyboard\nshortcut under `File \u2192 Advanced\
+  \ \u2192 Customize Shortcuts\u2026`, and can also be added\nto the Quick Access\
+  \ Toolbar.\n\n![File \u2192 Advanced \u2192 Customize Shortcuts\u2026](/assets/legacy/Screen_Shot_2019-06-24_at_9.16.27_PM.png)\n\
+  \n![Customize Shortcuts Window](/assets/legacy/Screen_Shot_2019-06-24_at_9.15.54_PM.png)\n\
+  \nWhen the created action is bound and `Class.PluginAction.Triggered|triggered`,\n\
+  it prints \"Hello world!\" in the output window.\n"
+"display_name": |-
+  Creating a PluginAction
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "runservice-custom-function",
+		"tree": {
+			"runservice-custom-function": {
+				"$path": "demo"
+			}
+		}
+	}
+}

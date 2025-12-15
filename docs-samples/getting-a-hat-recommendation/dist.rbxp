@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "getting-a-hat-recommendation",
+		"tree": {
+			"getting-a-hat-recommendation": {
+				"$path": "demo"
+			}
+		}
+	}
+}

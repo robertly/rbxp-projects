@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "enabling-a-player-s-mouse-lock",
+		"tree": {
+			"enabling-a-player-s-mouse-lock": {
+				"$path": "demo"
+			}
+		}
+	}
+}

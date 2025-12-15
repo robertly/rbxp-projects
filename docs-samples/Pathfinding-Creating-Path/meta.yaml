@@ -1,0 +1,10 @@
+display_name: Creating a Path with Pathfinding Service
+description: |
+  Demonstrates creating a path using `Class.PathfindingService:CreatePath()`
+
+  'PathOptions' represents a Model with three paths made of different materials.
+  When creating the path we define a large 'Cost' for two of the three paths materials.
+  This will ensure the path created steers towards the path with the material of the lowest 'Cost'.
+
+  Once the path is created, small parts are created at each waypoint to visualize the path.
+category: Pathfinding

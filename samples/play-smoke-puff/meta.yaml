@@ -1,0 +1,4 @@
+display_name: Play Smoke Puff
+description: |
+  Plays a particle animation of a puff of smoke at the location, volume, and size of a given part.
+category: Visual

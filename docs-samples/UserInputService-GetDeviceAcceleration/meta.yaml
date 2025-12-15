@@ -1,0 +1,13 @@
+"description": |
+  This example checks if a user's device has an enabled accelerometer. If it
+  does, the example prints the current acceleration of the device. If not, the
+  example prints:
+
+  > _Cannot get device acceleration because device does not have an enabled
+  > accelerometer!_
+"display_name": |-
+  Print Device Acceleration
+"expected_output": |-
+  Output may vary depending on whether the user's device has an enabled accelerometer during testing.
+"highlight_lines": ""
+"category": Docs Sample

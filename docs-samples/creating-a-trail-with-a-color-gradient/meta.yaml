@@ -1,0 +1,18 @@
+"description": |
+  This example creates a Trail with a gradient color. This means that the color
+  at one end of the trail is different than the color at the opposite end of the
+  trail, and both colors blend together as they get closer to the middle of the
+  trail.
+
+  In order to create this effect, we must use a `Datatype.ColorSequence` with
+  two different colors. In our example, we use _blue_ and _red_ as the
+  `startColor` and `endColor`.
+
+  The gif below shows what the output of this example should look like.
+
+  ![Texture color gradient using blue and red.](/assets/legacy/TextureColorGradient.gif)
+"display_name": |-
+  Creating a Trail with a Color Gradient
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

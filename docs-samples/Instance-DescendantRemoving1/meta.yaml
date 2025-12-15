@@ -1,0 +1,8 @@
+"description": |
+  The following example prints the name of any descendant as it is being removed
+  from the Workspace:
+"display_name": |-
+  Instance.DescendantRemoving
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

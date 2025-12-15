@@ -1,0 +1,6 @@
+display_name: Create a Part
+description: |
+  Demonstrates creating a new Part with `Class.Instance.new`, setting various properties of the Part, and finally parenting the Part to the Workspace.
+
+  The Part will appear in the world once it is parented to the Workspace.
+category: Basic

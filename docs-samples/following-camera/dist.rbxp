@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "following-camera",
+		"tree": {
+			"following-camera": {
+				"$path": "demo"
+			}
+		}
+	}
+}

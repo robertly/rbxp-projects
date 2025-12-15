@@ -1,0 +1,11 @@
+"description": |
+  This example demonstrates that the `Class.Players.PlayerChatted` event fires
+  when a player chats in the game by printing the player and the message chatted
+  using the PlayerChatted parameters.
+
+  This example will function as expected when executed in the command bar.
+"display_name": |-
+  Checking Player Chatted in Command Bar
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

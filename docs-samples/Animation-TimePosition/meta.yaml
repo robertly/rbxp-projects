@@ -1,0 +1,16 @@
+"description": |
+  The following code sample includes two functions that demonstrate how
+  AdjustSpeed and TimePosition can be used to freeze an animation at a
+  particular point.
+
+  The first function freezes an animation at a particular point in time (defined
+  in seconds). The second freezes at it at a percentage (between 0 or 100) by
+  multiplying the percentage by the track length.
+
+  As TimePosition can not be used when an AnimationTrack is not playing, the
+  functions check to make sure the animation is playing before proceeding.
+"display_name": |-
+  Freeze Animation at Position
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

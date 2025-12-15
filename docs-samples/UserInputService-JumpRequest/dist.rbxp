@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "UserInputService-JumpRequest",
+		"tree": {
+			"UserInputService-JumpRequest": {
+				"$path": "demo"
+			}
+		}
+	}
+}

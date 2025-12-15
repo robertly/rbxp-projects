@@ -1,0 +1,22 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "fire-raycast",
+        "tree": {
+            "FireRaycast": {
+                "Demo": {
+                    "Instances": {
+                        "$path": "demo/Instances.rbxm"
+                    },
+                    "DemoScript": {
+                        "$className": "Script",
+                        "$path": "demo/DemoScript.client.lua",
+                        "$properties": {
+                            "RunContext": 2
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

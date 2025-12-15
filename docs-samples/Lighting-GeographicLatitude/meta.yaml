@@ -1,0 +1,9 @@
+"description": |
+  The following code sample is an example of the how the direction of the sun is
+  calculated. This is the calculation that `Class.Lighting:GetSunDirection()`
+  uses.
+"display_name": |-
+  Sun direction
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

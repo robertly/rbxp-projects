@@ -1,0 +1,22 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "action-manager",
+		"tree": {
+			"ActionManager": {
+				"ActionManager": {
+					"$path": "package.rbxp"
+				},
+				"Demo": {
+					"DemoScript": {
+						"$className": "Script",
+						"$path": "demo/DemoScript",
+						"$properties": {
+							"RunContext": 2
+						}
+					}
+				}
+			}
+		}
+	}
+}

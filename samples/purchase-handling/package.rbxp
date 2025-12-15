@@ -1,0 +1,14 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "PurchaseHandling",
+        "tree": {
+            "ReceiptProcessor": {
+                "$path": "sample",
+            },
+            "PlayerData": {
+                "$path": "../player-data/package.rbxp"
+            }
+        }
+    }
+}

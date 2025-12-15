@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "teleporting-the-local-player",
+		"tree": {
+			"teleporting-the-local-player": {
+				"$path": "demo"
+			}
+		}
+	}
+}

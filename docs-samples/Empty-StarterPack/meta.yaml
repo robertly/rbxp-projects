@@ -1,0 +1,8 @@
+"description": |
+  This simple function will remove all Tools from the StarterPack, while leaving
+  other objects such as LocalScripts in place.
+"display_name": |-
+  Empty StarterPack
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

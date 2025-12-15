@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "getting-policy-information-for-a-player",
+		"tree": {
+			"getting-policy-information-for-a-player": {
+				"$path": "demo"
+			}
+		}
+	}
+}

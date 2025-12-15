@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "hiding-player-health-and-names",
+		"tree": {
+			"hiding-player-health-and-names": {
+				"$path": "demo"
+			}
+		}
+	}
+}

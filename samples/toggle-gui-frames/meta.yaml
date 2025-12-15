@@ -1,0 +1,4 @@
+display_name: Toggling Gui Frames
+description: |
+  Demonstrates how to show and hide different frames within a Gui. The example starts with a menu button visible to the player. When pressed, the menu button is hidden and a menu window appears. Clicking the 'X' at the top right corner of the menu will bring the user back to the original view.
+category: UI

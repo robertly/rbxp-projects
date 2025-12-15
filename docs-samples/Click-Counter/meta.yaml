@@ -1,0 +1,8 @@
+"description": |
+  This code sample allows a player to click a button which keeps track of how
+  many times it has been clicked.
+"display_name": |-
+  Click Counter
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

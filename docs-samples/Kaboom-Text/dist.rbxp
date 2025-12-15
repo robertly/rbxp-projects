@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Kaboom-Text",
+		"tree": {
+			"Kaboom-Text": {
+				"$path": "demo"
+			}
+		}
+	}
+}

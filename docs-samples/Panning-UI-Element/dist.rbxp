@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Panning-UI-Element",
+		"tree": {
+			"Panning-UI-Element": {
+				"$path": "demo"
+			}
+		}
+	}
+}

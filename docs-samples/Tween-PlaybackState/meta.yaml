@@ -1,0 +1,11 @@
+"description": |
+  In this example a part is rotated by a Tween back and forth several times. The
+  TweenInfo in this case is configured to make the tween repeat twice after the
+  first playback and pause between each playback. A function is connected to
+  when the tween's PlaybackState changes. When run, this function will fire
+  whenever the tween starts, pauses between playback, and ends.
+"display_name": |-
+  Tween PlaybackState
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

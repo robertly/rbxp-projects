@@ -1,0 +1,16 @@
+"description": |
+  This code sample attempts to retrieve a `Translator` object for the local
+  player. `Class.LocalizationService:GetTranslatorForPlayerAsync()` is wrapped
+  in a pcall because it may error. If it does not error and returns a
+  Translator, it translates and prints "Hello World!" in the player's language.
+  If the function errors, it prints "GetTranslatorForLocaleAsync failed:"
+  followed by the error message.
+
+  `Class.LocalizationService:GetTranslatorForPlayer()` can also be used if you'd
+  like to get the player's translator without yielding until the function
+  returns.
+"display_name": |-
+  Getting and Using a Translator for a Player
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

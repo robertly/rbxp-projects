@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "IsUserFeatureEnabled-Sample",
+		"tree": {
+			"IsUserFeatureEnabled-Sample": {
+				"$path": "demo"
+			}
+		}
+	}
+}

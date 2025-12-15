@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "badges---awarding-a-badge",
+		"tree": {
+			"badges---awarding-a-badge": {
+				"$path": "demo"
+			}
+		}
+	}
+}

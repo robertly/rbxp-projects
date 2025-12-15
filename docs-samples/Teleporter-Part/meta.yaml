@@ -1,0 +1,8 @@
+"description": |
+  This code sample causes a Part to teleport any players that touch it to a
+  specific position defined by a "TeleportPosition" Vector3Value.
+"display_name": |-
+  Teleporter Part
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

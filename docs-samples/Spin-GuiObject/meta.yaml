@@ -1,0 +1,8 @@
+"description": |
+  This code sample rotates a parent `GuiObject` (such as a `Frame`) using a
+  given rotation speed and the `Class.RunService.RenderStepped` event.
+"display_name": |-
+  Spin GuiObject
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

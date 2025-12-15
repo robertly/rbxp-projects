@@ -1,0 +1,11 @@
+"description": |
+  This code sample turns a Lua table `tab` into a
+  [JSON string](http://www.json.org/) using HttpService's JSONEncode. Then, it
+  prints out the string.
+
+  Try editing the Lua table to see how the JSON output changes.
+"display_name": |-
+  HttpService JSONEncode
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

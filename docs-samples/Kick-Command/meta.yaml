@@ -1,0 +1,8 @@
+"description": |
+  This code sample allows the creator of a place to kick other players by
+  chatting "/kick xyz", where xyz is the exact username of a player.
+"display_name": |-
+  Kick Command
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

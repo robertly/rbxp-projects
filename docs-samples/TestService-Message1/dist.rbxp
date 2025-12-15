@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "TestService-Message1",
+		"tree": {
+			"TestService-Message1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

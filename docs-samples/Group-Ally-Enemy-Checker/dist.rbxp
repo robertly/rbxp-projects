@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Group-Ally-Enemy-Checker",
+		"tree": {
+			"Group-Ally-Enemy-Checker": {
+				"$path": "demo"
+			}
+		}
+	}
+}

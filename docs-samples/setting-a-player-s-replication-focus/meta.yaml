@@ -1,0 +1,12 @@
+"description": |
+  This example creates a new `BasePart` and sets the `Player`'s
+  `Class.Player.ReplicationFocus` to that part.
+
+  This demonstrates the functionality of the ReplicationFocus property. You can
+  easily change the part that the focus is set to to change the replication
+  focus.
+"display_name": |-
+  Setting a Player's Replication Focus
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

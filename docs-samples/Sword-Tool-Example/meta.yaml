@@ -1,0 +1,13 @@
+"description": |
+  This code sample is for a Tool object with a Part named Handle. It detects
+  when Humanoids other than the current holder hit the handle, and deals some
+  damage to them. In addition, when the Tool is activated, it triggers a slash
+  animation in the default character animation scripts. Try out this script by
+  creating a Tool object in the StarterPack. Put a Part inside it, and name it
+  Handle. Paste this code into a Script inside the Tool, then try slashing at
+  another Humanoid!
+"display_name": |-
+  Sword Tool Example
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

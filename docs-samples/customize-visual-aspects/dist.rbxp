@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "customize-visual-aspects",
+		"tree": {
+			"customize-visual-aspects": {
+				"$path": "demo"
+			}
+		}
+	}
+}

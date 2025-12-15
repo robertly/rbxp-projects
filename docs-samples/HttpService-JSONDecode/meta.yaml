@@ -1,0 +1,14 @@
+"description": |
+  This code sample gives an example [JSON](http://www.json.org/) format string
+  and parses it using HttpService's JSONDecode. It then verifies that the JSON
+  was parsed correctly, and prints out some of the information within the
+  object.
+
+  Try editing the JSON string to experiment with the format. Also experiment
+  with inspecting the data in Lua to get comfortable with the Lua representation
+  of the data (tables and other values).
+"display_name": |-
+  HttpService JSONDecode
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

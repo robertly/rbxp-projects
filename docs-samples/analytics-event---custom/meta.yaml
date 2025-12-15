@@ -1,0 +1,12 @@
+"description": |
+  The code sample below demonstrates one possible usage for the
+  `Class.AnalyticsService:FireCustomEvent()|FireCustomEvent()` function, which
+  can be used to fire a custom event for the `AnalyticsService`. In this
+  example, the custom function is used to report that a new server has started,
+  which would allow the developer to track data such as how many servers are
+  started for their game.
+"display_name": |-
+  Analytics Event - Custom
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,8 @@
+"description": |
+  The following code prompts users to purchase Premium when their character touches the part that its containing `Class.Script` is attached to, such as a teleporter that allows access to an exclusive area.
+"display_name": |-
+  Prompt Premium Purchase
+"expected_output": ""
+"highlight_lines": |
+  25
+"category": Docs Sample

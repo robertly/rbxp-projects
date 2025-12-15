@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Fade-Door",
+		"tree": {
+			"Fade-Door": {
+				"$path": "demo"
+			}
+		}
+	}
+}

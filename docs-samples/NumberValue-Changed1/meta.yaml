@@ -1,0 +1,7 @@
+"description": |
+  This example prints the NumberValue's new value each time it changes. Here it prints 20.
+"display_name": |-
+  NumberValue Changed
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

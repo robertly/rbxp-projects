@@ -1,0 +1,8 @@
+display_name: GUI Button Right Click
+description: |
+  Demonstrates how to use the `Class.GuiButton.MouseButton2Click` event to detect when a user right clicks a `Class.GuiButton`.
+
+  The mouse has to be in bounds of the button and has to be pressed down and up again before this event fires.
+
+  Note: place the "RightClickScreenGui" within StarterGui for this sample to work properly.
+category: GUI

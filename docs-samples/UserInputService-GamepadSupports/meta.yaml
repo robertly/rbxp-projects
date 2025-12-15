@@ -1,0 +1,9 @@
+"description": |
+  This example binds the `Enum.KeyCode|ButtonX` key to action if it is supported
+  by _controller_ (`Enum.UserInputType|Gamepad1`). If bound, pressing the X
+  Button invokes the _action()_ function, which prints "Action".
+"display_name": |-
+  Binding Functions to Gamepad Controls
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

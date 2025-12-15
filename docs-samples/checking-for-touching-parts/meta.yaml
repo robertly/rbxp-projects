@@ -1,0 +1,17 @@
+"description": |
+  The code block below demonstrates how to use
+  `Class.WorldRoot:ArePartsTouchingOthers()` to check if parts in a list are
+  touching any parts in the workspace not in the list.
+
+  First the script creates two square parts that overlap 1 stud, `Part1` and
+  `Part2`. Then, it prints the value returned by ArePartsTouchingOthers() when
+  Part1 is passed in `partList` at three different overlap values: `0`, `0.999`,
+  and `1`. The first two times ArePartsTouchingOthers() is called return `false`
+  because the overlap values are less than the distance that Part1 and Part2
+  overlap. The third call returns `true` because the overlap value is equal to
+  the distance that the parts overlap.
+"display_name": |-
+  Checking for Touching Parts
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

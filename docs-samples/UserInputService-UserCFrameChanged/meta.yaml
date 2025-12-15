@@ -1,0 +1,30 @@
+"description": |
+  This example demonstrates how to implement a head tracking script that mirrors
+  the movement of a virtual reality (VR) headset (the user's actual head) to
+  their in-game `Class.Player.Character|character's` head.
+
+  The example first check if the user is using a VR device by checking the value
+  of the `Class.UserInputService.VREnabled|VREnabled()` property. This example
+  only works if the user is using a VR headset.
+
+  To determine the initial `Datatype.CFrame` of the character's head, the code
+  sample calls `Class.UserInputService:GetUserCFrame()|GetUserCFrame()` and
+  passes `Enum.UserCFrame.Head` as the argument.
+
+  To update the head's CFrame whenever the user's VR headset moves, the example
+  connects the `Class.UserInputService.UserCFrameChanged` event to the
+  _TrackHead()_ function. When the event fires to indicate that a VR device
+  moved, TrackHead() checks if the headset moved. If the headset moved, the
+  function updates the CFrame of the character's head to the `Datatype.CFrame`
+  _value_ provided as an argument.
+
+  As the UserCFrame enum also tracks VR left and right hand devices, the concept
+  of VR device tracking can be expanded to other character bodyparts.
+
+  In order for the example to work as expected, it must be placed in a
+  `LocalScript`.
+"display_name": |-
+  VR Head Tracking
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

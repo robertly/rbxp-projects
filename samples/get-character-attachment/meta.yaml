@@ -1,0 +1,6 @@
+display_name: Get Character Attachment
+description: |
+  Returns the attachment corresponding with AttachmentName under the character.
+
+  The DemoScript uses getCharacterAttachment to correctly attach a pizza slice to a character's RightGripAttachment.
+category: Player & Character

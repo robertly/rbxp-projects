@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "setting-a-player-s-camera-movement-mode-desktop-",
+		"tree": {
+			"setting-a-player-s-camera-movement-mode-desktop-": {
+				"$path": "demo"
+			}
+		}
+	}
+}

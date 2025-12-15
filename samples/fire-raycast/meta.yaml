@@ -1,0 +1,4 @@
+display_name: Raycasting
+description: |
+  The fireRaycast function fires a ray from an Attachment position, visualizing the path of the ray and the surface normal that was hit. A model named "Device" rotates around in a circle, pointing the ray at various objects.
+category: 3D Space

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Keyframe-Add-Remove-Pose",
+		"tree": {
+			"Keyframe-Add-Remove-Pose": {
+				"$path": "demo"
+			}
+		}
+	}
+}

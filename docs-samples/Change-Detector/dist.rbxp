@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Change-Detector",
+		"tree": {
+			"Change-Detector": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "plugin-drag-and-drop",
+		"tree": {
+			"plugin-drag-and-drop": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+"description": |
+  This code prints out details of a script's running context, like if it is
+  running on the server, client, in studio, etc. It uses RunService to do this.
+
+  Try pasting this code into a Script or LocalScript. See how it runs in online
+  mode and on a Roblox server (open the developer console).
+"display_name": |-
+  Run Context
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

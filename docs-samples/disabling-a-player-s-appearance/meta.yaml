@@ -1,0 +1,15 @@
+"description": |
+  This example demonstrates how to disable loading a player's character
+  appearance. Instead, the player loads as a grey model without any hats,
+  shirts, pants, etc.
+
+  This is useful for games using custom clothing and accessories.
+
+  _Note:_ If the character has already spawned, this change will not take affect
+  until the player respawns or the ``Class.Player:LoadCharacter()` function is
+  called.
+"display_name": |-
+  Disabling a Player's Appearance
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

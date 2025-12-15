@@ -1,0 +1,10 @@
+"description": |
+  The below example, assuming all referenced objects existed, would print the
+  StringValue's new value each time it changed. In the example below it would
+  print _"Hello world!"_.
+"display_name": |-
+  How to Use StringValue.Changed
+"expected_output": |-
+  "Hello world!"
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "setting-a-trail-s-minimum-length",
+		"tree": {
+			"setting-a-trail-s-minimum-length": {
+				"$path": "demo"
+			}
+		}
+	}
+}

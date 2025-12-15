@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Selection-SelectionChanged1",
+		"tree": {
+			"Selection-SelectionChanged1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

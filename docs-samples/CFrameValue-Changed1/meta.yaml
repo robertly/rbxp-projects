@@ -1,0 +1,7 @@
+"description": |
+  This example prints the CFrameValue's new value each time it changes.
+"display_name": |-
+  CFrameValue.Changed
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

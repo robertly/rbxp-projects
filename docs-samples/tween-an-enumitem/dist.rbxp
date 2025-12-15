@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "tween-an-enumitem",
+		"tree": {
+			"tween-an-enumitem": {
+				"$path": "demo"
+			}
+		}
+	}
+}

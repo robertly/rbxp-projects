@@ -1,0 +1,14 @@
+"description": |
+  This snippet demonstrates how `TeleportService` can be used to teleport the
+  `Class.Players.LocalPlayer|LocalPlayer()` from the client.
+
+  It also shows how `Class.TeleportService:SetTeleportGui()` can be used to
+  define a custom loading GUI. Note, this `ScreenGui` will need to be retrieved
+  at the destination place using
+  `Class.TeleportService:GetArrivingTeleportGui()` and be parented to the
+  `PlayerGui`.
+"display_name": |-
+  Teleporting the local player
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

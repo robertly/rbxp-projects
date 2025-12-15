@@ -1,0 +1,3 @@
+display_name: Action Manager
+description: Provides a wrapper for ContextActionService that displays actions on-screen. Input prompts automatically change based on the latest input type, rather than being set once based on peripherals.
+category: Input

@@ -1,0 +1,10 @@
+"description": |
+  The code below will check if a player that has entered the game has a rank
+  equal to 255, in a group with an ID of 2. If they are, it will print "Player
+  is the owner of the group, 'LOL'!", otherwise "Player is NOT the owner of the
+  group, 'LOL'!" will be printed to the output.
+"display_name": |-
+  How to Check a Player's Rank in a Group
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,6 @@
+display_name: Moving the Player relative to their Camera
+description: |
+  Demonstrates moving a player relative to their camera's position using `Class.Player:Move()`.
+
+  The script first waits for the player's Character and Humanoid to load, as both are required before calling `Class.Player:Move()`. Otherwise a warning will display in the Output.
+category: Movement

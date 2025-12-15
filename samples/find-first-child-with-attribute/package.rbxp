@@ -1,0 +1,9 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "find-first-child-with-attribute",
+        "tree": {
+            "$path": "package"
+        }
+    }
+}

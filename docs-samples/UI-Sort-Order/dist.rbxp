@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "UI-Sort-Order",
+		"tree": {
+			"UI-Sort-Order": {
+				"$path": "demo"
+			}
+		}
+	}
+}

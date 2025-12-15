@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Image-Animation-using-Spritesheet",
+		"tree": {
+			"Image-Animation-using-Spritesheet": {
+				"$path": "demo"
+			}
+		}
+	}
+}

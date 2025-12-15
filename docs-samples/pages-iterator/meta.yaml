@@ -1,0 +1,7 @@
+"description": "When each page in a `Class.Pages` object contains a list of multiple\
+  \ items, this \niterator function and its helper may be useful."
+"display_name": |-
+  Pages Iterator
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

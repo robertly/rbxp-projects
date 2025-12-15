@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "KeyframeSequence-Instantiation",
+		"tree": {
+			"KeyframeSequence-Instantiation": {
+				"$path": "demo"
+			}
+		}
+	}
+}

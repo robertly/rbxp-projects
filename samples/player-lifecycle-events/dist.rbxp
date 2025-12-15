@@ -1,0 +1,16 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "player-lifecycle-events",
+        "tree": {
+            "PlayerLifecycleEvents": {
+                "PlayerLifecycleScript": {
+                    "$path": "demo/PlayerLifecycleScript.server.lua",
+                    "$properties": {
+                        "RunContext": 1
+                    }
+                }
+            }
+        }
+    }
+}

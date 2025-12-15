@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "print-roblox-friends",
+		"tree": {
+			"print-roblox-friends": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "terrain-readvoxels-code-example",
+		"tree": {
+			"terrain-readvoxels-code-example": {
+				"$path": "demo"
+			}
+		}
+	}
+}

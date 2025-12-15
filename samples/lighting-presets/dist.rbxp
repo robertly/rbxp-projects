@@ -1,0 +1,23 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "lighting-presets",
+		"tree": {
+			"LightingPresets": {
+				"LightingPresets": {
+					"$path": "package.rbxp"
+				},
+				"Demo": {
+					"$path": "demo",
+					"DemoScript": {
+						"$className": "Script",
+						"$path": "demo/DemoScript.client.lua",
+						"$properties": {
+							"RunContext": 2
+						}
+					}
+				}
+			}
+		}
+	}
+}

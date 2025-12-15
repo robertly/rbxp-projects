@@ -1,0 +1,9 @@
+"description": |
+  This example checks if Roblox detects a VR device. If a VR device is detected,
+  this prints the name of the UserCFrame responsible for VR input. If not, this
+  example prints "No VR device detected!".
+"display_name": |-
+  VRService.GuiInputUserCFrame
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,127 @@
+{
+    "fileVersion": 1,
+    "placeFile": "empty.template.rbxl",
+    "instanceHierarchy": {
+        "name": "microgame",
+        "tree": {
+            "$className": "DataModel",
+            "Players": {
+                "$className": "Players",
+                "$properties": {
+                    "RespawnTime": 1,
+                    "CharacterAutoLoads": false,
+                    "UseStrafingAnimations": true
+                }
+            },
+            "ReplicatedStorage": {
+                "$className": "ReplicatedStorage",
+                "Source": {
+                    "$path": "src/ReplicatedStorage/Source"
+                },
+                "Dependencies": {
+                    "$className": "Folder",
+                    "Freeze": {
+                        "$path": "../../dependencies/freeze",
+                        "LICENSE": {
+                            "$className": "ModuleScript",
+                            "$path": "../../dependencies/freeze/LICENSE"
+                        }
+                    },
+                    "t": {
+                        "$path": "../../dependencies/t",
+                        "LICENSE": {
+                            "$className": "ModuleScript",
+                            "$path": "../../dependencies/t/LICENSE"
+                        }
+                    }
+                },
+                "Instances": {
+                    "$path": "instances/ReplicatedStorage/Instances"
+                }
+            },
+            "ServerScriptService": {
+                "$className": "ServerScriptService",
+                "$path": "src/ServerScriptService"
+            },
+            "ReplicatedFirst": {
+                "$className": "ReplicatedFirst",
+                "Source": {
+                    "$path": "src/ReplicatedFirst/Source"
+                },
+                "Instances": {
+                    "$path": "instances/ReplicatedFirst/Instances"
+                }
+            },
+            "ServerStorage": {
+                "$className": "ServerStorage",
+                "Source": {
+                    "$path": "src/ServerStorage/Source"
+                },
+                "Instances": {
+                    "$path": "instances/ServerStorage/Instances"
+                }
+            },
+            "StarterPlayer": {
+                "$className": "StarterPlayer",
+                "StarterPlayerScripts": {
+                    "$className": "StarterPlayerScripts",
+                    "$path": "src/StarterPlayerScripts"
+                },
+                "$properties": {
+                    "CharacterUseJumpPower": false
+                }
+            },
+            "SoundService": {
+                "$className": "SoundService",
+                "$path": "instances/SoundService",
+                "$properties": {
+                    "DefaultListenerLocation": "Camera"
+                }
+            },
+            "Workspace": {
+                "$className": "Workspace",
+                "World": {
+                    "$path": "instances/Workspace/World"
+                },
+                "Farms": {
+                    "$className": "Folder"
+                }
+            },
+            "Lighting": {
+                "$className": "Lighting",
+                "$path": "instances/Lighting",
+                "$properties": {
+                    "Ambient": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "OutdoorAmbient": [
+                        0.27450980392156865,
+                        0.27450980392156865,
+                        0.27450980392156865
+                    ],
+                    "ColorShift_Bottom": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "ColorShift_Top": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "Brightness": 0,
+                    "EnvironmentDiffuseScale": 0.5,
+                    "EnvironmentSpecularScale": 0.5,
+                    "GlobalShadows": true,
+                    "Outlines": false,
+                    "Technology": 2,
+                    "ClockTime": 14.5,
+                    "GeographicLatitude": 0,
+                    "ExposureCompensation": 0
+                }
+            }
+        }
+    }
+}

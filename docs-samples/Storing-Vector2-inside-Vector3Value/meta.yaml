@@ -1,0 +1,10 @@
+"description": |
+  This code sample demonstrates how it is possible to store a Vector2 within a
+  Vector3Value by converting a Vector2 into a Vector3 with a dummy Z value.
+  Similarly, you can load it by reconstructing the Vector2 from the X and Y
+  axes.
+"display_name": |-
+  Storing Vector2 inside Vector3Value
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

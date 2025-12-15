@@ -1,0 +1,8 @@
+display_name: Character Loaded Wrapper
+description: |
+  Provides an API to use when referencing a Player's character to make sure it is "Fully loaded", which is defined as:
+    1) Character is a descendant of workspace
+    2) Character has a PrimaryPart set
+    3) Character contains a child which is a Humanoid
+    4) The Humanoid's RootPart property is not nil
+category: Player & Character

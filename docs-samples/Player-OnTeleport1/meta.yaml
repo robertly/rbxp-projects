@@ -1,0 +1,8 @@
+"description": |
+  This example prints which stage of a teleport a player is at, as well as
+  printing if the teleport was a failure.
+"display_name": |-
+  Player.OnTeleport
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

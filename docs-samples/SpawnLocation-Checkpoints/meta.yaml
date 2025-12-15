@@ -1,0 +1,10 @@
+"description": |
+  This sample demonstrates how SpawnLocations can be used to make a checkpoint
+  system. Typically this would be done Studio and not in Lua, but this example
+  serves as a comprehensive example of what Team and SpawnLocation properties
+  need to be used to achieve this setup.
+"display_name": |-
+  SpawnLocation Checkpoints
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

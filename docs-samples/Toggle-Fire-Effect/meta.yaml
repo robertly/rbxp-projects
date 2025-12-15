@@ -1,0 +1,9 @@
+"description": |
+  This code sample allows a player to click the parent `BasePart` to toggle a
+  fire effect.
+"display_name": |-
+  Toggle Fire Effect
+"expected_output": |-
+  When run, ClickDetector, Fire and PointLight objects are added to the part. Upon clicking the part, the Fire and PointLight should toggle on or off.
+"highlight_lines": ""
+"category": Docs Sample

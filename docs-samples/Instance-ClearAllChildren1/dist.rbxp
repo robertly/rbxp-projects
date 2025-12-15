@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Instance-ClearAllChildren1",
+		"tree": {
+			"Instance-ClearAllChildren1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,8 @@
+"description": |
+  This code sample includes a function that will connect the given `BasePart`s
+  together with `Beam`s.
+"display_name": |-
+  Create a chain of beams between parts
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

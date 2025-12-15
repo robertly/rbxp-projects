@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "getting-country-region-code-for-a-player",
+		"tree": {
+			"getting-country-region-code-for-a-player": {
+				"$path": "demo"
+			}
+		}
+	}
+}

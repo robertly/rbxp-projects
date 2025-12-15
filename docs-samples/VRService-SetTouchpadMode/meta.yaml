@@ -1,0 +1,7 @@
+"description": "\u200BThis example sets the user's VRTouchpad.Left touchpad mode to\n\
+  TouchMode.Touch. This means that the left touchpad is treated as ButtonB.\n"
+"display_name": |-
+  VRService:SetTouchpadMode
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

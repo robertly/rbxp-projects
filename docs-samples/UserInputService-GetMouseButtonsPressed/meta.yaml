@@ -1,0 +1,11 @@
+"description": |
+  This example checks if the user pressed MouseButton1, MouseButton2, or both
+  mouse buttons on `Class.UserInputService.InputBegan|InputBegan()`.
+
+  The example can be extended to behave differently depending on which mouse
+  buttons are pressed.
+"display_name": |-
+  Check which MouseButtons are Pressed
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

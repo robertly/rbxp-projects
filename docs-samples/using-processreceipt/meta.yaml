@@ -1,0 +1,16 @@
+description: |
+  This code sample illustrates a
+  `Class.MarketplaceService.ProcessReceipt|ProcessReceipt()` callback function
+  for a game to handle purchasing of two developer products (you can add more as
+  needed). It properly checks for and records purchases using a
+  `GlobalDataStore` called "PurchaseHistory."
+
+  Most importantly, it properly returns
+  `Enum.ProductPurchaseDecision.PurchaseGranted` when the transaction is
+  successfully completed **or** if it's detected that the purchase has already
+  been granted using the "PurchaseHistory" data store.
+display_name: |-
+  ProcessReceipt Callback
+expected_output: ""
+highlight_lines: ""
+category: Docs Sample

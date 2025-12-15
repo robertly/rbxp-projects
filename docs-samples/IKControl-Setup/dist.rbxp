@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "IKControl-Setup",
+		"tree": {
+			"IKControl-Setup": {
+				"$path": "demo"
+			}
+		}
+	}
+}

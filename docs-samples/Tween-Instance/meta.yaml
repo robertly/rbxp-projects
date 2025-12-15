@@ -1,0 +1,8 @@
+"description": |
+  This code sample includes a simple function that will return true if the
+  instance of a tween is a Part.
+"display_name": |-
+  Tween Instance
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

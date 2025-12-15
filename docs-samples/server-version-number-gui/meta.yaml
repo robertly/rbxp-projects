@@ -1,0 +1,10 @@
+"description": |
+  This code sample will place a simple GUI in the `StarterGui` showing the place
+  version the server is running at.
+
+  To use this sample, place it inside a `Script` in `ServerScriptService`.
+"display_name": |-
+  Server version number GUI
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,4 @@
+display_name: Isometric Camera
+description: |
+  Demonstrates how to update a player's camera to create an Isometric Camera style. The camera updates every render step to ensure the camera maintains a constant distance from the player, as well as follows the player as they move.
+category: Camera

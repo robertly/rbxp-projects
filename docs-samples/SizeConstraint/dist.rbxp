@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "SizeConstraint",
+		"tree": {
+			"SizeConstraint": {
+				"$path": "demo"
+			}
+		}
+	}
+}

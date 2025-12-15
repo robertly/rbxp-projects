@@ -1,0 +1,15 @@
+"description": |
+  This code sample shows how you can create a `Datatype.Vector2` representing
+  the `Mouse` object's position on screen (`Class.Mouse.X|X()` and
+  `Class.Mouse.Y|Y()`) and the size of the screen itself
+  (`Class.Mouse.ViewSizeX|ViewSizeX()` and `Class.Mouse.ViewSizeY|ViewSizeY()`).
+  Using these, you can normalize the position of the mouse on-screen such that
+  the top-left just under the topbar maps to (0, 0) and the bottom-right maps to
+  (1, 1). This normalized position is calculated and printed as the mouse moves
+  using the `Class.Mouse.Move|Move()` event.
+"display_name": |-
+  Normalized Mouse Position
+"expected_output": |-
+  When run, moving your mouse will print its normalized position on-screen. Move your mouse toward the top left and you'll notice it gets closer to (0, 0). Move to the bottom right will get closer to (1, 1).
+"highlight_lines": ""
+"category": Docs Sample

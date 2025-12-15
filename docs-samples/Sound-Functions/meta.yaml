@@ -1,0 +1,9 @@
+"description": |
+  This sample gives a simple demonstration of what each of the Sound functions
+  (Sound.Play, Sound.Stop, Sound.Pause and Sound.Resume) do to Sound.Playing and
+  Sound.TimePosition.
+"display_name": |-
+  Sound Functions
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

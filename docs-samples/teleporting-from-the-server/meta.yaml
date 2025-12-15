@@ -1,0 +1,8 @@
+"description": |
+  This snippet demonstrates how `TeleportService` can be used to teleport a
+  `Player` from the server.
+"display_name": |-
+  Teleporting from the server
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

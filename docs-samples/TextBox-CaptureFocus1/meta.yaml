@@ -1,0 +1,8 @@
+"description": |
+  This code sample causes the client to focus on the parent `TextBox` when the
+  <kbd>Q</kbd> key is pressed by the player.
+"display_name": |-
+  TextBox:CaptureFocus
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

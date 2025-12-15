@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "generating-a-custom-proximity-prompt",
+		"tree": {
+			"generating-a-custom-proximity-prompt": {
+				"$path": "demo"
+			}
+		}
+	}
+}

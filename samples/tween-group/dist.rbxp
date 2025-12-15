@@ -1,0 +1,24 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "tween-group",
+        "tree": {
+            "TweenGroup": {
+                "TweenGroup": {
+                    "$path": "package.rbxp",
+                },
+                "Demo": {
+                    "Part": {
+                        "$path": "demo/Part.rbxm"
+                    },
+                    "DemoScript": {
+                        "$path": "demo/DemoScript.server.lua",
+                        "$properties": {
+                            "RunContext": 1
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

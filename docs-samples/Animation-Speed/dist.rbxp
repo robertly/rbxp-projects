@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Animation-Speed",
+		"tree": {
+			"Animation-Speed": {
+				"$path": "demo"
+			}
+		}
+	}
+}

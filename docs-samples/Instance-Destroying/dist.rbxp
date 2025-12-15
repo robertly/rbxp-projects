@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Instance-Destroying",
+		"tree": {
+			"Instance-Destroying": {
+				"$path": "demo"
+			}
+		}
+	}
+}

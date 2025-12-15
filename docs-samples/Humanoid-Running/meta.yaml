@@ -1,0 +1,6 @@
+display_name: Humanoid Running
+description: |
+  Demonstrates connecting to the `Class.Humanoid.Running` event. The event is connected to every player's humanoid that joins.
+
+  The function connected will print whether or not the humanoid is running based on the speed.
+category: Humanoid

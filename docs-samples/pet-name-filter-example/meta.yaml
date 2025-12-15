@@ -1,0 +1,13 @@
+"description": |
+  This code sample includes a simple demonstration of how
+  `Class.TextService:FilterStringAsync()` should be implemented in a system
+  where players are allowed to name their pets.
+
+  Note, this code sample includes the server-side implementation only (to be
+  placed in a `Script`). Examples of how to implement the client-side of this
+  system are included under the `RemoteEvent` and `RemoteFunction` examples.
+"display_name": |-
+  Pet Name Filter Example
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

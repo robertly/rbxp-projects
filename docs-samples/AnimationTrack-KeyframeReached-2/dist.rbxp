@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "AnimationTrack-KeyframeReached-2",
+		"tree": {
+			"AnimationTrack-KeyframeReached-2": {
+				"$path": "demo"
+			}
+		}
+	}
+}

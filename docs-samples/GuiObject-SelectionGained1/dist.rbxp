@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "GuiObject-SelectionGained1",
+		"tree": {
+			"GuiObject-SelectionGained1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

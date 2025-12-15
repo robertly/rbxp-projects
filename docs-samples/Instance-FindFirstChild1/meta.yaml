@@ -1,0 +1,8 @@
+"description": |
+  The below would look in Workspace for an object name "Brick". If found, it
+  will change the name of the object to "Foo".
+"display_name": |-
+  Instance:FindFirstChild
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

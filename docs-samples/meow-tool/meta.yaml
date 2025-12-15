@@ -1,0 +1,12 @@
+"description": |
+  The code below inserts a `Tool` into the
+  `Class.Players.LocalPlayer|LocalPlayer's` `Backpack` that cannot be dropped
+  because it's `Class.Tool.CanBeDropped` property is set to `false`.
+
+  When the user clicks their left mouse button, the tool is activated and the
+  script prints "Meow".
+"display_name": |-
+  Meow Tool
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

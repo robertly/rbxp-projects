@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "AnchorPoint-Demo",
+		"tree": {
+			"AnchorPoint-Demo": {
+				"$path": "demo"
+			}
+		}
+	}
+}

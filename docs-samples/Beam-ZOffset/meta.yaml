@@ -1,0 +1,8 @@
+"description": |
+  This code sample uses the `Class.Beam.ZOffset` property to layer multiple
+  `Beam`s between the same `Attachment`s.
+"display_name": |-
+  Layering Beams
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "R15-Package-Importer",
+		"tree": {
+			"R15-Package-Importer": {
+				"$path": "demo"
+			}
+		}
+	}
+}

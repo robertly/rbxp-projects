@@ -1,0 +1,7 @@
+"description": |
+  Set the base URL from the command bar:
+"display_name": |-
+  ContentProvider:SetBaseUrl
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

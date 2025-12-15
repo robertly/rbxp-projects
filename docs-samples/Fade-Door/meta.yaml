@@ -1,0 +1,8 @@
+"description": |
+  This code sample shows how a part can fade away when touched by a Humanoid
+  then reappear a moment after to create a passable door.
+"display_name": |-
+  Fade Door
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

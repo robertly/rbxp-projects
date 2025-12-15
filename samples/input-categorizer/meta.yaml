@@ -1,0 +1,3 @@
+display_name: Input Categorizer
+description: The InputCategorizer module categorizes various UserInputTypes (MouseButton1, MouseButton2, Gamepad1/2/3, etc.) into more manageable categories and provides an event for when the last input category changes, rather than last UserInputType.
+category: Input

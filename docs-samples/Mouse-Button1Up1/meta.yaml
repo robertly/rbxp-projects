@@ -1,0 +1,12 @@
+"description": |
+  The follow example changes the `Class.BasePart.BrickColor` of every `BasePart`
+  the player clicks and releases their mouse on.
+
+  In order for a part to change color, the player's mouse must be over the part
+  both when the player presses their left mouse button down and when the player
+  releases their left mouse button.
+"display_name": |-
+  Color Randomizer Tool (Button1Up)
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

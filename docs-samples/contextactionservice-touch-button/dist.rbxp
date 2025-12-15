@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "contextactionservice-touch-button",
+		"tree": {
+			"contextactionservice-touch-button": {
+				"$path": "demo"
+			}
+		}
+	}
+}

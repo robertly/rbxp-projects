@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "following-a-player-in-a-universe",
+		"tree": {
+			"following-a-player-in-a-universe": {
+				"$path": "demo"
+			}
+		}
+	}
+}

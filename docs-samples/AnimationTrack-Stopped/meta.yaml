@@ -1,0 +1,8 @@
+"description": |
+  The function in this code sample will play an animationTrack and yield until
+  it has stopped, before printing.
+"display_name": |-
+  AnimationTrack Stopped
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

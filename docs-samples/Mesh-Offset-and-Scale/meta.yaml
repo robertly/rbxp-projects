@@ -1,0 +1,9 @@
+"description": |
+  In this code sample a `BasePart` is instanced with a `SpecialMesh`. The
+  `Class.DataModelMesh.Scale` and `Class.DataModelMesh.Offset` properties of the
+  `SpecialMesh` are then animated using `TweenService`.
+"display_name": |-
+  Mesh Offset and Scale
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

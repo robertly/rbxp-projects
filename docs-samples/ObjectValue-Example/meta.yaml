@@ -1,0 +1,8 @@
+"description": |
+  This code sample creates an ObjectValue in the Workspace which holds a
+  reference to an object in the workspace named "Baseplate".
+"display_name": |-
+  ObjectValue Example
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

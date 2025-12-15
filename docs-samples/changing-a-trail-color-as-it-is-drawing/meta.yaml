@@ -1,0 +1,14 @@
+"description": |
+  This example changes the color of the trail as it is being drawn. Initially,
+  the color of the trail is set to blue (`Color3.new(0,255,255)`). After waiting
+  for _1.5_ seconds, the color of the trail is set to red
+  (`Color3.new(255,0,0)`).
+
+  The gif below displays what the output of the example should look like.
+
+  ![Trail color switch from blue to red.](/assets/legacy/TextureColorSwitch.gif)
+"display_name": |-
+  Changing a Trail Color As It Is Drawing
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

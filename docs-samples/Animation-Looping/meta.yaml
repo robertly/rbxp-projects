@@ -1,0 +1,9 @@
+"description": |
+  The animation in this example normally loops. After the player and the
+  animation are loaded the animation is played in a non-looped fashion then in a
+  looped fashion.
+"display_name": |-
+  Animation Looping
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

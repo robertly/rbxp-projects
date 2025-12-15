@@ -1,0 +1,8 @@
+"description": |
+  The following would open a newly created `Script` in Workspace, assuming the
+  variable "Plugin" was already declared.
+"display_name": |-
+  Plugin:OpenScript
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

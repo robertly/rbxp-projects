@@ -1,0 +1,4 @@
+display_name: Create Instance Tree
+description: |
+  Creates instances with given properties based on the given tree data table. This streamlines the tedious process of calling Instance.new and setting each property by creating a table of properties and a ClassName instead.
+category: Utility

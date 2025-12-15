@@ -1,0 +1,9 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "beam-between",
+        "tree": {
+            "$path": "package"
+        }
+    }
+}

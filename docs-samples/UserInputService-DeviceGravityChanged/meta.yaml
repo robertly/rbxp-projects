@@ -1,0 +1,12 @@
+"description": |
+  This code adds a force on a part so that it falls in the direction of actual
+  gravity relative to the user's device.
+
+  In order for this example to work as expected, it must be placed in a
+  `LocalScript` and the user's device must have an
+  `Class.UserInputService.AccelerometerEnabled|accelerometer`.
+"display_name": |-
+  Move a Ball using the Accelerometer
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

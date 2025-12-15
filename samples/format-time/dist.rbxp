@@ -1,0 +1,24 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "format-time",
+        "tree": {
+            "FormatTime": {
+                "formatTime": {
+                    "$path": "package.rbxp"
+                },
+                "Demo": {
+                    "TimerDisplay": {
+                        "$path": "demo/TimerDisplay.rbxm"
+                    },
+                    "DemoScript": {
+                        "$path": "demo/DemoScript.server.lua",
+                        "$properties": {
+                            "RunContext": 1
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

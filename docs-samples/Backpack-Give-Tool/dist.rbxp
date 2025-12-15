@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Backpack-Give-Tool",
+		"tree": {
+			"Backpack-Give-Tool": {
+				"$path": "demo"
+			}
+		}
+	}
+}

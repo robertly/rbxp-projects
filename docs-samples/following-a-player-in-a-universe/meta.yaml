@@ -1,0 +1,11 @@
+"description": |
+  The code sample below, when placed inside a `Script` within
+  `ServerScriptService`, will teleport a player who's following another player
+  to the associated place/server. Note that this will not work if the player
+  being followed is in a reserved server.
+"display_name": |-
+  Following Another Player
+"expected_output": ""
+"highlight_lines": |
+  14
+"category": Docs Sample

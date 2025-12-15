@@ -1,0 +1,8 @@
+"description": |
+  The example shown below will print "Focus was lost because enter was pressed!"
+  whenever the TextBox loses focus as a result of the enter key being pressed.
+"display_name": |-
+  TextBox.FocusLost1
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

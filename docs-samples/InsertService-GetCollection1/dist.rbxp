@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "InsertService-GetCollection1",
+		"tree": {
+			"InsertService-GetCollection1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

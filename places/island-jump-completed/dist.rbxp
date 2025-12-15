@@ -1,0 +1,58 @@
+{
+    "fileVersion": 1,
+    "placeFile": "terrain.template.rbxl",
+    "instanceHierarchy": {
+        "name": "island-jump-completed",
+        "tree": {
+            "$className": "DataModel",
+            "ReplicatedStorage": {
+                "$className": "ReplicatedStorage",
+                "$path": "src/ReplicatedStorage",
+                "Instances": {
+                    "$path": "instances/ReplicatedStorage"
+                }
+            },
+            "ServerScriptService": {
+                "$className": "ServerScriptService",
+                "$path": "src/ServerScriptService"
+            },
+            "ServerStorage": {
+                "$className": "ServerStorage",
+                "$path": "src/ServerStorage",
+                "Leaderboard": {
+                    "$path": "../../samples/leaderboard/package.rbxp"
+                },
+            },
+            "StarterPlayer": {
+                "$className": "StarterPlayer",
+                "$properties": {
+                    "CharacterUseJumpPower": true
+                }
+            },
+            "MaterialService": {
+                "$className": "MaterialService",
+                "$path": "instances/MaterialService"
+            },
+            "Workspace": {
+                "$className": "Workspace",
+                "World": {
+                    "$path": "instances/Workspace/World"
+                }
+            },
+            "Lighting": {
+                "$className": "Lighting",
+                "$path": "instances/Lighting",
+                "$properties": {
+                    "Ambient": [0.06274509803, 0.06274509803, 0.06274509803],
+                    "ColorShift_Top": [0.76862745098, 0.87058823529, 1],
+                    "OutdoorAmbient": [0.52549019607, 0.61960784313, 0.74509803921],
+                    "ShadowSoftness": 0,
+                    "Outlines": false,
+                    "Technology": 4,
+                    "ClockTime": 9,
+                    "GeographicLatitude": 78,
+                }
+            }
+        }
+    }
+}

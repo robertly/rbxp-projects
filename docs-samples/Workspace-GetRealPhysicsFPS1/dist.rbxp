@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Workspace-GetRealPhysicsFPS1",
+		"tree": {
+			"Workspace-GetRealPhysicsFPS1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

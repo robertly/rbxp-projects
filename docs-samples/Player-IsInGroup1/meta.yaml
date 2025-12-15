@@ -1,0 +1,8 @@
+"description": |
+  The below example will print "Player is in the Roblox Fan club!" if the newly
+  added player is in the group with a groupId of 7.
+"display_name": |-
+  How to Check if a Player is in a Group
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

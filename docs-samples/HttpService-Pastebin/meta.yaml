@@ -1,0 +1,21 @@
+"description": |
+  Pastebin.com is a website that allows users to paste text (usually source
+  code) for others to view publicly. This code sample uses HttpService PostAsync
+  and the pastebin web API to automatically create a new public paste on the
+  website. Since pastebin's API is designed to take data in as a URL encoded
+  string, the code uses a for-loop to turn the `dataFields` table into a URL
+  encoded string, such as hello=world&foo=bar. This is used as the HTTP POST
+  data.
+
+  Test this code by first going to
+  [pastebin.com/api#1](https://pastebin.com/api#1) and getting an API key
+  (you'll need a pastebin account to do this). Then, paste your unique developer
+  API key into the field `api_dev_key` in the code sample's `dataFields` table.
+  Fill in any other information about the post you want to make, then run this
+  code in a Script (not a LocalScript). If all goes well, you'll get a URL to
+  your new paste in the Output window (or some error string from pastebin).
+"display_name": |-
+  New Pastebin Post
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

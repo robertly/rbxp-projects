@@ -1,0 +1,10 @@
+"description": |
+  This example demonstrates how to use the
+  `AnalyticsService:FirePlayerProgressionEvent` function to trigger an analytics
+  progression event. When a player touches the parent `Part`, a _wisdomStone_,
+  the function is fired as a _LevelUp_ event.
+"display_name": |-
+  Analytics Event - Progression
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

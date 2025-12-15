@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "get-player-by-user-id",
+		"tree": {
+			"get-player-by-user-id": {
+				"$path": "demo"
+			}
+		}
+	}
+}

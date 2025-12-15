@@ -1,0 +1,4 @@
+display_name: Filling a Ball of Terrain
+description: |
+  `Class.Terrain:FillBall()` creates a ball of terrain given a center position, ball radius, and terrain materials.
+category: Terrain

@@ -1,0 +1,9 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "retry-async",
+		"tree": {
+			"$path": "package"
+		}
+	}
+}

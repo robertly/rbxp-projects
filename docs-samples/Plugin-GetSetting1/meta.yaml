@@ -1,0 +1,8 @@
+"description": |
+  The below example would print the value saved to the key FirstTime. If the key
+  doesn't exist, it would print nil.
+"display_name": |-
+  Plugin:GetSetting
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

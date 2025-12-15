@@ -1,0 +1,4 @@
+display_name: Change Part Color On Touch
+description: |
+  Demonstrates changing the color of a part upon being touched by a player's character. The color change is debounced to ensure the Touched event does not trigger a color change too quickly. The part's color is randomly set using math.random.
+category: Player & Character

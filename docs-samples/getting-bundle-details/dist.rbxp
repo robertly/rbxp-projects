@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "getting-bundle-details",
+		"tree": {
+			"getting-bundle-details": {
+				"$path": "demo"
+			}
+		}
+	}
+}

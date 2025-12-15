@@ -1,0 +1,21 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "leader-election",
+		"tree": {
+			"LeaderElection": {
+				"LeaderElection": {
+					"$path": "package.rbxp"
+				},
+				"Demo": {
+					"DemoScript": {
+						"$path": "demo/DemoScript.server.lua",
+						"$properties": {
+							"RunContext": 1
+						}
+					}
+				}
+			}
+		}
+	}
+}

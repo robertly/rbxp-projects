@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Creating-a-Beam-From-Scratch",
+		"tree": {
+			"Creating-a-Beam-From-Scratch": {
+				"$path": "demo"
+			}
+		}
+	}
+}

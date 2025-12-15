@@ -1,0 +1,9 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "following-attachment",
+        "tree": {
+            "$path": "package"
+        }
+    }
+}

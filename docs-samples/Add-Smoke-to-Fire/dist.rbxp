@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Add-Smoke-to-Fire",
+		"tree": {
+			"Add-Smoke-to-Fire": {
+				"$path": "demo"
+			}
+		}
+	}
+}

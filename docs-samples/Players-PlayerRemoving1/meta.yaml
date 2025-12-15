@@ -1,0 +1,8 @@
+"description": |
+  This code will print "A player has left: ", followed by the player's name,
+  every time a player leaves:
+"display_name": |-
+  Players.PlayerRemoving
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

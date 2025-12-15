@@ -1,0 +1,8 @@
+"description": |
+  This code sample sets a parent TextLabel's Font and Text properties to all the
+  different fonts available.
+"display_name": |-
+  Cycle Font
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

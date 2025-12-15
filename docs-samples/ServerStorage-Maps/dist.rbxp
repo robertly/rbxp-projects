@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "ServerStorage-Maps",
+		"tree": {
+			"ServerStorage-Maps": {
+				"$path": "demo"
+			}
+		}
+	}
+}

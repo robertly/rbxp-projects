@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Sound-IsPlaying-IsPaused",
+		"tree": {
+			"Sound-IsPlaying-IsPaused": {
+				"$path": "demo"
+			}
+		}
+	}
+}

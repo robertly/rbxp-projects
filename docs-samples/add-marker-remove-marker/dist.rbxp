@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "add-marker-remove-marker",
+		"tree": {
+			"add-marker-remove-marker": {
+				"$path": "demo"
+			}
+		}
+	}
+}

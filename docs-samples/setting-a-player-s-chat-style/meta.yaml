@@ -1,0 +1,12 @@
+"description": |
+  This example demonstrates that the `Class.Players:SetChatStyle()` function
+  executes without error if using the Command Bar or a Plugin and errors if
+  executed in a `LocalScript`.
+
+  When executed in the Command Bar, this code sets the chat style to Classic
+  using the `Enum.ChatStyle` enum.
+"display_name": |-
+  Setting a Player's Chat Style
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

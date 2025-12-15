@@ -1,0 +1,14 @@
+"description": |
+  This code sample causes any `BasePart` with the tag "Deadly" to kill any
+  `Humanoid` that touches it. It does this using a common pattern with
+  `CollectionService`: listen for all parts with the tag, and make a connection.
+  When the tag is removed, disconnect. Instead of copying the same kill script
+  into many bricks, use this pattern instead!
+"display_name": |-
+  Deadly Bricks using CollectionService
+"expected_output": |-
+  Try tagging a part using `CollectionService` by pasting this into the Command bar:
+  `game:GetService("CollectionService"):AddTag(workspace.Part, "Deadly")`
+  Then, when you press Play and touch the brick with your character they should die.
+"highlight_lines": ""
+"category": Docs Sample

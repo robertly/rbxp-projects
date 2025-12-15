@@ -1,0 +1,9 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "admin-commands",
+		"tree": {
+			"$path": "package"
+		}
+	}
+}

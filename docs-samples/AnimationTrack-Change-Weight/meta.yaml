@@ -1,0 +1,13 @@
+"description": |
+  This code sample includes a function that changes the weight of an
+  AnimationTrack and yields until the weight has changed to the new target
+  weight.
+
+  The purpose of this sample is to demonstrate how the fadeTime parameter of
+  AnimationTrack.ChangeWeight works. In most cases, if a developer wishes to
+  yield over the fadeTime it is recommended they use wait(fadeTime).
+"display_name": |-
+  AnimationTrack Change Weight
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

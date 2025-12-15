@@ -1,0 +1,12 @@
+"description": |
+  This example demonstrates that the `Class.Players:TeamChat()` function
+  executes without error if using the Command Bar or a Plugin and errors if
+  executed in a `LocalScript`.
+
+  When executed in the Command Bar, the function sends the specified message to
+  all players on the same `Team` as the `Class.Players.LocalPlayer`.
+"display_name": |-
+  Sending Team Chat
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

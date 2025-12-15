@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "checking-for-touching-parts",
+		"tree": {
+			"checking-for-touching-parts": {
+				"$path": "demo"
+			}
+		}
+	}
+}

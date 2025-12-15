@@ -1,0 +1,12 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "character-loaded-wrapper",
+        "tree": {
+            "$path": "package",
+            "Signal": {
+                "$path": "../signal/package.rbxp"
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "GroupService-GetGroupInfoAsync1",
+		"tree": {
+			"GroupService-GetGroupInfoAsync1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

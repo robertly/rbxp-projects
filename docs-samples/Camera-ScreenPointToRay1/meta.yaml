@@ -1,0 +1,9 @@
+"description": |
+  This example creates a cube facing centered at the origin of the Ray returned
+  and facing in the same direction. The center of the cube will be one stud in
+  front of the camera.
+"display_name": |-
+  Creating a Cube In-game Using the Mouse Position on Screen
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

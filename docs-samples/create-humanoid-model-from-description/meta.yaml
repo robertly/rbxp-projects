@@ -1,0 +1,9 @@
+"description": |
+  This code sample creates a Humanoid Model from the passed in
+  HumanoidDescription and parents the Model to the Workspace.
+"display_name": |-
+  Create Humanoid Model From Description
+"expected_output": |-
+  When run, a Model is created and parented to the Workspace.
+"highlight_lines": ""
+"category": Docs Sample

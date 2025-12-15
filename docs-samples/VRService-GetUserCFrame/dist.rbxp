@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "VRService-GetUserCFrame",
+		"tree": {
+			"VRService-GetUserCFrame": {
+				"$path": "demo"
+			}
+		}
+	}
+}

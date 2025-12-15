@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "AnimationController",
+		"tree": {
+			"AnimationController": {
+				"$path": "demo"
+			}
+		}
+	}
+}

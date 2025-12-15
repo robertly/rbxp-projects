@@ -1,0 +1,21 @@
+description: |
+  This example demonstrates how to set a `Humanoid`'s
+  `Class.Humanoid.DisplayerDistanceType`,
+  `Class.Humanoid.HealthDisplayDistance`, and
+  `Class.Humanoid.NameDisplayDistance` properties. These properties determine
+  how a humanoid's health bar and name are rendered for a player.
+
+  First, we change the DisplayDistanceType to Subject using
+  `Enum.HumanoidDisplayDistanceType`. When set to subject, the humanoid's Name
+  and health bar will be displayed based on the humanoid's own distance settings.
+
+  Then, the humanoid's HealthDisplayDistance is set to 0. Setting the property
+  to 0 hides the health bar completely. It is not displayed at any distance.
+
+  Finally, the humanoid's NameDisplayDistance is set to 20. This means that the
+  humanoid's name will be visible to other humanoid's within 20 studs.
+display_name: |-
+  Displaying a Humanoid's Health and Name
+expected_output: ""
+highlight_lines: ""
+category: Docs Sample

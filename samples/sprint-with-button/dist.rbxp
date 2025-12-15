@@ -1,0 +1,17 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "sprint-with-shift",
+        "tree": {
+            "SprintWithButton": {
+                "SprintWithButton": {
+                    "$className": "Script",
+                    "$path": "demo/SprintWithButton.client.lua",
+                    "$properties": {
+                        "RunContext": 2
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+"description": |
+  The following sample will require a one second cooldown after a `Humanoid` has
+  landed before it is able to jump again.
+
+  To try this sample, place it inside a `LocalScript` in
+  `StarterCharacterScripts|StarterPlayer.StarterCharacterScripts`.
+"display_name": |-
+  Jump Cooldown
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,12 @@
+"description": |
+  This code sample is for a studio `Plugin`. The plugin creates a
+  `PluginToolbarButton` which randomizes the
+  `Class.BasePart.BrickColor|BrickColor()` of each selected part using
+  `BrickColor.random()`. Furthermore, the button is only enabled if at least one
+  part is selected. It does this by detecting changes in the `Selection` using
+  `Class.Selection.SelectionChanged`.
+"display_name": |-
+  BrickColor Randomizer Plugin
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,4 @@
+display_name: Character Path Beam
+description: |
+  Creates a guiding beam from the bottom of the local character to a destination attachment. Useful for guiding players towards objectives in order to progress.
+category: Player & Character

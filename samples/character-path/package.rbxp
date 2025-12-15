@@ -1,0 +1,15 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "character-path",
+        "tree": {
+            "$path": "package",
+            "CharacterLoadedWrapper": {
+                "$path": "../character-loaded-wrapper/package.rbxp"
+            },
+            "BeamBetween": {
+                "$path": "../beam-between/package.rbxp"
+            }
+        }
+    }
+}

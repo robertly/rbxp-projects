@@ -1,0 +1,9 @@
+"description": |
+  The example below generates a custom `ProximityPrompt` UI similar to the
+  default style, which you may use as a starting point. It should be used in a
+  `LocalScript`.
+"display_name": |-
+  Generating a Custom Proximity Prompt
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

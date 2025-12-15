@@ -1,0 +1,3 @@
+display_name: Cloud Config
+description: Demonstrates a cloud configuration system where flag values can be set in DataStore and are automatically polled for updates by live servers.
+category: Cloud Services

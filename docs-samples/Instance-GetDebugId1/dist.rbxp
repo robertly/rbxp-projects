@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Instance-GetDebugId1",
+		"tree": {
+			"Instance-GetDebugId1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,18 @@
+"description": |
+  The following code sample is used in the default gamepad script, so if you are
+  using the default controls you do not need to worry about this. If you are
+  creating a custom script for handling gamepad controls, this is a good
+  template for retrieving which `Enum.UserInputType|gamepad enum` you should use
+  as the primary gamepad controller.
+
+  This code looks for the lowest numbered
+  `Class.UserInputService:GetNavigationGamepad()|navigation gamepad`, and if no
+  navigation gamepad is found, finds the lowest numbered
+  `Class.UserInputService:GetConnectedGamepad()|connected gamepad`. If there is
+  no connected gamepad, we default to gamepad1. This ensures at least some
+  gamepad will be able to do controls.
+"display_name": |-
+  How to Use the Right Gamepad for Input
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

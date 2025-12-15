@@ -1,0 +1,7 @@
+display_name: Island Jump - Final
+description: |
+  This is the sample place file for the Polishing section of the Core tutorial curriculum. At this stage in the process, the experience contains:
+  * All scripting logic for a coin collection mechanic, recording and displaying player data, creating player hazards, and displaying an upgrade button that players click to exchange coins for jumping power to navigate to taller platforms.
+  * Custom lighting and visual effects, such as a glowing flare and floating dust particles.
+  * Polished assets for the sea stack rock formations, platforms, coins, and mountains.
+category: Tutorial Places

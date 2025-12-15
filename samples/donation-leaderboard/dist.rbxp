@@ -1,0 +1,41 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "donation-leaderboard",
+        "tree": {
+            "DonationLeaderboard": {
+                "Client": {
+                    "$className": "Script",
+                    "$path": "demo/Client",
+                    "$properties": {
+                        "RunContext": 2
+                    }
+                },
+                "Server": {
+                    "$className": "Script",
+                    "$path": "demo/Server",
+                    "$properties": {
+                        "RunContext": 1
+                    },
+                    "retryAsync": {
+                        "$path": "../../samples/retry-async/package.rbxp"
+                    }
+                },
+                "DonationProducts": {
+                    "$path": "demo/DonationProducts.lua"
+                },
+                "Instances": {
+                    "DisplayFrame": {
+                        "$path": "demo/Instances/DisplayFrame.rbxm"
+                    },
+                    "ProductButton": {
+                        "$path": "demo/Instances/ProductButton.rbxm"
+                    }
+                },
+                "Leaderboard": {
+                    "$path": "demo/Leaderboard.rbxm"
+                }
+            }
+        }
+    }
+}

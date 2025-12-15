@@ -1,0 +1,9 @@
+"description": |
+  In this example the walkspeed of any player joining the game will be slowed to
+  0 over 10 seconds using a Tween. The Completed event is used to reset the
+  walkspeed after the Tween has finished playing.
+"display_name": |-
+  Tween Completed
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

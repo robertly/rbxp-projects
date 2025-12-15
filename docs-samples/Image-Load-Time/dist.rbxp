@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Image-Load-Time",
+		"tree": {
+			"Image-Load-Time": {
+				"$path": "demo"
+			}
+		}
+	}
+}

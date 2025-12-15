@@ -1,0 +1,10 @@
+"description": |
+  This example demonstrates how to get a dictionary of a player's online
+  friends. It returns the maximum number of friends specified by the argument,
+  or 200 if an argument is not provided.
+"display_name": |-
+  Get a List of Online Friends
+"expected_output": ""
+"highlight_lines": |
+  4
+"category": Docs Sample

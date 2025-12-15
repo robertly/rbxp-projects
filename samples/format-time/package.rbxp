@@ -1,0 +1,9 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "format-time",
+        "tree": {
+            "$path": "package"
+        }
+    }
+}

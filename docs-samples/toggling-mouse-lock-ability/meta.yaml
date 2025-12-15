@@ -1,0 +1,15 @@
+"description": |
+  This code sample demonstrates how to toggle whether mouse lock is available to
+  a player using a chat command. When a player types "mouselock", their ability
+  to toggle mouse lock is toggled. Note that this does **not** toggle the actual
+  state of mouse lock; rather, it changes whether a player is **able** to toggle
+  it themselves.
+
+  This code can be run by pasting it into a `Script` within
+  `ServerScriptService`.
+"display_name": |-
+  Toggling Mouse Lock Ability
+"expected_output": ""
+"highlight_lines": |
+  5, 7
+"category": Docs Sample

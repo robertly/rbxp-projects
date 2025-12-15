@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "does-a-tool-requirehandle",
+		"tree": {
+			"does-a-tool-requirehandle": {
+				"$path": "demo"
+			}
+		}
+	}
+}

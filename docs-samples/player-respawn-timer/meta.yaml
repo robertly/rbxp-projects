@@ -1,0 +1,19 @@
+"description": |
+  This example demonstrates one possible usage of the
+  `Class.Players.CharacterAutoLoads` property.
+
+  The example below respawns all players in the game, if dead, once every 10
+  seconds. This means that players who die 1 second after all players respawn
+  must wait 9 seconds until the script loads all `Class.Player.Character` again.
+
+  First, this script removes a player's character when they die and the
+  `Class.Humanoid.Died` function fires. This is done so that the respawn loop
+  that executes every 10 seconds reloads that player when it does not find the
+  player's character in the Workspace.
+
+  To work as expected, this example should be run within a `Script`.
+"display_name": |-
+  Player Respawn Timer
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

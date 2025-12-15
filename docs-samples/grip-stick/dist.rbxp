@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "grip-stick",
+		"tree": {
+			"grip-stick": {
+				"$path": "demo"
+			}
+		}
+	}
+}

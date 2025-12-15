@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Emoji-in-Text",
+		"tree": {
+			"Emoji-in-Text": {
+				"$path": "demo"
+			}
+		}
+	}
+}

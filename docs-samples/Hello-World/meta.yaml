@@ -1,0 +1,11 @@
+"description": |
+  A Lua example of the classic [hello world program][1]. When run, it displays
+  the simple message to the Output in Roblox Studio. By default, Script and
+  LocalScript objects contain this code when they are first created.
+
+  [1]: https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
+"display_name": |-
+  Hello World
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

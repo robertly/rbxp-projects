@@ -1,0 +1,19 @@
+"description": |
+  This example demonstrates how to hide other `Humanoid`'s (`Player` and NPC)
+  health bars and names.
+
+  This is done by setting the player's `Class.Player.HealthDisplayDistance` and
+  `Class.Player.NameDisplayDistance` properties to 0.
+
+  If you would like to display health bars and names, you set the properties to
+  a value greater than 0. For instance, setting the properties to 100 means that
+  the player will see other player's health and names up to 100 studs away.
+
+  To modify the default values for players, you can change the values of the
+  `StarterClass.Player.HealthDisplayDistance` and
+  `StarterClass.Player.NameDisplayDistance` properties.
+"display_name": |-
+  Hiding Player Health and Names
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Beam-Chain",
+		"tree": {
+			"Beam-Chain": {
+				"$path": "demo"
+			}
+		}
+	}
+}

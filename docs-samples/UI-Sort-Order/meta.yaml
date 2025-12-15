@@ -1,0 +1,8 @@
+"description": |
+  This code sample demonstrates sorting data using
+  `Class.UIGridStyleLayout.SortOrder` and `Class.GuiObject.LayoutOrder`.
+"display_name": |-
+  UI Sort Order
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

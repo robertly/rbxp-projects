@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "creating-a-part-with-a-basic-trail",
+		"tree": {
+			"creating-a-part-with-a-basic-trail": {
+				"$path": "demo"
+			}
+		}
+	}
+}

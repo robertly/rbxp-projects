@@ -1,0 +1,13 @@
+"description": |
+  This code sample demonstrates how `GroupService` and
+  `Class.Player:IsInGroup()` can be used to determine whether a player is a
+  member of a group, or any of its allies or enemies.
+
+  Note as `Class.GroupService:GetAlliesAsync()` and
+  `Class.GroupService:GetEnemiesAsync()` use `StandardPages` objects a utility
+  function is used to convert them to allies.
+"display_name": |-
+  Group Ally/Enemy Checker
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

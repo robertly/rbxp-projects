@@ -1,0 +1,20 @@
+"description": |
+  This example fires a `Class.RemoteEvent:FireServer()|RemoveEvent` to the
+  server name _AfkEvent_ when the `LocalPlayer`'s client gains or loses focus.
+
+  The purpose of this code sample is to fire a server-side event to indicate
+  when the player is AFK. This is indicated by spawning a `ForceField` around
+  the player when the client loses focus and
+  `Class.Instance:Destroy()|destroying` the forcefield when the client gains
+  focus.
+
+  In order for this example to work as expected, the code labelled _LocalScript_
+  must be placed in a `LocalScript` and the code labelled _Script_ must be
+  placed in a `Script`. This sample is a Script which should be run in
+  conjunction with the LocalScript code sample: Window Focus AFK Script
+  (LocalScript)
+"display_name": |-
+  Window Focus AFK Script (Script)
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

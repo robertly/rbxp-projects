@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "ScriptDocument-SelectionChanged-GetLine",
+		"tree": {
+			"ScriptDocument-SelectionChanged-GetLine": {
+				"$path": "demo"
+			}
+		}
+	}
+}

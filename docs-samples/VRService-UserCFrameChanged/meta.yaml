@@ -1,0 +1,8 @@
+"description": "\u200BThis event fires when the user moves a connected VR device.\
+  \ When the event\nfires, this prints the name of the VR device type that changed,\
+  \ and the\nupdated CFrame coordinates.\n"
+"display_name": |-
+  VRService.UserCFrameChanged
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Terrain-PasteRegion",
+		"tree": {
+			"Terrain-PasteRegion": {
+				"$path": "demo"
+			}
+		}
+	}
+}

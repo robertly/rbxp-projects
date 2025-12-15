@@ -1,0 +1,13 @@
+"description": |
+  This simple function will verify a Sound has loaded by checking the
+  Sound.IsLoaded property. If Sound.IsLoaded is false it will wait for the
+  Loaded event before resuming.
+
+  It is important to check Sound.IsLoaded before connecting to the Sound.Loaded
+  event, as if the sound has already loaded the Sound.Loaded event will not fire
+  and the function will yield indefinitely.
+"display_name": |-
+  Load Sound
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

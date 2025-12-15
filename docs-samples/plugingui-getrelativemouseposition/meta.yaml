@@ -1,0 +1,8 @@
+"description": |-
+  PluginGui:GetRelativeMousePosition
+"display_name": |-
+  PluginGui:GetRelativeMousePosition
+"expected_output": ""
+"highlight_lines": |
+  13
+"category": Docs Sample

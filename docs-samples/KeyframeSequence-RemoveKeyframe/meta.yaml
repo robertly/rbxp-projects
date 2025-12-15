@@ -1,0 +1,9 @@
+"description": |
+  This sample adds a Keyframe to a KeyframeSequence before removing it and
+  adding it again. Note that once a Keyframe is removed it is not destroyed,
+  meaning it can be re-added later.
+"display_name": |-
+  KeyframeSequence RemoveKeyframe
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

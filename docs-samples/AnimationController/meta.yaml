@@ -1,0 +1,12 @@
+"description": |
+  This code sample demonstrates how an `AnimationController` can be used in
+  place of a `Humanoid` for non player character objects.
+
+  A basic rig is loaded using `InsertService` and the default `Humanoid` is
+  replaced with an `AnimationController`. An `AnimationTrack` is then created
+  and played.
+"display_name": |-
+  Using an AnimationController to animation non-player objects
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

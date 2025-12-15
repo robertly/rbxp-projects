@@ -1,0 +1,20 @@
+{
+    "fileVersion": 1,
+    "placeFile": "terrain.template.rbxl",
+    "instanceHierarchy": {
+        "name": "island-jump-tutorial-building",
+        "tree": {
+            "$className": "DataModel",
+            "Workspace": {
+                "$className": "Workspace",
+                "World": {
+                    "$path": "instances/Workspace/World"
+                }
+            },
+            "Lighting": {
+                "$className": "Lighting",
+                "$path": "instances/Lighting"
+            }
+        }
+    }
+}

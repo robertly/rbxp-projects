@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Setting-Part-CFrame",
+		"tree": {
+			"Setting-Part-CFrame": {
+				"$path": "demo"
+			}
+		}
+	}
+}

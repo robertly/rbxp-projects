@@ -1,0 +1,12 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "cloud-config",
+		"tree": {
+			"$path": "package",
+			"Signal": {
+				"$path": "../signal/package.rbxp"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "MarketplaceService-PromptPurchase1",
+		"tree": {
+			"MarketplaceService-PromptPurchase1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

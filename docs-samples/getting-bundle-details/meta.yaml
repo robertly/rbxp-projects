@@ -1,0 +1,58 @@
+description: |
+  The following code sample demonstrates how to retrieve details for the bundle
+  with the id **13**. The **Expected Value** tab displays the key-value pairs
+  contained within the returned ValueTable and item array for the bundle with
+  the specified id.
+display_name: |-
+  Getting Bundle Details
+expected_output: |
+  {
+    ["BundleType"] = "BodyParts",
+    ["Description"] = "His aim is true and his cause is just, evil-doers best beware. The Red Dread Knight seeks to vanquish those with dark desires. Get this item when you redeem a $50 Roblox card from Walmart in May 2018.",
+    ["Id"] = 13,
+    ["Items"] =  ▼  {
+       [1] =  ▼  {
+          ["Id"] = 1694621060,
+          ["Name"] = "Red Dread Knight's Helm",
+          ["Type"] = "Asset"
+       },
+       [2] =  ▼  {
+          ["Id"] = 1694623317,
+          ["Name"] = "Red Dread Knight's Sword",
+          ["Type"] = "Asset"
+       },
+       [3] =  ▼  {
+          ["Id"] = 1694634304,
+          ["Name"] = "Red Dread Knight Left Arm",
+          ["Type"] = "Asset"
+       },
+       [4] =  ▼  {
+          ["Id"] = 1694637312,
+          ["Name"] = "Red Dread Knight Right Arm",
+          ["Type"] = "Asset"
+       },
+       [5] =  ▼  {
+          ["Id"] = 1694638995,
+          ["Name"] = "Red Dread Knight Left Leg",
+          ["Type"] = "Asset"
+       },
+       [6] =  ▼  {
+          ["Id"] = 1694641120,
+          ["Name"] = "Red Dread Knight Right Leg",
+          ["Type"] = "Asset"
+       },
+       [7] =  ▼  {
+          ["Id"] = 1694642503,
+          ["Name"] = "Red Dread Knight Torso",
+          ["Type"] = "Asset"
+       },
+       [8] =  ▼  {
+          ["Id"] = 132923180,
+          ["Name"] = "Red Dread Knight",
+          ["Type"] = "UserOutfit"
+       }
+    },
+    ["Name"] = "Red Dread Knight"
+  }
+highlight_lines: ""
+category: Docs Sample

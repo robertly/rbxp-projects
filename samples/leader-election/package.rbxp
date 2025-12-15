@@ -1,0 +1,15 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "leader-election",
+		"tree": {
+			"$path": "package",
+			"retryAsync": {
+				"$path": "../../samples/retry-async/package.rbxp"
+			},
+			"setSequentialInterval": {
+				"$path": "../../dependencies/set-sequential-interval/package.rbxp"
+			}
+		}
+	}
+}

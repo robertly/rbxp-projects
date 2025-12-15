@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "GuiButton-MouseButton1Up1",
+		"tree": {
+			"GuiButton-MouseButton1Up1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,17 @@
+"description": |
+  This example checks if a player is neutral. If the player is neutral, the game
+  prints:
+
+  > Player is neutral!
+
+  If the player is neutral, the game prints:
+
+  > Player is not neutral!
+
+  _Note:_ Although this example prints the value of the local player's neutral
+  property, you can change the example to get the value for any player.
+"display_name": |-
+  Checking if a Player is Neutral
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

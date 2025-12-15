@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Plugin-CreateToolbar1",
+		"tree": {
+			"Plugin-CreateToolbar1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

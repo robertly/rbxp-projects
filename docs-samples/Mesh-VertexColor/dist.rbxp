@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Mesh-VertexColor",
+		"tree": {
+			"Mesh-VertexColor": {
+				"$path": "demo"
+			}
+		}
+	}
+}

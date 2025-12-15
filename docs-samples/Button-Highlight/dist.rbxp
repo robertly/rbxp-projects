@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Button-Highlight",
+		"tree": {
+			"Button-Highlight": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,9 @@
+"description": |
+  This code sample listens for players spawning and gives them Sparkles in their
+  head. It does this by defining two functions, `onPlayerSpawned` and
+  `onPlayerAdded`.
+"display_name": |-
+  Give Sparkles to Everyone
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

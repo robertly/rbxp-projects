@@ -1,0 +1,4 @@
+display_name: Using TweenService on a Model
+description: |
+  Demonstrates how to properly tween a model. Models should be tweened from an anchored part. If parts within the model are unanchored, weld these parts to the anchored part. Otherwise the unanchored parts will not follow the model as it tweens. In this case, the Base part is set as the HealthPack's PrimaryPart and all other parts in the model are welded to it.
+category: Visual

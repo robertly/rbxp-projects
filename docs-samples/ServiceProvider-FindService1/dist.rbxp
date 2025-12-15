@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "ServiceProvider-FindService1",
+		"tree": {
+			"ServiceProvider-FindService1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

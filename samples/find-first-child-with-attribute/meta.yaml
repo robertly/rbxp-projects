@@ -1,0 +1,6 @@
+display_name: Find First Child With Attribute
+description: |
+  Searches children of an instance, returning the first child containing an attribute matching the given name and value.
+
+  The DemoScript removes flavors from an ice cream cone in the correct order using findFirstChildWithAttribute
+category: Utility

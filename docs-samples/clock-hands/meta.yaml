@@ -1,0 +1,8 @@
+"description": |
+  This code sample creates a clock at the origin with a minute, second, and hour
+  hand, and makes it tick, displaying the local time.
+"display_name": |-
+  Clock Hands
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

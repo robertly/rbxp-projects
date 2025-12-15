@@ -1,0 +1,4 @@
+display_name: Getting an animation's KeyframeSequence
+description: |
+  Demonstrates getting an animation's KeyframeSequence using `Class.KeyframeSequenceProvider:GetKeyframeSequenceAsync()` and printing the time of each keyframe.
+category: Animation

@@ -1,0 +1,10 @@
+"description": |
+  This example changes the `Class.Players.LocalPlayer` mouse icon to look like
+  the dragon image shown below.
+
+  ![Dragon mouse icon](/assets/legacy/DragonIcon.png)
+"display_name": |-
+  Dragon Mouse Icon
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

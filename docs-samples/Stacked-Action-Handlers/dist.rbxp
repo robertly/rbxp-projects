@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Stacked-Action-Handlers",
+		"tree": {
+			"Stacked-Action-Handlers": {
+				"$path": "demo"
+			}
+		}
+	}
+}

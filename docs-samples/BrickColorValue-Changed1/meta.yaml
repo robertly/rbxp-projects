@@ -1,0 +1,7 @@
+"description": |
+  This example prints the BrickColorValue's new value each time it changes.
+"display_name": |-
+  BrickColorValue.Changed
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,24 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "play-smoke-puff",
+        "tree": {
+            "PlaySmokePuff": {
+                "playSmokePuff": {
+                    "$path": "package.rbxp",
+                },
+                "Demo": {
+                    "SmokePuffParts": {
+                        "$path": "demo/SmokePuffParts.rbxm"
+                    },
+                    "DemoScript": {
+                        "$path": "demo/DemoScript.server.lua",
+                        "$properties": {
+                            "RunContext": 1
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

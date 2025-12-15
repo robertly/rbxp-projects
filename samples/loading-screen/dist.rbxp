@@ -1,0 +1,26 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "loading-screen",
+        "tree": {
+            "LoadingScreen": {
+                "DemoScript": {
+                    "$className": "Script",
+                    "$path": "demo/DemoScript.client.lua",
+                    "$properties": {
+                        "RunContext": 2
+                    }
+                },
+                "LoadingScreen": {
+                    "$path": "demo/LoadingScreen.lua"
+                },
+                "LoadingScreenPrefab": {
+                    "$path": "demo/LoadingScreenPrefab.rbxm"
+                },
+                "README": {
+                    "$path": "demo/README.lua"
+                },
+            }
+        }
+    }
+}

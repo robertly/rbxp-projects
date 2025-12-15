@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "HttpService-GenerateGUID",
+		"tree": {
+			"HttpService-GenerateGUID": {
+				"$path": "demo"
+			}
+		}
+	}
+}

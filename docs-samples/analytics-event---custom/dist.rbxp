@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "analytics-event---custom",
+		"tree": {
+			"analytics-event---custom": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Mouse-Hit-Laser-Beam",
+		"tree": {
+			"Mouse-Hit-Laser-Beam": {
+				"$path": "demo"
+			}
+		}
+	}
+}

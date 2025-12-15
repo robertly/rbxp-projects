@@ -1,0 +1,10 @@
+"description": |
+  This will return a list of similar hats much like how similar assets are
+  displayed when viewing the catalog page on the website. The contextAssetId is
+  optional and if not provided it will return some popular items from that
+  category.
+"display_name": |-
+  Getting a Hat Recommendation
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

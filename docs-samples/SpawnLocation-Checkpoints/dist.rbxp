@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "SpawnLocation-Checkpoints",
+		"tree": {
+			"SpawnLocation-Checkpoints": {
+				"$path": "demo"
+			}
+		}
+	}
+}

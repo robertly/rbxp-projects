@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "SpawnLocation-Enabled",
+		"tree": {
+			"SpawnLocation-Enabled": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,3 @@
+display_name: ThreadQueue
+description: ThreadQueue can be used to queue functions so that they don't all run at once. In this example, 10 functions are added to a queue at the same time, and then executed in order with a 1s delay between them.
+category: Utility

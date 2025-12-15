@@ -1,0 +1,15 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "humanoid-action-evens",
+		"tree": {
+			"IcePart": {
+				"$path": "demo/IcePart.rbxm",
+				"Freeze": {
+					"$path": "sample.server.lua",
+					"$className": "Script"
+				}
+			}
+		}
+	}
+}

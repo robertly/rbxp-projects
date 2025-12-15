@@ -1,0 +1,4 @@
+display_name: Sprint with Button
+description: |
+  Demonstrates how to increase a player's speed when specific inputs are pressed. This sample implements left shift to run on keyboard, X to run on gamepad, and a touch button for mobile. The input buttons can be modified to any input desired.
+category: Input

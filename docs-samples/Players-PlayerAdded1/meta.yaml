@@ -1,0 +1,8 @@
+"description": |
+  This example will print "A player has entered: " followed by the name of the
+  player that enters/joins a game every time a player joins.
+"display_name": |-
+  Players.PlayerAdded
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,8 @@
+"description": |
+  A basic sample of how the IsUserFeatureEnabled function is used by Roblox to
+  control certain features.
+"display_name": |-
+  IsUserFeatureEnabled Sample
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

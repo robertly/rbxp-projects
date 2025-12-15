@@ -1,0 +1,22 @@
+"description": |
+  This code sample uses HttpService's GetAsync to make a request to an endpoint
+  at [Open Notify](http://open-notify.org/Open-Notify-API/ISS-Location-Now/), a
+  website that provides information from NASA. The endpoint provides information
+  on the current location of the International Space Station. This example uses
+  a **defensive coding technique** that you should use when making web requests.
+  It wraps the call to GetAsync and JSONDecode in pcall, which protects our
+  script from raising an error if either of these fail. Then, it checks the raw
+  response for all proper data before using it. All of this is put inside a
+  function that returns true or false depending of the request's success.
+
+  Whenever you're working with web requests, you should prepare for anything to
+  go wrong. Perhaps your web endpoint changes or goes down - you don't want your
+  game scripts raising errors and breaking your game. You want to handle both
+  success **and failure** gracefully - have a plan in case your data is not
+  available. Use `pcall` and make plenty of validity checks (if statements) on
+  your data to make sure you're getting exactly what you expect.
+"display_name": |-
+  Where is the International Space Station?
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,13 @@
+"description": |
+  If you want to view a plugin's source code without installing it, you can use
+  `Class.DataModel:GetObjects()` to download the plugin. The code sample below
+  includes a function that will take a plugin's website URL and insert the
+  plugin into the currently selected `Instance` or the `Workspace`.
+
+  Due to `Class.DataModel:GetObjects()|GetObjects'` security context, this
+  function can only be used in the command line or in a plugin.
+"display_name": |-
+  View a plugin's source code
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

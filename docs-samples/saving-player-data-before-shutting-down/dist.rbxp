@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "saving-player-data-before-shutting-down",
+		"tree": {
+			"saving-player-data-before-shutting-down": {
+				"$path": "demo"
+			}
+		}
+	}
+}

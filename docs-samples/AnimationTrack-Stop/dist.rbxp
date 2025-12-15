@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "AnimationTrack-Stop",
+		"tree": {
+			"AnimationTrack-Stop": {
+				"$path": "demo"
+			}
+		}
+	}
+}

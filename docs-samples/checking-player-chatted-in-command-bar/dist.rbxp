@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "checking-player-chatted-in-command-bar",
+		"tree": {
+			"checking-player-chatted-in-command-bar": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "ObjectValue-Example",
+		"tree": {
+			"ObjectValue-Example": {
+				"$path": "demo"
+			}
+		}
+	}
+}

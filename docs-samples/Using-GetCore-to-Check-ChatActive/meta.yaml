@@ -1,0 +1,7 @@
+"description": |
+  The following code would check if chat is currently active:
+"display_name": |-
+  Using GetCore to Check ChatActive
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

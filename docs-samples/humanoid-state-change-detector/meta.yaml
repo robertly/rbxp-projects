@@ -1,0 +1,10 @@
+"description": |
+  When a humanoid state changes for the `Class.Players.LocalPlayer`, the code
+  below prints whether the state has been enabled or disabled.
+
+  This code should work as expected when placed in a `LocalScript`.
+"display_name": |-
+  Humanoid State Change Detector
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,8 @@
+"description": |
+  This sample shows the basic setup for an `Class.IKControl` that moves a
+  character's left arm to reach for a point in the world.
+"display_name": |-
+  IKControl setup
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "UserInputService-TouchPinch",
+		"tree": {
+			"UserInputService-TouchPinch": {
+				"$path": "demo"
+			}
+		}
+	}
+}

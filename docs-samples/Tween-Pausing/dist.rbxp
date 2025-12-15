@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Tween-Pausing",
+		"tree": {
+			"Tween-Pausing": {
+				"$path": "demo"
+			}
+		}
+	}
+}

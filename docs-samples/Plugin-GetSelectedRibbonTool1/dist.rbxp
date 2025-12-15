@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Plugin-GetSelectedRibbonTool1",
+		"tree": {
+			"Plugin-GetSelectedRibbonTool1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

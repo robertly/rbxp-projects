@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "setting-a-player-s-replication-focus",
+		"tree": {
+			"setting-a-player-s-replication-focus": {
+				"$path": "demo"
+			}
+		}
+	}
+}

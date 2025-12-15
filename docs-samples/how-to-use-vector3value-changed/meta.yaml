@@ -1,0 +1,10 @@
+"description": |
+  The below example, assuming all referenced objects existed, would print the
+  Vector3Value's new value each time it changed. In the example below it would
+  print _"10,10,10"_.
+"display_name": |-
+  How to Use Vector3Value.Changed
+"expected_output": |-
+  "10,10,10"
+"highlight_lines": ""
+"category": Docs Sample

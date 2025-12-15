@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "TextBox-CaptureFocus1",
+		"tree": {
+			"TextBox-CaptureFocus1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

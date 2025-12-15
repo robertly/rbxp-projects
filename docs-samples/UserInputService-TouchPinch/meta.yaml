@@ -1,0 +1,39 @@
+"description": |
+  By default, Roblox relies on a `LocalScript` to control the user's camera.
+  However, this script can be overridden with a custom _CameraScript_. The
+  example below demonstrates how to create a custom script to control the user's
+  camera using many of the `UserInputService` events.
+
+  The script is broken into two parts:
+
+  1. Mobile camera events, which rely on touch events
+  2. Non-mobile camera events, which rely on keyboard input and tracking the
+     user's movement
+
+  First, the camera script needs utility functions to setup the camera and set
+  its `Class.Camera.CameraType` to _Scriptable_ so that the script can control
+  the camera. It also needs a function to update the camera when it moves,
+  rotates, and zooms.
+
+  Using touch events allows us to track user input as they interact with the
+  touchscreen on their mobile device. These events allow us to handle camera
+  movement, rotation, and zoom.
+
+  The second half of the code sample adds camera support for players on desktop
+  devices. When input begans, the function Input() checks that the state of the
+  input is `Enum.UserInputState.Begin` to ignore all keypress inputs other than
+  when the user first presses a key down. When the user presses _I_ and _O_ the
+  camera zooms in and out. When the presses down and moves their left mouse
+  button, the script `Enum.MouseBehavior|locks` the player's mouse by changing
+  the `Class.UserInputService.MouseBehavior` property. The camera rotates
+  according to the mouse's
+  `Class.UserInputService:GetMouseDelta()|change in screen position`. When the
+  player moves their character, the camera moves with them.
+
+  All of the parts discussed above are combined and shown in the code sample
+  below.
+"display_name": |-
+  Create a Custom CameraScript
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

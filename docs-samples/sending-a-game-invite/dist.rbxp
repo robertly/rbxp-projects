@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "sending-a-game-invite",
+		"tree": {
+			"sending-a-game-invite": {
+				"$path": "demo"
+			}
+		}
+	}
+}

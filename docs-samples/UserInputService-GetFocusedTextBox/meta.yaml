@@ -1,0 +1,20 @@
+"description": |
+  This example demonstrates how to ignore user input when any `TextBox` is
+  focused. When a player is not focusing on any TextBox, pressing the _jumpKey_
+  (`Enum.KeyCode|J Key`) change's their humanoid's
+  `Enum.HumanoidStateType|state` to Jumping using the
+  `Class.Humanoid:ChangeState()` function to make their character jump.
+
+  When the player is focusing on any TextBox, the player will not jump. The
+  example checks if any TextBox is focused by checking if the
+  `Class.UserInputService.GetFocusedTextbox` function returns `nil` instead of a
+  TextBox instance.
+
+  This connects to the `Class.Humanoid.StateChanged` event to determine when the
+  player is jumping and prevent the player from using the jumpKey to jump while
+  already jumping.
+"display_name": |-
+  Ignore User Input When a TextBox Is Focused
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

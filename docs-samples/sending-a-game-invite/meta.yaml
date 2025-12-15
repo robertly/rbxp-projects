@@ -1,0 +1,11 @@
+"description": |
+  The following code sample uses
+  `Class.SocialService:CanSendGameInviteAsync()|CanSendGameInviteAsync()` to
+  confirm whether the local `Class.Player` can send an invite. If `true`, it
+  then prompts the invite using
+  `Class.SocialService:PromptGameInvite()|PromptGameInvite()`.
+"display_name": |-
+  Sending an Invite
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

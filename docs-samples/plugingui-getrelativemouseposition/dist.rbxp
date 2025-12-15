@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "plugingui-getrelativemouseposition",
+		"tree": {
+			"plugingui-getrelativemouseposition": {
+				"$path": "demo"
+			}
+		}
+	}
+}

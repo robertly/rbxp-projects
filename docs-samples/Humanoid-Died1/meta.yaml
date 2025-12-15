@@ -1,0 +1,9 @@
+"description": |
+  The code below would print the player's name, followed by "has died!",
+  whenever a player dies. For example, if the player was named "Shedletsky",
+  "Shedletsky has died!" would be printed to the output when they died.
+"display_name": |-
+  Humanoid.Died
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

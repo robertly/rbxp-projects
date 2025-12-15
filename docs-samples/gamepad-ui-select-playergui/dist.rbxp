@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "gamepad-ui-select-playergui",
+		"tree": {
+			"gamepad-ui-select-playergui": {
+				"$path": "demo"
+			}
+		}
+	}
+}

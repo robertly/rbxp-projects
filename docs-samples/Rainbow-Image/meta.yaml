@@ -1,0 +1,8 @@
+"description": |
+  This code sample loops an ImageLabel or ImageButton's ImageColor3 through the
+  entire rainbow using RunService's RenderStepped.
+"display_name": |-
+  Rainbow Image
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

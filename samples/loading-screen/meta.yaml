@@ -1,0 +1,6 @@
+display_name: Loading Screen
+description: |
+  Demonstrates an example of a loading screen. The `updateDetailText` function provides the ability to update text on the loading screen with information on what is happening behind the scenes. A spinner gives the user confidence that the game is still running.
+
+  Note: the sample must be placed within ReplicatedFirst to work properly.
+category: General

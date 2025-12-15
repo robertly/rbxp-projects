@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Player-ClearCharacterAppearance1",
+		"tree": {
+			"Player-ClearCharacterAppearance1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

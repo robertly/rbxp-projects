@@ -1,0 +1,8 @@
+"description": |
+  The below example would print whether or not the player list is visible to the
+  LocalPlayer.
+"display_name": |-
+  Checking if a Core GUI is Enabled
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Playing-Spectating-Teams",
+		"tree": {
+			"Playing-Spectating-Teams": {
+				"$path": "demo"
+			}
+		}
+	}
+}

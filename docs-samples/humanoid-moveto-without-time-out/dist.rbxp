@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "humanoid-moveto-without-time-out",
+		"tree": {
+			"humanoid-moveto-without-time-out": {
+				"$path": "demo"
+			}
+		}
+	}
+}

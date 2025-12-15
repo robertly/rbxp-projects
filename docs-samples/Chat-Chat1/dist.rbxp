@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Chat-Chat1",
+		"tree": {
+			"Chat-Chat1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

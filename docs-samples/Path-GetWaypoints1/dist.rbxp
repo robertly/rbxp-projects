@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Path-GetWaypoints1",
+		"tree": {
+			"Path-GetWaypoints1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

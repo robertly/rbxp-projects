@@ -1,0 +1,14 @@
+"description": |
+  The example below demonstrates the
+  `Class.UserInputService.TouchSwipe|TouchSwipe()` event by
+  `Class.GuiObject:TweenPosition()|tweening` a `GuiObject|GUI` element's
+  position 100 pixels in the direction of the swipe according to the value of
+  the `Enum.SwipeDirection|swipeDirection` argument.
+
+  In order for this example to work as expected, it must be placed in a
+  `LocalScript` that is parented to the gui being swiped.
+"display_name": |-
+  Touch Swipe a GUI
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

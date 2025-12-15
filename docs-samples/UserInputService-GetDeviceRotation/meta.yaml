@@ -1,0 +1,16 @@
+"description": |
+  This example prints the current CFrame of a players device. Note that this
+  will only work as expected if the player's device has an enabled gyroscope. If
+  not, the example prints:
+
+  > _Cannot get device rotation because device does not have an enabled
+  > gyroscope!_
+"display_name": |-
+  Print Device Rotation
+"expected_output": |-
+  *Note:* CFrame value may differ
+  ```
+  CFrame: { 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1 }
+  ````
+"highlight_lines": ""
+"category": Docs Sample

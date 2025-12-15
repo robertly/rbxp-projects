@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "opening-the-inspect-menu-for-a-userid",
+		"tree": {
+			"opening-the-inspect-menu-for-a-userid": {
+				"$path": "demo"
+			}
+		}
+	}
+}

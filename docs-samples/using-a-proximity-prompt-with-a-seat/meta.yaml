@@ -1,0 +1,9 @@
+"description": |
+  In the example below, a user must interact with a chair to sit in it. Paste
+  this into a `Script` that is a child of a `ProximityPrompt`, which is itself a
+  sibling of a `Seat` object named _Seat_.
+"display_name": |-
+  Using a Proximity Prompt with a Seat
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

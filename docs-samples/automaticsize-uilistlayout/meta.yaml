@@ -1,0 +1,12 @@
+"description": |
+  The following script creates an automatically-sized parent frame with
+  a`UIListLayout`, then it inserts several automatically-sized `TextLabel`
+  objects. Note how the parent `UIListLayout` automatically resizes to fit its
+  child content and the labels automatically resize to fit their text content.
+  This script can be parented to a `ScreenGui`.
+"display_name": |-
+  LocalScript in a ScreenGui
+"expected_output": ""
+"highlight_lines": |
+  12, 19, 36
+"category": Docs Sample

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Instance-IsDescendantOf1",
+		"tree": {
+			"Instance-IsDescendantOf1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

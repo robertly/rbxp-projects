@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "changing-a-trail-color-as-it-is-drawing",
+		"tree": {
+			"changing-a-trail-color-as-it-is-drawing": {
+				"$path": "demo"
+			}
+		}
+	}
+}

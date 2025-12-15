@@ -1,0 +1,7 @@
+"description": |
+  This code would print Require passed: example to the output, in blue text.
+"display_name": |-
+  TestService:Require
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,8 @@
+"description": |
+  This example gets the `Enum.UserInputType|last input type` and indicates if it
+  was keyboard input.
+"display_name": |-
+  UserInputService:GetLastInputType
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

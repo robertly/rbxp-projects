@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Custom-Explosion",
+		"tree": {
+			"Custom-Explosion": {
+				"$path": "demo"
+			}
+		}
+	}
+}

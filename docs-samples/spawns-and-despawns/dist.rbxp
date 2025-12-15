@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "spawns-and-despawns",
+		"tree": {
+			"spawns-and-despawns": {
+				"$path": "demo"
+			}
+		}
+	}
+}

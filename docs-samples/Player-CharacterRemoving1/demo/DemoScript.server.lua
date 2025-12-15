@@ -1,0 +1,5 @@
+game.Players.PlayerAdded:Connect(function(player)
+	player.CharacterRemoving:Connect(function(character)
+		print(character.Name .. " has died.")
+	end)
+end)

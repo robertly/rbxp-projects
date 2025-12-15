@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "StarterGui-SetCore1",
+		"tree": {
+			"StarterGui-SetCore1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

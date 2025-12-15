@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Tool-Equipped1",
+		"tree": {
+			"Tool-Equipped1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

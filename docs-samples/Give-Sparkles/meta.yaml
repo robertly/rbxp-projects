@@ -1,0 +1,9 @@
+"description": |
+  The code sample below gives any new players sparkles that are colored the same
+  as their torso color.
+"display_name": |-
+  Give Sparkles
+"expected_output": |-
+  When your character spawns while this script is running, they should have a very sparkly torso, customized for their character.
+"highlight_lines": ""
+"category": Docs Sample

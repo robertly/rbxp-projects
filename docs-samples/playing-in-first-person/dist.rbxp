@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "playing-in-first-person",
+		"tree": {
+			"playing-in-first-person": {
+				"$path": "demo"
+			}
+		}
+	}
+}

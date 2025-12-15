@@ -1,0 +1,10 @@
+"description": |
+  This code sample shows how a UI element's size, position and rotation can be
+  copied without parenting a "copycat" to the original. It uses the
+  Absolute-family of properties to orient a "copycat" Frame that covers on the
+  screen space that the original does.
+"display_name": |-
+  Copycat Frame
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

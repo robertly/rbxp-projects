@@ -1,0 +1,8 @@
+"description": |
+  The below example, when used in a LocalScript, would print whether or not the
+  player's character's PlatformProperty changed.
+"display_name": |-
+  Humanoid.PlatformStanding
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

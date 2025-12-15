@@ -1,0 +1,8 @@
+"description": |
+  This example fires the function to recenter the CFrame of the user's head to
+  the current location of the VR headset being worn by the user.
+"display_name": |-
+  UserInputService:RecenterUserHeadCFrame
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

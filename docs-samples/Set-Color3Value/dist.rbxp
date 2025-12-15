@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Set-Color3Value",
+		"tree": {
+			"Set-Color3Value": {
+				"$path": "demo"
+			}
+		}
+	}
+}

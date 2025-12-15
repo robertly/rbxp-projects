@@ -1,0 +1,9 @@
+"description": |
+  This example demonstrates how to subtract part(s) from another
+  `Class.BasePart` to form a negated `Class.UnionOperation`.
+"display_name": |-
+  BasePart:SubtractAsync()
+"expected_output": ""
+"highlight_lines": |-
+  5-7, 11, 12
+"category": Docs Sample

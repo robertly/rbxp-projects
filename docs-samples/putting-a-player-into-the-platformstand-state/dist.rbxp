@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "putting-a-player-into-the-platformstand-state",
+		"tree": {
+			"putting-a-player-into-the-platformstand-state": {
+				"$path": "demo"
+			}
+		}
+	}
+}

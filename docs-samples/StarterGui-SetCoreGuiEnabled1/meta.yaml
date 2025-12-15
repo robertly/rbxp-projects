@@ -1,0 +1,8 @@
+"description": |
+  The following line of code would be used to _disable_ all optional elements of
+  the `Class.CoreGui` for the LocalPlayer.
+"display_name": |-
+  StarterGui:SetCoreGuiEnabled
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

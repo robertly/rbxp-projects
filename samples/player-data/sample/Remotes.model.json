@@ -1,0 +1,17 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "PlayerDataLoaded",
+      "ClassName": "RemoteEvent"
+    },
+    {
+      "Name": "PlayerDataUpdated",
+      "ClassName": "RemoteEvent"
+    },
+    {
+      "Name": "PlayerDataSaved",
+      "ClassName": "RemoteEvent"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "UserInputService-GetGamepadConnected",
+		"tree": {
+			"UserInputService-GetGamepadConnected": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "MarketplaceService-GetDeveloperProductsAsync1",
+		"tree": {
+			"MarketplaceService-GetDeveloperProductsAsync1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

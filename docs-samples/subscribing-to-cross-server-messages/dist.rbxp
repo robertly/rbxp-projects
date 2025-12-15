@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "subscribing-to-cross-server-messages",
+		"tree": {
+			"subscribing-to-cross-server-messages": {
+				"$path": "demo"
+			}
+		}
+	}
+}

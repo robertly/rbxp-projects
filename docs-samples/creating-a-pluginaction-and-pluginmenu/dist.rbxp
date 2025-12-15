@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "creating-a-pluginaction-and-pluginmenu",
+		"tree": {
+			"creating-a-pluginaction-and-pluginmenu": {
+				"$path": "demo"
+			}
+		}
+	}
+}

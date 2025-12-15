@@ -1,0 +1,8 @@
+"description": |
+  The following example will print the time between each Heartbeat loop 5
+  times - while the value of count is less than the value of loopCount.
+"display_name": |-
+  Printing Heartbeat Frequency
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Using-GetCore-to-Check-ChatActive",
+		"tree": {
+			"Using-GetCore-to-Check-ChatActive": {
+				"$path": "demo"
+			}
+		}
+	}
+}

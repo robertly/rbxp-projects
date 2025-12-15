@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Plugin-OpenScript1",
+		"tree": {
+			"Plugin-OpenScript1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

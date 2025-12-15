@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "DataModel-BindToClose1",
+		"tree": {
+			"DataModel-BindToClose1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

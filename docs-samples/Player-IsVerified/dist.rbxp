@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Player-IsVerified",
+		"tree": {
+			"Player-IsVerified": {
+				"$path": "demo"
+			}
+		}
+	}
+}

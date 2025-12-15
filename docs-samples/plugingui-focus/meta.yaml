@@ -1,0 +1,11 @@
+"description": |
+  This code sample demonstrates how the focus state of a `PluginGui` can be
+  tracked using the `Class.PluginGui.WindowFocused|WindowFocused()` and
+  `Class.PluginGui.WindowFocusReleased|WindowFocusReleased()` events. It changes
+  the `Class.PluginGui.Title|Title()` as the focus state changes.
+"display_name": |-
+  Detecting PluginGui Focus State
+"expected_output": ""
+"highlight_lines": |
+  8, 11
+"category": Docs Sample

@@ -1,0 +1,22 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "input-categorizer",
+		"tree": {
+			"InputCategorizer": {
+				"InputCategorizer": {
+					"$path": "package.rbxp"
+				},
+				"Demo": {
+					"DemoScript": {
+						"$className": "Script",
+						"$path": "demo/DemoScript.client.lua",
+						"$properties": {
+							"RunContext": 2
+						}
+					}
+				}
+			}
+		}
+	}
+}

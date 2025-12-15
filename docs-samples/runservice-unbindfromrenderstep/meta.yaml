@@ -1,0 +1,16 @@
+"description": |
+  This example uses the `RunService` to bind and unbind a function named
+  `printHello`. First, we bind the function to the RenderStep so that fires
+  every _step_. Then, after we wait 5 seconds (`wait(5)`), we unbind the
+  function.
+
+  Please note that we take caution to surround the function unbind in a
+  `pcall()` to prevent the code from breaking due to an error being thrown if
+  the function name passed does not match the name of an already bound function.
+  While we know that the function used in this example is bound when we try to
+  unbind it, doing this is good coding practice.
+"display_name": |-
+  Bind and Unbind a Function
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

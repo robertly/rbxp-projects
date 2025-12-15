@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "get-a-globaldatastore-instance",
+		"tree": {
+			"get-a-globaldatastore-instance": {
+				"$path": "demo"
+			}
+		}
+	}
+}

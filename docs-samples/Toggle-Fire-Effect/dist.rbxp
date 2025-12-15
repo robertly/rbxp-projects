@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Toggle-Fire-Effect",
+		"tree": {
+			"Toggle-Fire-Effect": {
+				"$path": "demo"
+			}
+		}
+	}
+}

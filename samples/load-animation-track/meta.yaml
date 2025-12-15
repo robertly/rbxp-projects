@@ -1,0 +1,4 @@
+display_name: Playing an Animation
+description: |
+  The loadAnimationTrack function is used to load an animation on an Animator by providing an animation asset ID.
+category: Animations

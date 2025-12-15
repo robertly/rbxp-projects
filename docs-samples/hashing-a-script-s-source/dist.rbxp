@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "hashing-a-script-s-source",
+		"tree": {
+			"hashing-a-script-s-source": {
+				"$path": "demo"
+			}
+		}
+	}
+}

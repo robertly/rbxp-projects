@@ -1,0 +1,16 @@
+"description": |
+  This example demonstrates that the `Class.Players.PlayerConnecting`,
+  `Class.Players.PlayerDisconnecting`, and `Class.Players.PlayerRejoining`
+  events fire when a player connects to, disconnects from, and rejoins the game.
+  Each of the events fires a message with the player name and the action. For
+  example, when a player connects to the game, the PlayerConnecting event
+  prints:
+
+  > PlayerName connecting!
+
+  This example will function as expected when executed in the command bar.
+"display_name": |-
+  Player Connecting Disconnecting and Rejoining
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

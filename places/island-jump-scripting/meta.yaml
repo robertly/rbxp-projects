@@ -1,0 +1,3 @@
+display_name: Island Jump - Scripting
+description: This is the sample place file for the Scripting section of the Core tutorial curriculum. At this stage in the process, the experience contains all scripting logic for a coin collection mechanic, recording and displaying player data, creating player hazards, and displaying an upgrade button that players click to exchange coins for jumping power.
+category: Tutorial Places

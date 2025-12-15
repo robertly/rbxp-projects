@@ -1,0 +1,11 @@
+"description": |
+  This sample includes a simple function to change the texture of the `Shirt`
+  and `Pants` worn by a player's character. If shirt and pants don't exist then
+  they are created. Note, this should be run every time the character spawns. If
+  a developer is looking to permanently change a character's appearance to a
+  preset it is recommended they use `Class.Player.CharacterAppearance`.
+"display_name": |-
+  Change Shirt / Pants
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

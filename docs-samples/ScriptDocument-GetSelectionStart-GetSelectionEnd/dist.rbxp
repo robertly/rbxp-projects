@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "ScriptDocument-GetSelectionStart-GetSelectionEnd",
+		"tree": {
+			"ScriptDocument-GetSelectionStart-GetSelectionEnd": {
+				"$path": "demo"
+			}
+		}
+	}
+}

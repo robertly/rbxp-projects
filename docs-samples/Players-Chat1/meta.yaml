@@ -1,0 +1,9 @@
+"description": |
+  This example demonstrates that the `Class.Players:Chat()` function executes
+  without error if using the Command Bar or a Plugin (assuming the local player
+  can chat freely) and errors if executed in a `Script`.
+"display_name": |-
+  Players:Chat
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

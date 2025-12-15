@@ -1,0 +1,10 @@
+"description": |
+  The code below demonstrates how the PluginMouse object can be obtained and
+  used in a plugin. To use this code, paste it into a `Script` save that script
+  to the local Plugins Folder using right click, save to file. The plugins
+  folder can be found in the Plugins tab in the Roblox Studio toolbar.
+"display_name": |-
+  PluginMouse Get
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

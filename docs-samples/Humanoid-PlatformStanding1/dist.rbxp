@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Humanoid-PlatformStanding1",
+		"tree": {
+			"Humanoid-PlatformStanding1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

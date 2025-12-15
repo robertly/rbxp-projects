@@ -1,0 +1,12 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "action-manager",
+		"tree": {
+			"$path": "package",
+			"InputCategorizer": {
+				"$path": "../input-categorizer/package.rbxp"
+			}
+		}
+	}
+}

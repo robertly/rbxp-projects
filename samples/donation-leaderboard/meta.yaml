@@ -1,0 +1,3 @@
+display_name: Donation Leaderboard
+description: An example of a simple donation leaderboard. DevProducts IDs can be placed in the DonationProducts ModuleScript and will be displayed on the leaderboard to purchase. Upon purchase, the player's donation amount is incremented based on how many robux were spent.
+category: General

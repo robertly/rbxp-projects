@@ -1,0 +1,9 @@
+"description": |
+  The example below would print "4" to the output. It would wait three seconds
+  and then print "Done". At this point Roblox will be able to shut down the
+  server.
+"display_name": |-
+  Binding to and Handling Game Shutdown
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

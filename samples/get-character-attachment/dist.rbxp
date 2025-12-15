@@ -1,0 +1,24 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "get-character-attachment",
+        "tree": {
+            "GetCharacterAttachment": {
+                "getCharacterAttachment": {
+                    "$path": "package.rbxp",
+                },
+                "Demo": {
+                    "Pizza": {
+                        "$path": "demo/Pizza.rbxm"
+                    },
+                    "DemoScript": {
+                        "$path": "demo/DemoScript.server.lua",
+                        "$properties": {
+                            "RunContext": 1
+                        }
+                    }
+                } 
+            }
+        }
+    }
+}

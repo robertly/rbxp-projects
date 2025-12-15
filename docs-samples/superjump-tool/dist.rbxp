@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "superjump-tool",
+		"tree": {
+			"superjump-tool": {
+				"$path": "demo"
+			}
+		}
+	}
+}

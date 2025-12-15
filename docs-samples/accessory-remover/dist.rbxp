@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "accessory-remover",
+		"tree": {
+			"accessory-remover": {
+				"$path": "demo"
+			}
+		}
+	}
+}

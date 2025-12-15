@@ -1,0 +1,8 @@
+"description": |
+  This example checks whether or not the network ownership of the first
+  `BasePart` named _Part_ in the `Workspace` can be set.
+"display_name": |-
+  Check if a Part's Network Ownership Can Be Set
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,10 @@
+"description": |
+  This code sample adds open/close functionality to a Window UI. Paste as a
+  LocalScript that is a sibling of a Frame named Window, a
+  TextButton/ImageButton named Window, and a TextButton/ImageButton within the
+  Window called Close.
+"display_name": |-
+  UI Window
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

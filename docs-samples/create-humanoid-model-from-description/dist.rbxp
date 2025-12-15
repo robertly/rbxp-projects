@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "create-humanoid-model-from-description",
+		"tree": {
+			"create-humanoid-model-from-description": {
+				"$path": "demo"
+			}
+		}
+	}
+}

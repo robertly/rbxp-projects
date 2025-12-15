@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "VRService-GetTouchpadMode",
+		"tree": {
+			"VRService-GetTouchpadMode": {
+				"$path": "demo"
+			}
+		}
+	}
+}

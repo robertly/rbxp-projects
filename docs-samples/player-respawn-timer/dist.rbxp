@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "player-respawn-timer",
+		"tree": {
+			"player-respawn-timer": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,10 @@
+"description": |
+  This code sample demonstrates a more involved usage of TweenPosition by
+  detecting when the tween completes/cancels by defining a callback function. It
+  also prints whether the tween will play.
+"display_name": |-
+  Tween a GUI's Position
+"expected_output": ""
+"highlight_lines": |
+  15-22
+"category": Docs Sample

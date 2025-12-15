@@ -1,0 +1,18 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "signal",
+		"tree": {
+			"Custom Event": {
+				"Signal": {
+					"$path": "package.rbxp"
+				},
+				"Demo": {
+					"DemoScript": {
+						"$path": "demo/DemoScript.server.lua"
+					}
+				}
+			}
+		}
+	}
+}

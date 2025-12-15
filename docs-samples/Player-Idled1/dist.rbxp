@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Player-Idled1",
+		"tree": {
+			"Player-Idled1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

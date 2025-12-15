@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "AnimationTrack-IsPlaying",
+		"tree": {
+			"AnimationTrack-IsPlaying": {
+				"$path": "demo"
+			}
+		}
+	}
+}

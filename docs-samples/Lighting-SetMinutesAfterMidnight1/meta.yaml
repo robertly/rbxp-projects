@@ -1,0 +1,8 @@
+"description": |
+  The following code would set the time to be 14:00:00. This is because 840/60
+  is equal to 14.
+"display_name": |-
+  Setting Lighting Time
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

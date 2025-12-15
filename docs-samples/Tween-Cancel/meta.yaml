@@ -1,0 +1,14 @@
+"description": |
+  This sample demonstrates the impact of cancelling a tween.
+
+  A part is instanced in the Workspace and a tween is set up to move it along
+  the Y axis. Mid way through the tween, it is cancelled. It can be observed
+  here that the part does not return to its original position, but when it is
+  resumed it takes the full length of the tween (5 seconds) to complete.
+
+  This is the key difference TweenBase:Pause() and TweenBase:Cancel().
+"display_name": |-
+  Tween Cancel
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

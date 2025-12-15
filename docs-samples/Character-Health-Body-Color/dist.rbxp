@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Character-Health-Body-Color",
+		"tree": {
+			"Character-Health-Body-Color": {
+				"$path": "demo"
+			}
+		}
+	}
+}

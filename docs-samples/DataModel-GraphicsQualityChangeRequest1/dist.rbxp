@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "DataModel-GraphicsQualityChangeRequest1",
+		"tree": {
+			"DataModel-GraphicsQualityChangeRequest1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

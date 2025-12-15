@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Lighting-GetMinutesAfterMidnight1",
+		"tree": {
+			"Lighting-GetMinutesAfterMidnight1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

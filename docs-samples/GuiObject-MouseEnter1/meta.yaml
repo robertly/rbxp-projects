@@ -1,0 +1,8 @@
+"description": |
+  The following example prints the mouse location, in pixels, when it enters GUI
+  element.
+"display_name": |-
+  Printing where a Mouse Enters a GuiObject
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

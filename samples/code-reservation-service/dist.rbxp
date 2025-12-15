@@ -1,0 +1,16 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "code-reservation-service",
+		"tree": {
+			"CodeReservationService": {
+				"CodeReservationService": {
+					"$path": "package.rbxp"
+				},
+				"Demo": {
+					"$path": "demo"
+				}
+			}
+		}
+	}
+}

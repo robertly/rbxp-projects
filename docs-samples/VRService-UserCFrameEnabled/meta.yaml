@@ -1,0 +1,7 @@
+"description": "\u200BThis example fires when a UserCFrame changes state, printing\
+  \ the name of the\nchanged UserCFrame and whether it changed got enabled or disabled.\n"
+"display_name": |-
+  VRService.UserCFrameEnabled
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

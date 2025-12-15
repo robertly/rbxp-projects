@@ -1,0 +1,9 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "crossfade-async",
+        "tree": {
+            "$path": "package"
+        }
+    }
+}

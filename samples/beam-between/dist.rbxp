@@ -1,0 +1,25 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "beam-between",
+        "tree": {
+            "BeamBetween": {
+                "BeamBetween": {
+                    "$path": "package.rbxp"
+                },
+                "Demo": {
+                    "Instances": {
+                        "$path": "demo/instances"
+                    },
+                    "DemoScript": {
+                        "$className": "Script",
+                        "$path": "demo/DemoScript.client.lua",
+                        "$properties": {
+                            "RunContext": 2
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

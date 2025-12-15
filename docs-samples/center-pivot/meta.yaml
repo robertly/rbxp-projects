@@ -1,0 +1,4 @@
+display_name: Center Pivot
+description: |
+  Demonstrates moving the pivot of a model to the center of the model using the model's bounding box. Includes a model with and without a PrimaryPart.
+category: Model

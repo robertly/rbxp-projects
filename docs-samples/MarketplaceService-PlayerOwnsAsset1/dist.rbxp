@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "MarketplaceService-PlayerOwnsAsset1",
+		"tree": {
+			"MarketplaceService-PlayerOwnsAsset1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

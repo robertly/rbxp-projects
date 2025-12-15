@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Keyframe-Generate-Poses",
+		"tree": {
+			"Keyframe-Generate-Poses": {
+				"$path": "demo"
+			}
+		}
+	}
+}

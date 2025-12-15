@@ -1,0 +1,9 @@
+description: |
+  This code sample shows how to use the require function on a ModuleScript, then
+  use the value that it returned. See the "Simple ModuleScript Example" for the
+  code to go with this sample.
+display_name: |-
+  Simple ModuleScript Usage
+expected_output: "foo\nbar"
+highlight_lines: ""
+category: Docs Sample

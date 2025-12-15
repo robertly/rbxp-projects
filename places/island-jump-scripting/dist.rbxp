@@ -1,0 +1,44 @@
+{
+    "fileVersion": 1,
+    "placeFile": "terrain.template.rbxl",
+    "instanceHierarchy": {
+        "name": "island-jump-scripting",
+        "tree": {
+            "$className": "DataModel",
+            "ReplicatedStorage": {
+                "$className": "ReplicatedStorage",
+                "$path": "src/ReplicatedStorage",
+                "Instances": {
+                    "$path": "instances/ReplicatedStorage"
+                }
+            },
+            "ServerScriptService": {
+                "$className": "ServerScriptService",
+                "$path": "src/ServerScriptService"
+            },
+            "ServerStorage": {
+                "$className": "ServerStorage",
+                "$path": "src/ServerStorage",
+                "Leaderboard": {
+                    "$path": "../../samples/leaderboard/package.rbxp"
+                },
+            },
+            "StarterPlayer": {
+                "$className": "StarterPlayer",
+                "$properties": {
+                    "CharacterUseJumpPower": true
+                }
+            },
+            "Workspace": {
+                "$className": "Workspace",
+                "World": {
+                    "$path": "instances/Workspace/World"
+                }
+            },
+            "Lighting": {
+                "$className": "Lighting",
+                "$path": "instances/Lighting"
+            }
+        }
+    }
+}

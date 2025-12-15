@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "setting-a-trail-s-facecamera-property",
+		"tree": {
+			"setting-a-trail-s-facecamera-property": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,9 @@
+"description": |
+  This sample prints badge information fetched via
+  `Class.BadgeService:GetBadgeInfoAsync()`.
+"display_name": |-
+  Getting Badge Info
+"expected_output": ""
+"highlight_lines": |
+  5
+"category": Docs Sample

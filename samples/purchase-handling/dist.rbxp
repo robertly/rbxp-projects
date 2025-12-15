@@ -1,0 +1,18 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "PurchaseHandlingExample",
+        "tree": {
+            "PurchaseHandling": {
+                "$path": "package.rbxp",
+            },
+            "Example": {
+                "$className": "Script",
+                "$path": "Example.server.lua",
+                "$properties": {
+                    "RunContext": 1
+                }
+            }
+        }
+    }
+}

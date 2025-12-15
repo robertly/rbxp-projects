@@ -1,0 +1,9 @@
+"description": |
+  This sample includes a function that will generate a 'blank' keyframe
+  containing blank poses for all of the model's connected parts in the correct
+  hierarchical order.
+"display_name": |-
+  Keyframe Generate Poses
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

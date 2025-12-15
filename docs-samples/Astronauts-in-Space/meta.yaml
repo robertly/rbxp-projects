@@ -1,0 +1,16 @@
+"description": |
+  This code sample uses HttpService's GetAsync to make a request to
+  [Open Notify](http://open-notify.org), a web service that provides data from
+  NASA. The request is made to an endpoint that provides information on how many
+  astronauts are currently in space. The response is provided in JSON format, so
+  it is parsed using JSONDecode. Finally, the response data is then processed
+  and printed to the Output.
+
+  Test this script by pasting the source code into a Script (HttpService cannot
+  be used by LocalScripts). Also, be sure to enable HTTP Requests in your Game
+  Settings (Home > Game Settings).
+"display_name": |-
+  Astronauts in Space
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

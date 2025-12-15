@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Sound-Loaded",
+		"tree": {
+			"Sound-Loaded": {
+				"$path": "demo"
+			}
+		}
+	}
+}

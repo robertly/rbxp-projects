@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "jumping-particles",
+		"tree": {
+			"jumping-particles": {
+				"$path": "demo"
+			}
+		}
+	}
+}

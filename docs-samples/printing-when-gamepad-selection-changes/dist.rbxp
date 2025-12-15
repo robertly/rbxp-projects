@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "printing-when-gamepad-selection-changes",
+		"tree": {
+			"printing-when-gamepad-selection-changes": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+"description": |
+  Many terrain methods throw an error if their given region size is too large.
+  The limit is currently 4194304 voxels^3 for ReadVoxels() and WriteVoxels(),
+  and 67108864 voxels^3 for other methods. For methods that take a cframe + size
+  combination (e.g. FillBlock, FillCylinder etc.), then the region volume is
+  calculated from the AABB of the target area.
+"display_name": |-
+  Maximum Region Size
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

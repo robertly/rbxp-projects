@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "getbadgeinfoasync",
+		"tree": {
+			"getbadgeinfoasync": {
+				"$path": "demo"
+			}
+		}
+	}
+}

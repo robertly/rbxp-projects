@@ -1,0 +1,28 @@
+"description": |
+  The example below creates a custom scrolling frame using a `Frame` to mimic a
+  `ScrollingFrame` using the `Class.GuiObject.MouseWheelForward` and
+  `Class.GuiObject.MouseWheelBackward`.
+
+  The example works by moving a Frame that is the child of our
+  **CustomScrollingFrame** and parent to the `TextBox|TextBoxes`. Thus, we use a
+  Frame to act as a container for the GUI elements we want to scroll. The script
+  adjust's the `Datatype.UDim2` **Y** scale position of the Frame between 0 and
+  -1 when the user scroll's their mouse forward and backward to mimic the
+  scrolling of a traditional ScrollingFrame element.
+
+  Although this is a simple application of the MouseWheel events, it can be
+  expanded upon for more complex `GuiObject|GUI` layouts and interaction such as
+  custom ScrollingFrames that scroll at different rates or with different
+  elasticity.
+
+  The gif below demonstrates the expected functionality of the code based on the
+  GUI layout also shown below.
+
+  ![Code sample demonstration](/assets/legacy/CustomScrollingFrameDemo.gif)
+
+  ![GUI Layout in Studio Explorer Window](/assets/legacy/Screen_Shot_2018-09-11_at_10.21.41_PM.png)
+"display_name": |-
+  Custom Scrolling GUI
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

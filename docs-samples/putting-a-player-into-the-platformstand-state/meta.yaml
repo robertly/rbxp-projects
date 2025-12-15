@@ -1,0 +1,9 @@
+"description": |
+  The code below enables the `Class.Players.LocalPlayer|localplayer's`
+  `Class.Humanoid.PlatformStand` state, essentially freezing the player in
+  place.
+"display_name": |-
+  Putting a Player into the PlatformStand State
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

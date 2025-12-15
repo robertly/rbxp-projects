@@ -1,0 +1,21 @@
+"description": |
+  This code sample demonstrates binding an "Inspect" action to a touch button
+  created automatically by `ContextActionService`. The button is customized
+  using `Class.ContextActionService:SetImage()|SetImage()`,
+  `Class.ContextActionService:SetTitle()|SetTitle()`,
+  `Class.ContextActionService:SetDescription()|SetDescription()` and
+  `Class.ContextActionService:SetPosition()|SetPosition()`. The button is
+  further customized by using
+  `Class.ContextActionService:GetButton()|GetButton()` to get a reference to the
+  `ImageButton` itself and tinting it green by setting
+  `Class.ImageButton.ImageColor3`.
+
+  Paste this code into a `LocalScript` placed within `StarterPlayerScripts` to
+  test it. In Studio, be sure to toggle the touch device emulator in order for
+  the button to actually be created.
+"display_name": |-
+  ContextActionService Touch Button
+"expected_output": |-
+  When run on a touch-enabled device, a green-tinted button will appear. The message "Inspecting" will be printed when the button is pressed then released, or when the E key is pressed.
+"highlight_lines": ""
+"category": Docs Sample

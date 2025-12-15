@@ -1,0 +1,11 @@
+"description": |
+  This example demonstrates how to measure the distance between a player's
+  `Class.Player.Character` and another location.
+
+  This code will print the distance of each player's character from the origin
+  (0, 0, 0):
+"display_name": |-
+  Measuring the Distance Between a Player and a Position
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

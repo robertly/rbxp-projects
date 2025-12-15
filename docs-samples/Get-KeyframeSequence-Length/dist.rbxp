@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Get-KeyframeSequence-Length",
+		"tree": {
+			"Get-KeyframeSequence-Length": {
+				"$path": "demo"
+			}
+		}
+	}
+}

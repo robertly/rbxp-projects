@@ -1,0 +1,18 @@
+"description": |
+  This example demonstrates how to use touch input events to drag a GUI element
+  while a player touches and drags across their screen.
+
+  The touch `InputObject` is the same input object throughout the lifetime of
+  the touch. So comparing input objects when they are touch objects is valid to
+  determine if it is the same touch as the input starts, changes, and ends.
+
+  The example starts tracking a drag once the touch is registered by the
+  `Class.UserInputService.TouchStarted|TouchStarted()` event. It continues to
+  update as that touch moves, tracking it's position relative to start position
+  to move a GUI until a `Class.UserInputService.TouchStarted|TouchEvent` event
+  fires for that touch.
+"display_name": |-
+  Tracking Touches
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

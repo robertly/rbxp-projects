@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "selecting-guis-at-a-position",
+		"tree": {
+			"selecting-guis-at-a-position": {
+				"$path": "demo"
+			}
+		}
+	}
+}

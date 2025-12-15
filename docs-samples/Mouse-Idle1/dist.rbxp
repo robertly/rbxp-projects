@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Mouse-Idle1",
+		"tree": {
+			"Mouse-Idle1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

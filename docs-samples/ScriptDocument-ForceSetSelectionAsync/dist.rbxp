@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "ScriptDocument-ForceSetSelectionAsync",
+		"tree": {
+			"ScriptDocument-ForceSetSelectionAsync": {
+				"$path": "demo"
+			}
+		}
+	}
+}

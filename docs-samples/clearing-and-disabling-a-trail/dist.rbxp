@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "clearing-and-disabling-a-trail",
+		"tree": {
+			"clearing-and-disabling-a-trail": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,13 @@
+"description": |
+  This code sample includes a simple function that uses Sound.TimeLength and
+  Sound.PlaybackSpeed to play a sound that'll take the given duration to
+  complete. It achieves this by setting the PlaybackSpeed of the sound to be
+  equal to the TimeLength of the sound divided by the desired duration.
+
+  Note that as TimeLength is equal to 0 when the sound has not loaded, the
+  function will yield while it loads the sound.
+"display_name": |-
+  Play a Sound for a Specific Duration
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "BasePart-GetMass1",
+		"tree": {
+			"BasePart-GetMass1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

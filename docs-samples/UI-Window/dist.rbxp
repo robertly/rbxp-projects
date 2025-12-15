@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "UI-Window",
+		"tree": {
+			"UI-Window": {
+				"$path": "demo"
+			}
+		}
+	}
+}

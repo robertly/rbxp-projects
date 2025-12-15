@@ -1,0 +1,4 @@
+display_name: Leader Election
+description: |
+  Demonstrates how to run a loop on a single server at once using MemoryStores. Useful for things like global matchmaking code that only need to run on one server at a time.
+category: Cloud Services

@@ -1,0 +1,28 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "portal-door",
+		"tree": {
+			"PortalDoor": {
+				"PortalDoor": {
+					"$className": "Script",
+					"$path": "demo/PortalDoor.client.lua",
+					"$properties": {
+						"RunContext": 2
+					}
+				},
+				"Instances": {
+					"Interior": {
+						"$path": "demo/Instances/Interior.rbxm"
+					},
+					"Exterior": {
+						"$path": "demo/Instances/Exterior.rbxm"
+					},
+					"PortalDoorGui": {
+						"$path": "demo/Instances/PortalDoorGui.rbxm"
+					}
+				}
+			}
+		}
+	}
+}

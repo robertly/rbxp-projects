@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "displaying-a-humanoids-health-and-name",
+		"tree": {
+			"displaying-a-humanoids-health-and-name": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "FunctionalTest-Warn1",
+		"tree": {
+			"FunctionalTest-Warn1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

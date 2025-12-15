@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Sound-Global-Parent",
+		"tree": {
+			"Sound-Global-Parent": {
+				"$path": "demo"
+			}
+		}
+	}
+}

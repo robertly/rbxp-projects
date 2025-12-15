@@ -1,0 +1,8 @@
+"description": |
+  This code, put in a `LocalScript`, would make the local player take 99 damage
+  _only_ if a ForceField wasn't present.
+"display_name": |-
+  Damaging a Humanoid
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

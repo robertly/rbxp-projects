@@ -1,0 +1,32 @@
+"description": |
+  This example demos setting a trail's texture length.
+
+  In order to do this, we must first create a `BasePart`, _part_, which will be
+  the parent of the trail.
+
+  Then, we create two attachments, _attachment0_ and _attachment1_, both
+  parented to _part_. The positions of these two attachments, more importantly
+  the distance between them, determines where the trail is drawn as _part_
+  moves.
+
+  For these attachments to create a trail as described, we create a new Trail
+  and parent it to _part_. We then connect _attachment0_ to
+  `Class.Trail.Attachment0` and _attachment1_ to `Class.Trail.Attachment1`.
+
+  In this example, we initially set the trail's texture length to 4 (and
+  `Class.Trail.TextureMode` to _static_). Then, to demonstrate the effects of
+  changing the trail length, we alternate between a trail length of 2 and 4
+  every 5 seconds by adding and subtracting 2 from the length. This example uses
+  the [pawprint](https://www.roblox.com/library/909814149/Paw-Prints) image as
+  its `Class.Trail.Texture`.
+
+  Finally, to demo the texture mode the example relies on `TweenService`'s
+  `Class.TweenService:Create()` to move _part_ back and forth. As the part
+  moves, the trail is drawn.
+
+  ![Demonstrating the static trail texture mode.](/assets/legacy/TrailTexture.gif)
+"display_name": |-
+  Setting a Trail's Texture Length
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

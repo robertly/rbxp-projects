@@ -1,0 +1,9 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "create-instance-tree",
+        "tree": {
+            "$path": "package"
+        }
+    }
+}

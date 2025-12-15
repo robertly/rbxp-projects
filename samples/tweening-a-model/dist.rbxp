@@ -1,0 +1,20 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "tweening-a-model",
+        "tree": {
+            "TweeningAModel": {
+                "TweenModelScript": {
+                    "$className": "Script",
+                    "$path": "demo/TweenModelScript.client.lua",
+                    "$properties": {
+                        "RunContext": 2
+                    }
+                },
+                "HealthPack": {
+                    "$path": "demo/HealthPack.rbxm"
+                }
+            }
+        }
+    }
+}

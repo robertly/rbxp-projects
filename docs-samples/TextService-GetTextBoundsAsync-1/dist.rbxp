@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "TextService-GetTextBoundsAsync-1",
+		"tree": {
+			"TextService-GetTextBoundsAsync-1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,9 @@
+"description": |
+  This code sample adds a mark to players showing about how old their account
+  is. The mark uses a player's account age to determine if they are a New
+  Player, Veteran Player or Regular Player.
+"display_name": |-
+  Account Age Mark
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Terrain-FillBall",
+		"tree": {
+			"Terrain-FillBall": {
+				"$path": "demo"
+			}
+		}
+	}
+}

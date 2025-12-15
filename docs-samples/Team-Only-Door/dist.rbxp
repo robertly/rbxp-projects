@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Team-Only-Door",
+		"tree": {
+			"Team-Only-Door": {
+				"$path": "demo"
+			}
+		}
+	}
+}

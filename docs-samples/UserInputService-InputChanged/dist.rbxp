@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "UserInputService-InputChanged",
+		"tree": {
+			"UserInputService-InputChanged": {
+				"$path": "demo"
+			}
+		}
+	}
+}

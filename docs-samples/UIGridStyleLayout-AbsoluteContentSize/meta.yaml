@@ -1,0 +1,11 @@
+"description": |
+  In this example a UIGridLayout is created inside of a `ScrollingFrame`. To
+  make sure the `Class.ScrollingFrame.CanvasSize` is exactly the size it needs
+  to be to contain the grid, a function is connected to the grids
+  `Class.Instance:GetPropertyChangedSignal()` to listen for when the
+  AbsoluteContentSize of the grid changes, and sets the canvas size accordingly.
+"display_name": |-
+  Tracking AbsoluteContentSize Changes
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

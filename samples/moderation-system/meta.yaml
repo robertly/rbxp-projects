@@ -1,0 +1,3 @@
+display_name: Moderation System
+description: Demonstrates a simple moderation system that can kick users from any server or ban them for arbitrary lengths of time.
+category: General

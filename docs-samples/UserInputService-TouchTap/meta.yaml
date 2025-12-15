@@ -1,0 +1,20 @@
+"description": |
+  The code sample below demonstrates the difference between a
+  `Class.UserInputService.TouchTap|TouchTap()` and
+  `Class.UserInputService.TouchLongPress|TouchLongPress()` by creating a
+  `GuiObject|GUI` `Frame` that appears when user touches the screen of their
+  device and disappears when the `Class.UserInputEvent.TouchEnded|touch ends`.
+  When the long press event fires, the GUI doubles in size. Also, the GUI moves
+  to stay centered under the user's finger when the player moves their finger.
+
+  In order for the `Class.UserInputService.TouchLongPress|TouchLongPress()` to
+  fire, the user touch the screen and hold their finger still for a short period
+  of time. Once the touch moves, the long press event will not fire.
+
+  In order for the example to work as expected, it should be placed in a
+  `LocalScript` that is parented to a `ScreenGui`.
+"display_name": |-
+  The Difference Between TouchTap and TouchLongPress
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

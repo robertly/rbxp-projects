@@ -1,0 +1,36 @@
+"description": |
+  This example demos setting a trail's max length.
+
+  In order to do this, we must first create a `BasePart`, _part_, which will be
+  the parent of the trail.
+
+  Then, we create two attachments, _attachment0_ and _attachment1_, both
+  parented to _part_. The positions of these two attachments, more importantly
+  the distance between them, determines where the trail is drawn as _part_
+  moves.
+
+  For these attachments to create a trail as described, we create a new Trail
+  and parent it to _part_. We then connect _attachment0_ to
+  `Class.Trail.Attachment0` and _attachment1_ to `Class.Trail.Attachment1`.
+
+  In this example, we initially set the trail's max length to 8. Then, to
+  demonstrate the effects of changing the trail length, we alternate between a
+  trail length of 2 and 8 every 5 seconds by adding and subtracting 6 from the
+  length.
+
+  In order to best demonstrate the effect of max length, and how it will limit
+  how long a trail is before old segments are erased, the example sets the
+  `Class.Trail.Lifetime` of the trail to 10. Since the lifetime allows for a
+  trail much longer than 2 and 8, the example demonstrates the full effects of
+  changing the max length property.
+
+  Finally, to demo the trail's length constraint the example relies on
+  `TweenService`'s `Class.TweenService:Create()` to move _part_ back and forth.
+  As the part moves, the trail is drawn.
+
+  ![Demonstrating the static trail texture mode.](/assets/legacy/TrailTexture.gif)
+"display_name": |-
+  Setting a Trail's MaxLength
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

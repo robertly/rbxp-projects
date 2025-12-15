@@ -1,0 +1,15 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "data-store-wrapper",
+		"tree": {
+			"$path": "package",
+			"retryAsync": {
+				"$path": "../../samples/retry-async/package.rbxp"
+			},
+			"ThreadQueue": {
+				"$path": "../../samples/thread-queue/package.rbxp"
+			}
+		}
+	}
+}

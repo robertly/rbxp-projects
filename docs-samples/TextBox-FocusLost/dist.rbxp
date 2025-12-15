@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "TextBox-FocusLost",
+		"tree": {
+			"TextBox-FocusLost": {
+				"$path": "demo"
+			}
+		}
+	}
+}

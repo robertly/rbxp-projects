@@ -1,0 +1,14 @@
+"description": |
+  This code sample demonstrates the behavior of `Class.Instance:GetFullName()`.
+  It shows how the function behaves when called on an object not in the
+  `DataModel` hierarchy, and it also shows how the return value does not escape
+  special characters.
+"display_name": |-
+  Instance:GetFullName
+"expected_output": |-
+  Model.Part.Fire
+  Workspace.Model.Part.Fire
+  Workspace.Model.Hello, world.Fire
+"highlight_lines": |
+  5, 7, 9
+"category": Docs Sample

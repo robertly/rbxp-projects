@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "AnimationTrack-DidLoop",
+		"tree": {
+			"AnimationTrack-DidLoop": {
+				"$path": "demo"
+			}
+		}
+	}
+}

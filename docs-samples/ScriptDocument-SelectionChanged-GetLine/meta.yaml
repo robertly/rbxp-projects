@@ -1,0 +1,7 @@
+"description": |-
+  ScriptDocument.SelectionChanged and ScriptDocument:GetLine()
+"display_name": |-
+  ScriptDocument.SelectionChanged and ScriptDocument:GetLine()
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

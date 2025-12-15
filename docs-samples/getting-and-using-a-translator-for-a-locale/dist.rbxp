@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "getting-and-using-a-translator-for-a-locale",
+		"tree": {
+			"getting-and-using-a-translator-for-a-locale": {
+				"$path": "demo"
+			}
+		}
+	}
+}

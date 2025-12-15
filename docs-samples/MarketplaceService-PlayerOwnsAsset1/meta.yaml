@@ -1,0 +1,17 @@
+"description": |
+  This code sample demonstrates how to check if a player owns a certain item.
+  Here, we're checking for the item
+  [Midnight Shades](https://www.roblox.com/catalog/30331986/Midnight-Shades), a
+  hat that costs R$ 250. As a player enters the game, their account is checked
+  for the ownership of that item and a message is printed.
+
+  Notice how the call to PlayerOwnsAsset is wrapped in `pcall` - this prevents
+  the code from throwing an error in case the player's inventory can't be
+  checked for some reason. Should such an error occur, the `success` variable
+  would be false.
+"display_name": |-
+  Check for Item Ownership
+"expected_output": |-
+  Player owns Midnight Shades
+"highlight_lines": ""
+"category": Docs Sample

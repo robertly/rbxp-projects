@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Pathfinding-Creating-Path",
+		"tree": {
+			"Pathfinding-Creating-Path": {
+				"$path": "demo"
+			}
+		}
+	}
+}

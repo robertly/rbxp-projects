@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "get-humanoiddescription-from-userid",
+		"tree": {
+			"get-humanoiddescription-from-userid": {
+				"$path": "demo"
+			}
+		}
+	}
+}

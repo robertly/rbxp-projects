@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Touching-Parts-Count",
+		"tree": {
+			"Touching-Parts-Count": {
+				"$path": "demo"
+			}
+		}
+	}
+}

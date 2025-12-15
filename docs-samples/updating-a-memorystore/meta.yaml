@@ -1,0 +1,10 @@
+"description": |
+  The code below updates the highest bid for an item in an auction. The use of
+  `Class.MemoryStoreSortedMap:UpdateAsync()` ensures that the highest bid is not
+  replaced with a lower value even if multiple game servers update the same item
+  simultaneously.
+"display_name": |-
+  Updating a MemoryStore
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

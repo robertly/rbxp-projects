@@ -1,0 +1,9 @@
+"description": |
+  This code sample demonstrates how `Class.ContentProvider:PreloadAsync()` can
+  be used to create a simple loading bar in a game, by loading the assets one at
+  a time.
+"display_name": |-
+  ContentProvider Loading Bar
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

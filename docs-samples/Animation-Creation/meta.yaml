@@ -1,0 +1,9 @@
+"description": |
+  This sample creates an Animation, with an AnimationId. It then creates an
+  AnimationTrack by loading the Animation onto a character's Humanoid, before
+  playing it.
+"display_name": |-
+  Animation Creation
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "GroupService-GetEnemiesAsync1",
+		"tree": {
+			"GroupService-GetEnemiesAsync1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

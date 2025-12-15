@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "ScriptEditorService-OpenScriptDocumentAsync",
+		"tree": {
+			"ScriptEditorService-OpenScriptDocumentAsync": {
+				"$path": "demo"
+			}
+		}
+	}
+}

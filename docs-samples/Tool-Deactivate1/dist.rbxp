@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Tool-Deactivate1",
+		"tree": {
+			"Tool-Deactivate1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

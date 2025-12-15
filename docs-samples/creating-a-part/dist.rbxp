@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "creating-a-part",
+		"tree": {
+			"creating-a-part": {
+				"$path": "demo"
+			}
+		}
+	}
+}

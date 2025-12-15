@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "analytics-event---progression",
+		"tree": {
+			"analytics-event---progression": {
+				"$path": "demo"
+			}
+		}
+	}
+}

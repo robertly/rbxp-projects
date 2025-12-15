@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "TextBox-ReleaseFocus1",
+		"tree": {
+			"TextBox-ReleaseFocus1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,9 @@
+"description": |
+  This code sample demonstrates the usage of `Class.Terrain:ReplaceMaterial()`
+  by replacing grass near the game origin with asphalt. It does this by
+  constructing a `Datatype.Region3` using two `Datatype.Vector3`s.
+"display_name": |-
+  Terrain:ReplaceMaterial
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

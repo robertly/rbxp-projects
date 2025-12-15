@@ -1,0 +1,9 @@
+"description": |
+  The below example will print the name and description of the asset with an ID
+  of 125378389. In this case it will print: _"Mr. Fancy Top Hat :: So fancy that
+  even his top hat's top hat has a top hat."_
+"display_name": |-
+  Getting Product Info
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

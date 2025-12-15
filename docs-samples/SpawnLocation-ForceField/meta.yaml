@@ -1,0 +1,8 @@
+"description": |
+  This sample will create a neutral SpawnLocation in the Workspace that'll give
+  players spawning a ForceField for 20 seconds.
+"display_name": |-
+  SpawnLocation ForceField
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

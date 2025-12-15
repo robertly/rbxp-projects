@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "uigradient-offset-animation",
+		"tree": {
+			"uigradient-offset-animation": {
+				"$path": "demo"
+			}
+		}
+	}
+}

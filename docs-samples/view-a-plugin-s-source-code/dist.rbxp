@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "view-a-plugin-s-source-code",
+		"tree": {
+			"view-a-plugin-s-source-code": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,8 @@
+"description": |
+  This example retrieves and prints the name of the user's current
+  VRTouchpad.Left touchpad mode.
+"display_name": |-
+  VRService:GetTouchpadMode
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

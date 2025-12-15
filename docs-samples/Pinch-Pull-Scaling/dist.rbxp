@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Pinch-Pull-Scaling",
+		"tree": {
+			"Pinch-Pull-Scaling": {
+				"$path": "demo"
+			}
+		}
+	}
+}

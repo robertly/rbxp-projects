@@ -1,0 +1,17 @@
+"description": |
+  This example binds the _moveToMouse()_ to
+  `Class.RunService:BindToRenderStep()|RunService's RenderStep` to move the
+  `Class.GuiObject|GUI` to the location of the player's mouse. It does this by
+  converting the location, a `Datatype.Vector2`, into a `Datatype.UDim2`.
+
+  The example sets the value of the GUI's parent `ScreenGui`
+  `Class.ScreenGui.IgnoreGuiInset` property to false force the GUI Inset imposed
+  by Roblox's CoreGuis to be ignored by the ScreenGui and its descendants
+
+  In order for this example to work as expected, it should be placed in a
+  `LocalScript` that is a child of the GUI being moved to the mouse's location.
+"display_name": |-
+  Move GUI To Mouse Location
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

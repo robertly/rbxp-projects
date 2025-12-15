@@ -1,0 +1,9 @@
+"description": |
+  This code sample includes a demonstration of how the `Class.Seat.Occupant`
+  property can be used to track which player is sitting in a seat and when they
+  sit down or sit up.
+"display_name": |-
+  Detecting Seat Occupant
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

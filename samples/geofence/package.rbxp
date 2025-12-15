@@ -1,0 +1,12 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "geofence",
+		"tree": {
+			"$path": "package",
+			"retryAsync": {
+				"$path": "../../samples/retry-async/package.rbxp"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "GuiObject-MouseEnter1",
+		"tree": {
+			"GuiObject-MouseEnter1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

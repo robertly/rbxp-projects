@@ -1,0 +1,9 @@
+"description": |
+  This example makes the small motor vibrate depending on how much pressure is
+  applied to the left trigger, and the large motor vibrate depending on how much
+  pressure is applied to the right trigger.
+"display_name": |-
+  HapticService:SetMotor
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

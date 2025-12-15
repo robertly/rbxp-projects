@@ -1,0 +1,11 @@
+"description": |
+  This code sample allows the player to manipulate the screen position of some
+  UI element, like a `Frame`, by holding down on the UI element for a brief
+  moment. Then, the player moves their finger and releases. During the gesture
+  the Frame is colored blue with a white outline.
+"display_name": |-
+  Move UI Element with TouchLongPress
+"expected_output": |-
+  When the player hold their finger down on the Frame, it should turn blue to indicate the beginning of a TouchLongPress gesture. Moving their finger should move the Frame accordingly. Releasing it will return the Frame to its original color.
+"highlight_lines": ""
+"category": Docs Sample

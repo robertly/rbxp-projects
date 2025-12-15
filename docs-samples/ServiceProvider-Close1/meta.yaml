@@ -1,0 +1,7 @@
+"description": |
+  This example prints "The place is closing" when the game.Close event fires.
+"display_name": |-
+  ServiceProvider.Close
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

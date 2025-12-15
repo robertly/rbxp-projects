@@ -1,0 +1,9 @@
+"description": |
+  This code sample gives the local client X-ray vision using
+  LocalTransparencyModifier. It allows the player to see through all parts in
+  the Workspace, which are found using recursion.
+"display_name": |-
+  X-Ray Vision
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

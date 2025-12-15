@@ -1,0 +1,10 @@
+"description": |
+  This code sample creates a Handles object and shows how to set the Faces
+  property of the object. It also references ResizeableFaces of a part. Try
+  placing this script in multiple kinds of parts to see how ResizeableFaces
+  varies.
+"display_name": |-
+  Resize Handles
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

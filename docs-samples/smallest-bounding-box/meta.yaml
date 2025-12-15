@@ -1,0 +1,4 @@
+display_name: Smallest Bounding Box
+description: |
+  Demonstrates getting the size of the smallest bounding box of a model containing scattered parts using `Class.Model:GetExtentsSize()` and `Class.Model:GetBoundingBox()`. A DemoVisual part is created to represent this bounding box.
+category: Model

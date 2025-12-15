@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "International-Space-Station",
+		"tree": {
+			"International-Space-Station": {
+				"$path": "demo"
+			}
+		}
+	}
+}

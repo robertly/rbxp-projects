@@ -1,0 +1,12 @@
+"description": |
+  This rather lengthy code sample shows how every property of a
+  `ParticleEmitter` can be set, including `Datatype.NumberRange`,
+  `Datatype.NumberSequence` and `Datatype.ColorSequence` properties. Below is
+  how the ParticleEmitter should after every property is set. Try playing around
+  with the different properties to customize how the effect looks!
+"display_name": |-
+  Creating a Particle Emitter from Scratch
+"expected_output": |-
+  When you run the code sample, you should see particles that look like the provided animation.
+"highlight_lines": ""
+"category": Docs Sample

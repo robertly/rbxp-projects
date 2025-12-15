@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "ChatInputBarConfiguration-Typing-Indicator",
+		"tree": {
+			"ChatInputBarConfiguration-Typing-Indicator": {
+				"$path": "demo"
+			}
+		}
+	}
+}

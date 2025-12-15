@@ -1,0 +1,25 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "character-path",
+        "tree": {
+            "CharacterPath": {
+                "CharacterPath": {
+                    "$path": "package.rbxp"
+                },
+                "Demo": {
+                    "Instances": {
+                        "$path": "demo/instances"
+                    },
+                    "DemoScript": {
+                        "$className": "Script",
+                        "$path": "demo/DemoScript.client.lua",
+                        "$properties": {
+                            "RunContext": 2
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

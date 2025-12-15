@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "occlude-player-names",
+		"tree": {
+			"occlude-player-names": {
+				"$path": "demo"
+			}
+		}
+	}
+}

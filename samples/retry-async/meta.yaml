@@ -1,0 +1,6 @@
+display_name: Retry Async
+description: |
+  `retryAsync` retries function calls that may fail, and provides various arguments to describe the retry behavior. The first argument is the function it calls repeatedly until it either succeeds or is called the maximum number of times specified by `maxAttempts`. The optional third and fourth arguments allow you to customize the initial pause time and the exponent used to increase the pause time with each retry. The optional fifth argument allows you to specify a function call handler, used to make each function call (default is pcall). `retryAsync` returns a boolean indicating whether the final call to the given function was successful, and the return values of the final call (if successful) or the error message (if not successful).
+
+  DemoScript provides an example using retryAsync to call a function that intentionally has a chance to error. Results of each call and the final result are printed.
+category: Utility

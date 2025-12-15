@@ -1,0 +1,26 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "PlayerData",
+        "tree": {
+            "$path": "sample",
+            "Signal": {
+                "$path": "../../dependencies/Signal.lua"
+            },
+            "noYield": {
+                "$path": "../../dependencies/noYield.lua"
+            },
+            "Remotes": {
+                "PlayerDataLoaded": {
+                    "$className": "RemoteEvent"
+                },
+                "PlayerDataUpdated": {
+                    "$className": "RemoteEvent"
+                },
+                "PlayerDataSaved": {
+                    "$className": "RemoteEvent"
+                }
+            }
+        }
+    }
+}

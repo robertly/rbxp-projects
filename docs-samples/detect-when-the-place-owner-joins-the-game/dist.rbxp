@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "detect-when-the-place-owner-joins-the-game",
+		"tree": {
+			"detect-when-the-place-owner-joins-the-game": {
+				"$path": "demo"
+			}
+		}
+	}
+}

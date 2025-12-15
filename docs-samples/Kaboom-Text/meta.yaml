@@ -1,0 +1,8 @@
+"description": |
+  This code sample repeatedly tweens a TextLabel's TextSize from 5 to 100 and
+  fades out the text as it grows in size.
+"display_name": |-
+  "Kaboom!" Text
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

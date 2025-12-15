@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "batch-convert-decal-web-urls-to-image-content-ids",
+		"tree": {
+			"batch-convert-decal-web-urls-to-image-content-ids": {
+				"$path": "demo"
+			}
+		}
+	}
+}

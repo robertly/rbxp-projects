@@ -1,0 +1,30 @@
+"description": |
+  This example demos setting a trail's texture mode.
+
+  In order to do this, we must first create a `BasePart`, _part_, which will be
+  the parent of the trail.
+
+  Then, we create two attachments, _attachment0_ and _attachment1_, both
+  parented to _part_. The positions of these two attachments, more importantly
+  the distance between them, determines where the trail is drawn as _part_
+  moves.
+
+  For these attachments to create a trail as described, we create a new Trail
+  and parent it to _part_. We then connect _attachment0_ to
+  `Class.Trail.Attachment0` and _attachment1_ to `Class.Trail.Attachment1`.
+
+  In this example, we set the trail's texture mode to _static_. Note that this
+  is just one of three possible modes, and that the example below can easily be
+  changed to use another mode. We also set the texture of the trail to a
+  [pawprint](https://www.roblox.com/library/909814149/Paw-Prints) image.
+
+  Finally, to demo the texture mode the example relies on `TweenService`'s
+  `Class.TweenService:Create()` to move _part_ back and forth. As the part
+  moves, the trail is drawn.
+
+  ![Demonstrating the static trail texture mode.](/assets/legacy/TrailTexture.gif)
+"display_name": |-
+  Setting a Trail's Texture Mode
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,29 @@
+"description": |
+  This example demos the functionality of the FaceEnabled property.
+
+  In order to do this, we must first create a `BasePart`, _part_, which will be
+  the parent of the trail.
+
+  Then, we create two attachments, _attachment0_ and _attachment1_, both
+  parented to _part_. The positions of these two attachments, more importantly
+  the distance between them, determines where the trail is drawn as _part_
+  moves.
+
+  For these attachments to create a trail as described, we create a new Trail
+  and parent it to _part_. We then connect _attachment0_ to
+  `Class.Trail.Attachment0` and _attachment1_ to `Class.Trail.Attachment1`.
+
+  In this example, we initially set the FaceCamera property to _true_. Then,
+  every 5 seconds we toggle the property to the opposite state so that the
+  property switches between _true_ and _false_ every few seconds. When the
+  property is enabled (_true_), you can rotate your camera around the trail to
+  demonstrate how the trail's segments always face the player's camera.
+
+  Finally, to demo the property the example relies on `TweenService`'s
+  `Class.TweenService:Create()` to move _part_ back and forth. As the part
+  moves, the trail is drawn.
+"display_name": |-
+  Setting a Trail's FaceCamera Property
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

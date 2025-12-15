@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "prompt-premium-upsell",
+		"tree": {
+			"prompt-premium-upsell": {
+				"$path": "demo"
+			}
+		}
+	}
+}

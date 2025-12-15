@@ -1,0 +1,10 @@
+"description": |
+  The event below demonstrates one possible usage for the
+  `AnalyticsService:FireInGameEconomyEvent` function. It uses the function to
+  invoke an analytics economy event when the parented gold `Part` is touched by
+  a player.
+"display_name": |-
+  Analytics Event - Economy
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

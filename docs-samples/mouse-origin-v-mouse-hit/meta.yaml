@@ -1,0 +1,18 @@
+"description": |
+  The code below visualizes the difference between `Class.Mouse.Hit` and
+  `Class.Mouse.Origin`. In order to do this, the code uses the
+  `Datatype.Vector3` positions of the hit and origin `Datatype.CFrame` values
+  using `.p`.
+
+  The difference is that the origin is "where the mouse came from" (its origin)
+  and the hit is the position where the mouse hits (is when the player presses
+  their mouse).
+
+  This example also visualizes that the mouse origin is very similar to the
+  position of the `CurrentCamera` by printing the magnitude (distance) between
+  the two positions.
+"display_name": |-
+  Mouse Origin vs Mouse Hit vs CurrentCamera Position
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

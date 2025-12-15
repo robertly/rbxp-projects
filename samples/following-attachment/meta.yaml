@@ -1,0 +1,8 @@
+display_name: Model Following a Player
+description: |
+  The FollowingAttachment module creates an attachment that trails on the ground at some max distance behind a player's character.
+
+  DemoScript uses constraints to align a rock part's position and orientation with the attachment such that the rock follows each player's character.
+
+  The attachment stops updating and the rock is destroyed when the character dies.
+category: Player & Character

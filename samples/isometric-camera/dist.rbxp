@@ -1,0 +1,17 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "isometric-camera",
+        "tree": {
+            "IsometricCamera": {
+                "IsometricCameraScript": {
+                    "$className": "Script",
+                    "$path": "demo/IsometricCameraScript.client.lua",
+                    "$properties": {
+                        "RunContext": 2
+                    }
+                }
+            }
+        }
+    }
+}

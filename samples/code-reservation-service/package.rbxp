@@ -1,0 +1,18 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "code-reservation-service",
+		"tree": {
+			"$path": "package",
+			"retryAsync": {
+				"$path": "../../samples/retry-async/package.rbxp"
+			},
+			"setSequentialInterval": {
+				"$path": "../../dependencies/set-sequential-interval/package.rbxp"
+			},
+			"LeaderElection": {
+				"$path": "../../samples/leader-election/package.rbxp"
+			}
+		}
+	}
+}

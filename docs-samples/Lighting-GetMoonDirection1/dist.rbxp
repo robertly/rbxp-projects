@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Lighting-GetMoonDirection1",
+		"tree": {
+			"Lighting-GetMoonDirection1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

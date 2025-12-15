@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "setting-a-trail-s-lifetime",
+		"tree": {
+			"setting-a-trail-s-lifetime": {
+				"$path": "demo"
+			}
+		}
+	}
+}

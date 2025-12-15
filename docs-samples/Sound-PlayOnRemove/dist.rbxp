@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Sound-PlayOnRemove",
+		"tree": {
+			"Sound-PlayOnRemove": {
+				"$path": "demo"
+			}
+		}
+	}
+}

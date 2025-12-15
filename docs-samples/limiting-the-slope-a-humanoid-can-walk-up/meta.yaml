@@ -1,0 +1,9 @@
+"description": "The example below demonstrates the effect of the MaxSlopAngle property\
+  \ by\nlimiting the maximum slope the `Class.Players.LocalPlayer` can walk up to\
+  \ 30\xB0.\nThe local player will slide down any slope greater than 30\xB0.\n\nThis\
+  \ code below works as expected when placed in a `LocalScript`.\n"
+"display_name": |-
+  Limiting The Slope a Humanoid Can Walk Up
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

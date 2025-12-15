@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "respawn-at-same-spot",
+		"tree": {
+			"respawn-at-same-spot": {
+				"$path": "demo"
+			}
+		}
+	}
+}

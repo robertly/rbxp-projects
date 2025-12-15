@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Rainbow-Image",
+		"tree": {
+			"Rainbow-Image": {
+				"$path": "demo"
+			}
+		}
+	}
+}

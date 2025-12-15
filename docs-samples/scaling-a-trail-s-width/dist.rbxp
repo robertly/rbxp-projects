@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "scaling-a-trail-s-width",
+		"tree": {
+			"scaling-a-trail-s-width": {
+				"$path": "demo"
+			}
+		}
+	}
+}

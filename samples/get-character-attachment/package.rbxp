@@ -1,0 +1,9 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "get-character-attachment",
+        "tree": {
+            "$path": "package"
+        }
+    }
+}

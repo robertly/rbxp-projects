@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "tracking-the-beginning-of-input-on-a-guiobject",
+		"tree": {
+			"tracking-the-beginning-of-input-on-a-guiobject": {
+				"$path": "demo"
+			}
+		}
+	}
+}

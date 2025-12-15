@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "limiting-textbox-selection",
+		"tree": {
+			"limiting-textbox-selection": {
+				"$path": "demo"
+			}
+		}
+	}
+}

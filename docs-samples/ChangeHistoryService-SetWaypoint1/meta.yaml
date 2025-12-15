@@ -1,0 +1,9 @@
+"description": |
+  In order for the waypoints to work correctly, you need to set one both before
+  AND after you perform the action that should be able to be undone.
+"display_name": |-
+  ChangeHistoryService:SetWaypoint
+"expected_output": ""
+"highlight_lines": |-
+  25
+"category": Docs Sample

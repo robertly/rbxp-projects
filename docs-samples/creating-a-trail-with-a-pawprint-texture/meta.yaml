@@ -1,0 +1,11 @@
+"description": |
+  This example adds a [pawprints][1] texture to a trail object. In order for a
+  trail to have a texture, the Texture property must be set to the asset link of
+  a roblox image.
+
+  [1]: https://www.roblox.com/library/909814149/Paw-Prints
+"display_name": |-
+  Creating a Trail With a Pawprint Texture
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

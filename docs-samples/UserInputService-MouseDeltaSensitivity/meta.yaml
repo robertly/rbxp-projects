@@ -1,0 +1,28 @@
+"description": |
+  This example creates a binoculars script that decreases the player's
+  `Class.Camera.FieldOfView|FieldOfView()` and
+  `Class.UserInputService.MouseDeltaSensitivity|MouseDeltaSensitivity()` when a
+  player with a `Class.UserInputService.MouseEnabled|MouseEnabled()` left mouse
+  clicks. The script also points the player's `Camera` towards the
+  `Datatype.Vector3` world position of the mouse click determined by the
+  `Class.Mouse|Mouse's` `Class.Mouse.Hit|Mouse.Hit.p` property.
+
+  When the player left mouse clicks again, the player's camera reverts back to
+  the a custom `Enum.CameraType` with the same field of view and
+  `Class.Camera.CFrame|CFrame()` as before the player zoomed in with the script.
+
+  While the player uses the binoculars, the script locks the player's mouse to
+  the center of the screen by setting the player's
+  `Enum.UserInputType.MouseBehavior|MouseBehavior()` to LockCenter. The player's
+  camera moves when the player moves their mouse according to the
+  `Class.InputObject.Delta` property passed by
+  `Class.UserInputService.InputChanged|InputChanged()` indicating the mouse's
+  `Datatype.Vector2` change in screen position.
+
+  In order for this example to work as expected, it should be placed in a
+  `LocalScript`.
+"display_name": |-
+  Create a Binoculars Script
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

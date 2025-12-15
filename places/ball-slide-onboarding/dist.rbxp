@@ -1,0 +1,38 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "ball-slide-onboarding",
+		"tree": {
+			"$className": "DataModel",
+			"ReplicatedStorage": {
+				"$className": "ReplicatedStorage",
+				"$path": "src/ReplicatedStorage",
+				"SeatedBall": {
+					"$path": "instances/ReplicatedStorage/SeatedBall.rbxm",
+					"Scripts": {
+						"$path": "src/BallScripts",
+					}
+				},
+				"VitruvianBall": {
+					"$path": "instances/ReplicatedStorage/VitruvianBall.rbxm",
+					"Scripts": {
+						"$path": "src/BallScripts",
+					}
+				},
+				"Instances": {
+					"$path": "instances/ReplicatedStorage",
+				},
+			},
+			"ServerScriptService": {
+				"$className": "ServerScriptService",
+				"$path": "src/ServerScriptService",
+			},
+			"Workspace": {
+				"$className": "Workspace",
+				"World": {
+					"$path": "instances/Workspace/World"
+				}
+			}
+		}
+	}
+}

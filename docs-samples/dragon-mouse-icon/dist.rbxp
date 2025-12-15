@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "dragon-mouse-icon",
+		"tree": {
+			"dragon-mouse-icon": {
+				"$path": "demo"
+			}
+		}
+	}
+}

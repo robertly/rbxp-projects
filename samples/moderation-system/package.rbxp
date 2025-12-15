@@ -1,0 +1,18 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "moderation-system",
+		"tree": {
+			"$path": "package",
+			"retryAsync": {
+				"$path": "../../samples/retry-async/package.rbxp"
+			},
+			"DataStoreWrapper": {
+				"$path": "../../samples/data-store-wrapper/package.rbxp"
+			},
+			"safePlayerAdded": {
+				"$path": "../../samples/safe-player-added/package.rbxp"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "UserInputService-WindowFocused-script",
+		"tree": {
+			"UserInputService-WindowFocused-script": {
+				"$path": "demo"
+			}
+		}
+	}
+}

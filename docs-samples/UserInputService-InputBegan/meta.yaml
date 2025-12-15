@@ -1,0 +1,8 @@
+"description": |
+  The following example demonstrates one of many usage examples of handling user
+  input from InputBegan depending on its type.
+"display_name": |-
+  Handling InputBegan
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "double-jump",
+		"tree": {
+			"double-jump": {
+				"$path": "demo"
+			}
+		}
+	}
+}

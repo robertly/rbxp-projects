@@ -1,0 +1,10 @@
+"description": |
+  This code sample will print an output when the user that owns the game, or a
+  member of the group that owns the game joins the server.
+
+  To run this script, place it inside a `Script` in `ServerScriptService`
+"display_name": |-
+  Detect when the place owner joins the game
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

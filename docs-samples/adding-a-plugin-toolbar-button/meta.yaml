@@ -1,0 +1,34 @@
+"description": |
+  Buttons are a great way to get input from the user. Let's change our plugin so
+  that it adds a button to the Studio toolbar which inserts a new script into
+  the game.
+
+  First, we need to make a toolbar to hold the button. For that, we'll use the
+  `Class.Plugin:CreateToolbar()` function. We can then call the
+  `Class.Toolbar:CreateButton()` function on that object to insert a custom
+  button for the plugin.
+
+  1. Open the <b>EmptyScriptAdder</b> script and delete `print("Hello world!")`.
+  2. Copy and paste <b>Part 1</b> of the code sample into the script:
+  3. Save the plugin as before (right-click the script and select <b>Save as
+     Local Plugin</b>). After this you'll see the button in the **Plugins** tab
+     of Studio.
+
+     <img src="/assets/legacy/Plugin-Toolbar-Button.png" />
+
+  4. The button doesn't do anything yet, so let's add some new code to have the
+     button insert a `Script` instance and use the `Class.Script.Source`
+     property to change its default content. Copy and paste <b>Part 2</b> of the
+     code sample into the script.
+
+  5. Once again, save the plugin through <b>Save as Local Plugin</b>. Now if you
+     click the <b>Add Script</b> plugin button, it will insert a new `Script`
+     into **ServerScriptService**. Best of all, the new script doesn't have the
+     `print("Hello world!")` command at the top!
+
+     <img src="/assets/legacy/Plugin-Inserted-Script.png" />
+"display_name": |-
+  Adding a Plugin Toolbar Button
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

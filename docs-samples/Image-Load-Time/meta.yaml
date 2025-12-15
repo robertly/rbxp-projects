@@ -1,0 +1,8 @@
+"description": |
+  This code sample measures how long an ImageLabel or ImageButton takes to load
+  an image. If the image was already loaded, this will be 0.
+"display_name": |-
+  Image Load Time
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,22 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "parallax-portal",
+		"tree": {
+			"ParallaxPortal": {
+				"Instances": {
+					"Portal": {
+						"$path": "demo/Instances/Portal.rbxm"
+					}
+				},
+				"PortalScript": {
+					"$className": "Script",
+					"$path": "demo/PortalScript.client.lua",
+					"$properties": {
+						"RunContext": 2
+					}
+				}
+			}
+		}
+	}
+}

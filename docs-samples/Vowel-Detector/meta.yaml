@@ -1,0 +1,8 @@
+"description": |
+  This code sample, when placed within a TextBox, will turn the text color red
+  if the typed string contains no vowels (A, E, I, O or U).
+"display_name": |-
+  Vowel Detector
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

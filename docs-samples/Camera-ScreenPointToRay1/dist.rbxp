@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Camera-ScreenPointToRay1",
+		"tree": {
+			"Camera-ScreenPointToRay1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

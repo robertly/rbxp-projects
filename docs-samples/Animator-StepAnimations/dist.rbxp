@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Animator-StepAnimations",
+		"tree": {
+			"Animator-StepAnimations": {
+				"$path": "demo"
+			}
+		}
+	}
+}

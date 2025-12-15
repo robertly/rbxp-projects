@@ -1,0 +1,12 @@
+"description": |
+  This code sample will cause a `Frame` (or other `GuiObject`) to bounce when a
+  swipe gesture is performed on a touch-enabled device (or Studio's emulator).
+  Horizontal swipes will change the hue of the
+  `Class.GuiObject.BackgroundColor3`, while vertical swipes will change the
+  saturation.
+"display_name": |-
+  Bouncing Color Picker
+"expected_output": |-
+  The Frame will bounce and change color in a direction when you perform a swipe gesture on it using a touch-enabled device (or Studio's emulator).
+"highlight_lines": ""
+"category": Docs Sample

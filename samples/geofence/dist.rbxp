@@ -1,0 +1,28 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "geofence",
+		"tree": {
+			"Geofence": {
+				"Geofence": {
+					"$path": "package.rbxp"
+				},
+				"Demo": {
+					"DemoScript": {
+						"$className": "Script",
+						"$path": "demo/DemoScript.client.lua",
+						"$properties": {
+							"RunContext": 2
+						}
+					},
+					"HotdogA": {
+						"$path": "demo/HotdogA.rbxm"
+					},
+					"HotdogB": {
+						"$path": "demo/HotdogB.rbxm"
+					}
+				}
+			}
+		}
+	}
+}

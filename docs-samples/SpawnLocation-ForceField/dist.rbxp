@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "SpawnLocation-ForceField",
+		"tree": {
+			"SpawnLocation-ForceField": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,8 @@
+"description": |
+  This code sample includes a brief snippet that creates a large explosion in
+  the game at 0, 10, 0.
+"display_name": |-
+  Explosion Instantiation
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

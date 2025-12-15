@@ -1,0 +1,11 @@
+"description": |
+  This code sample is meant to be placed in a `LocalScript` within an inner
+  `Frame` that is inside an outer `Frame`, or other `GuiObject`. It allows the
+  player to manipulate the position of the inner frame by moving their finger on
+  the outer frame.
+"display_name": |-
+  Panning UI Element
+"expected_output": |-
+  When the player begins moving their finger on the outer frame, the inner frame should move with their finger.
+"highlight_lines": ""
+"category": Docs Sample

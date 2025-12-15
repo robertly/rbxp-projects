@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "BoolValue-Changed1",
+		"tree": {
+			"BoolValue-Changed1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

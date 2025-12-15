@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Empty-StarterPack",
+		"tree": {
+			"Empty-StarterPack": {
+				"$path": "demo"
+			}
+		}
+	}
+}

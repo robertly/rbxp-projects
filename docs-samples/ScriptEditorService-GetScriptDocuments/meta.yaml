@@ -1,0 +1,4 @@
+display_name: Print the name of every script
+description: |
+  Gets all script documents in the place with `Class.ScriptEditorService:GetScriptDocuments()` and prints their names.
+category: Script Editor

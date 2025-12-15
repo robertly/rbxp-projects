@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "UserGameSettings-Listener",
+		"tree": {
+			"UserGameSettings-Listener": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,6 @@
+display_name: Beam Between
+description: |
+  Given two attachments and a beam prefab, this class continuously orients duplicates of the attachments to face each other so that the beam remains straight.
+
+  Also provides an API to enable/disable the beam and its orientation updates.
+category: Visual

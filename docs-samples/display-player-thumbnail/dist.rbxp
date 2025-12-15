@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "display-player-thumbnail",
+		"tree": {
+			"display-player-thumbnail": {
+				"$path": "demo"
+			}
+		}
+	}
+}

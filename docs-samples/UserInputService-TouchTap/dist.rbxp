@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "UserInputService-TouchTap",
+		"tree": {
+			"UserInputService-TouchTap": {
+				"$path": "demo"
+			}
+		}
+	}
+}

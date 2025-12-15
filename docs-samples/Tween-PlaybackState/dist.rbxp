@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Tween-PlaybackState",
+		"tree": {
+			"Tween-PlaybackState": {
+				"$path": "demo"
+			}
+		}
+	}
+}

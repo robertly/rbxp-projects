@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "ScriptEditorService-AutocompleteCallback",
+		"tree": {
+			"ScriptEditorService-AutocompleteCallback": {
+				"$path": "demo"
+			}
+		}
+	}
+}

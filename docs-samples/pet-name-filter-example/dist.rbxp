@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "pet-name-filter-example",
+		"tree": {
+			"pet-name-filter-example": {
+				"$path": "demo"
+			}
+		}
+	}
+}

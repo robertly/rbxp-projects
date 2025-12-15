@@ -1,0 +1,8 @@
+"description": |
+  This code sample creates some images of a lock and scales them using UIScale.
+  It lays them out using a UIListLayout.
+"display_name": |-
+  UI Scale Demo
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

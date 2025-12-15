@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "midas-touch-2",
+		"tree": {
+			"midas-touch-2": {
+				"$path": "demo"
+			}
+		}
+	}
+}

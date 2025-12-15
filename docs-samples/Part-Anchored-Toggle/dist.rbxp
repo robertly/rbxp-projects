@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Part-Anchored-Toggle",
+		"tree": {
+			"Part-Anchored-Toggle": {
+				"$path": "demo"
+			}
+		}
+	}
+}

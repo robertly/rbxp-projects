@@ -1,0 +1,22 @@
+"description": "This example controls the player's `Camera` so that it matches the\
+  \ player's\ndevice orientation via using the device's\n`Class.UserInputService.GyroscopeEnabled|gyroscope`\
+  \ and\n`Class.UserInputService.AccelerometerEnabled|accelerometer`.\n\nThe camera\
+  \ is positioned inside the player's head, and updated to move with\nthe player and\
+  \ the user's device rotation, by executing the following line\nevery `Class.RunService:BindToRenderStep()|RenderStep`:\n\
+  \n```lua\n\t\tcamera.CFrame = CFrame.new(head.Position - Vector3.new(0,8,10)) *\n\
+  currentRotation\n```\n\nThe code sample relies on the device's gyroscope to determine\
+  \ when the player\nrotates their device. It does so by connecting to the\n`Class.UserInputService.DeviceRotationChanged|DeviceRotationChanged()`\
+  \ event.\n\nThe code sample relies on the device's accelerometer to retrieve the\
+  \ gravity\nvector used to determine the device's orientation (whether it is flipped\n\
+  upside down or not). To determine whether the device's orientation is upside\ndown,\
+  \ the code sample uses the\n`Class.UserInputService.DeviceGravityChanged|DeviceGravityChanged()`\
+  \ event.\n\nSince the script places the camera inside the head to create a first-person\n\
+  camera, the limbs are made transparent by the `HideCharacter()` function so\nthat\
+  \ the player does not see their `Class.Player.Character` when rotating the\ncamera.\n\
+  \nIn order for this example to work as expected, it must be placed in a\n`LocalScript`\
+  \ and the user's device must have a gyroscope and an\naccelerometer.\n"
+"display_name": |-
+  Create a Gyroscopic Camera
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

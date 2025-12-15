@@ -1,0 +1,14 @@
+"description": |
+  In this sample Sound.PlaybackLoudness is used to create an amplitude bar that
+  shows the amplitude of a sound playing.
+
+  This code sample should be placed in StarterPlayerScripts.
+
+  A simple GUI is created, a frame holding that bar and a frame containing the
+  bar. A Sound is then played and the size of the bar is set to reflect the
+  Sound.PlaybackLoudness on a loop.
+"display_name": |-
+  Volume Amplitude Bar
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

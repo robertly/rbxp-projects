@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "ChangeHistoryService-SetWaypoint1",
+		"tree": {
+			"ChangeHistoryService-SetWaypoint1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

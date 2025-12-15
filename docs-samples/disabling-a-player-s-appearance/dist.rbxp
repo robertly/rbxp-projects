@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "disabling-a-player-s-appearance",
+		"tree": {
+			"disabling-a-player-s-appearance": {
+				"$path": "demo"
+			}
+		}
+	}
+}

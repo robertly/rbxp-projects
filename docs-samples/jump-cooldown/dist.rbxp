@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "jump-cooldown",
+		"tree": {
+			"jump-cooldown": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,9 @@
+"description": |
+  This function will make any `BasePart|BaseParts`, `Decal|Decals` or
+  `Texture|Textures` coming between the `Class.Workspace.CurrentCamera` and the
+  given cast points translucent.
+"display_name": |-
+  X-Ray Function
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

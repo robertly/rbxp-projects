@@ -1,0 +1,9 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "tween-group",
+        "tree": {
+            "$path": "package"
+        }
+    }
+}

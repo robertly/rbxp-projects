@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "creating-a-trail-with-a-pawprint-texture",
+		"tree": {
+			"creating-a-trail-with-a-pawprint-texture": {
+				"$path": "demo"
+			}
+		}
+	}
+}

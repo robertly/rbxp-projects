@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Instance-DescendantRemoving1",
+		"tree": {
+			"Instance-DescendantRemoving1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

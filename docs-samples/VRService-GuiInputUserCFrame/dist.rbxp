@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "VRService-GuiInputUserCFrame",
+		"tree": {
+			"VRService-GuiInputUserCFrame": {
+				"$path": "demo"
+			}
+		}
+	}
+}

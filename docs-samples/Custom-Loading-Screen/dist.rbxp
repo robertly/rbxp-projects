@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Custom-Loading-Screen",
+		"tree": {
+			"Custom-Loading-Screen": {
+				"$path": "demo"
+			}
+		}
+	}
+}

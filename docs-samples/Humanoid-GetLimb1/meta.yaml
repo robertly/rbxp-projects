@@ -1,0 +1,8 @@
+"description": |
+  Put this in a LocalScript. The output will vary based on if the humanoid is R6
+  or R15.
+"display_name": |-
+  Getting a Humanoid's Limbs
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

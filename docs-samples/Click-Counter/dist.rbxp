@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Click-Counter",
+		"tree": {
+			"Click-Counter": {
+				"$path": "demo"
+			}
+		}
+	}
+}

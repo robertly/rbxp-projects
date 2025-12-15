@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "teleporting-from-the-server",
+		"tree": {
+			"teleporting-from-the-server": {
+				"$path": "demo"
+			}
+		}
+	}
+}

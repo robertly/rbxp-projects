@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "simple-character-teleportation",
+		"tree": {
+			"simple-character-teleportation": {
+				"$path": "demo"
+			}
+		}
+	}
+}

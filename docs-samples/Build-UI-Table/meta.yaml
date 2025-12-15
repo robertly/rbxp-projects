@@ -1,0 +1,10 @@
+"description": |
+  This code sample builds a table of 4 rows, the first having headers. It does
+  this using some for-loops and a `UITableLayout`. The widths of each column are
+  set using `UISizeConstraint`s.
+"display_name": |-
+  Build UI Table
+"expected_output": |-
+  When run, this code should build a table within the parent UI element. It will have 4 rows, each having data except the first which contains headers.
+"highlight_lines": ""
+"category": Docs Sample

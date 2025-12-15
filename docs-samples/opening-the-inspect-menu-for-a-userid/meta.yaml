@@ -1,0 +1,11 @@
+"description": |
+  The code sample below demonstrates how to use
+  `Class.GuiService:InspectPlayerFromUserId()` to open the `Inspect Menu` for
+  the Roblox user with the id [772462][1].
+
+  [1]: https://www.roblox.com/users/772462/profile
+"display_name": |-
+  Opening the Inspect Menu for a UserId
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

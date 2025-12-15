@@ -1,0 +1,24 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "find-first-child-with-attribute",
+        "tree": {
+            "FindFirstChildWithAttribute": {
+                "findFirstChildWithAttribute": {
+                    "$path": "package.rbxp",
+                },
+                "Demo": {
+                    "IceCreamCone": {
+                        "$path": "demo/IceCreamCone.rbxm"
+                    },
+                    "DemoScript": {
+                        "$path": "demo/DemoScript.server.lua",
+                        "$properties": {
+                            "RunContext": 1
+                        }
+                    }
+                } 
+            }
+        }
+    }
+}

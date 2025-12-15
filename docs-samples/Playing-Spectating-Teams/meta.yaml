@@ -1,0 +1,9 @@
+"description": |
+  This code sample, although lengthy, is quite simple: detect when a player
+  chats /play, then put them on the "Playing" team. When they die, move them
+  back to the "Spectating" team.
+"display_name": |-
+  Playing/Spectating Teams
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Disguise-Command",
+		"tree": {
+			"Disguise-Command": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Plugin-SetSetting1",
+		"tree": {
+			"Plugin-SetSetting1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,7 @@
+"description": |-
+  This code sample will allow a part to be clicked to toggle its anchored property. When toggled, the visual appearance of the part is updated (red means anchored, yellow means free).
+"display_name": |-
+  Part Anchored Toggle
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,9 @@
+"description": |
+  The code in this sample, when placed in a `LocalScript` inside
+  `StarterPlayerScripts` will set the surface of any `BasePart` clicked on to a
+  random surface.
+"display_name": |-
+  Surface Randomizer
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

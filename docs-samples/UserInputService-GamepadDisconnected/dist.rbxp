@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "UserInputService-GamepadDisconnected",
+		"tree": {
+			"UserInputService-GamepadDisconnected": {
+				"$path": "demo"
+			}
+		}
+	}
+}

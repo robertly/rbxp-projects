@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "viewportframe---control-camera",
+		"tree": {
+			"viewportframe---control-camera": {
+				"$path": "demo"
+			}
+		}
+	}
+}

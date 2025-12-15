@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "FileMesh-Offset-and-Scale",
+		"tree": {
+			"FileMesh-Offset-and-Scale": {
+				"$path": "demo"
+			}
+		}
+	}
+}

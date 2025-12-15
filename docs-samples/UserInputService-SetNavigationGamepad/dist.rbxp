@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "UserInputService-SetNavigationGamepad",
+		"tree": {
+			"UserInputService-SetNavigationGamepad": {
+				"$path": "demo"
+			}
+		}
+	}
+}

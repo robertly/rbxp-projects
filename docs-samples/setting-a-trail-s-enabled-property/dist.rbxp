@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "setting-a-trail-s-enabled-property",
+		"tree": {
+			"setting-a-trail-s-enabled-property": {
+				"$path": "demo"
+			}
+		}
+	}
+}

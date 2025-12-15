@@ -1,0 +1,9 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "play-smoke-puff",
+        "tree": {
+            "$path": "package"
+        }
+    }
+}

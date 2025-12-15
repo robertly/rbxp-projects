@@ -1,0 +1,13 @@
+"description": |
+  This example properly shows how to use ContextActionService in binding user
+  input to a contextual action. The context is the tool being equipped; the
+  action is reloading some weapon. Test this code sample by placing it in a
+  LocalScript parented to a Tool. When the Tool is equipped, a "Reload" action
+  is bound, and when the Tool is unequipped the "Reload" action is unbound. When
+  the player presses R with the Tool equipped, the message "Reloading!" will
+  appear.
+"display_name": |-
+  ContextActionService Tool Reload
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

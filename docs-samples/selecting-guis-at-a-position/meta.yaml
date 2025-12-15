@@ -1,0 +1,19 @@
+"description": |
+  All GUIs returned by `Class.BasePlayerGui:GetGuiObjectsAtPosition()` are
+  'cloned' by the `highlightAsFrame()` local function, which creates a `Frame`
+  GUI positioned on top of the specified GUI that is semi-transparent and the
+  same `Class.GuiBase2d.AbsoluteSize` and `Class.GuiBase2d.AbsolutePosition`.
+
+  These highlights are added to the HighlightsContainer `ScreenGui` in the
+  Highlight folder of the player's PlayerGui folder. Both are created by the
+  code sample. All highlight GUIs are `Class.Instance:Destroy()`ed every time
+  `highlightGui()` executes.
+
+  Note that HighlightContainer's `Class.ScreenGui.DisplayOrder` is 99999, a
+  large number, so that it is unlikely any other GUI will render on top of the
+  highlight GUIs.
+"display_name": |-
+  Selecting GUIs at a Position
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

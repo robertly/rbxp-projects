@@ -1,0 +1,24 @@
+{
+    "fileVersion": 1,
+    "instanceHierarchy": {
+        "name": "safe-player-added",
+        "tree": {
+            "SafePlayerAdded": {
+                "safePlayerAdded": {
+                    "$path": "package.rbxp",
+                },
+                "Demo": {
+                    "NameBillboardGui": {
+                        "$path": "demo/NameBillboardGui.rbxm"
+                    },
+                    "DemoScript": {
+                        "$path": "demo/DemoScript.server.lua",
+                        "$properties": {
+                            "RunContext": 1
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

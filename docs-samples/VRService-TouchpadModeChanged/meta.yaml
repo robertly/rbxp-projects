@@ -1,0 +1,7 @@
+"description": "\u200BThis example fires when the state of a VRTouchpad changes. It\
+  \ prints the name\nof the Touchpad that changed, and the state that it changed to.\n"
+"display_name": |-
+  VRService.TouchpadModeChanged
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

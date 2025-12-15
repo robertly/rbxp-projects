@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Load-Group-Emblem",
+		"tree": {
+			"Load-Group-Emblem": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,10 @@
+"description": |
+  This example shows how to bind a simple function to the render step. All this
+  function does is print how much time passed between the last render step and
+  the current one. Note that this code will need to be in a `LocalScript` to
+  run.
+"display_name": |-
+  RunService Custom Function
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,4 @@
+display_name: Spherecasting
+description: |
+  Casts a sphere and returns the first collision with a `Class.BasePart` or `Class.Terrain`. Prints the properties of the RaycastResult if a result was hit.
+category: Raycasting

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "ScriptDocument-ViewportChanged",
+		"tree": {
+			"ScriptDocument-ViewportChanged": {
+				"$path": "demo"
+			}
+		}
+	}
+}

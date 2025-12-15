@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "mouse-origin-v-mouse-hit",
+		"tree": {
+			"mouse-origin-v-mouse-hit": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "clock-hands",
+		"tree": {
+			"clock-hands": {
+				"$path": "demo"
+			}
+		}
+	}
+}

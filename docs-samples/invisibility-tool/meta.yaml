@@ -1,0 +1,15 @@
+"description": |
+  The code below creates a tool in the `Class.Players.LocalPlayer|LocalPlayer's`
+  `Backpack` that turns the player invisible when activated and visible when
+  deactivated.
+
+  When equipped, the script simulates the tool being activated and turns the
+  player invisible for 3 seconds and then simulates the tool being deactivated.
+  Holding the left mouse button down turns the player invisible for up to 3
+  seconds, with a cooldown period of 1 second, or until the player releases
+  their left mouse button.
+"display_name": |-
+  Invisibility Tool
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Player-Move1",
+		"tree": {
+			"Player-Move1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

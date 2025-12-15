@@ -1,0 +1,6 @@
+display_name: Instance.AncestryChanged
+description: |
+  Demonstrates detecting changes to an instance's ancestry by connecting to the `Class.Instance.AncestryChanged` event.
+
+  The ChangingPart's Parent is set to different values overtime. The parent of the part is the part's ancestor, so the `Class.Instance.AncestryChanged` event will fire whenever it changes.
+category: Basic

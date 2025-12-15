@@ -1,0 +1,21 @@
+"description": |
+  The content ID of a `Decal` on the Roblox website is associated with a `Decal`
+  `Instance` rather than the actual content ID of the texture.
+
+  The code below, will use `Class.DataModel:GetObjects()` to insert `Decal`
+  objects into place and read their `Class.Decal.Texture` property to obtain the
+  image content IDs.
+
+  To use this code sample, enter the web URLs of the decals you'd like to
+  convert into the array named _IMAGES_ (as strings). A dictionary with the
+  converted textures will be outputted.
+"display_name": |-
+  Batch convert decal IDs
+"expected_output": |-
+  Starting conversion
+  Conversion complete
+  textures = {
+  -- a dictionary with the original web URLs as keys, and the texture content IDs as values
+  }
+"highlight_lines": ""
+"category": Docs Sample

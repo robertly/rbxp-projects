@@ -1,0 +1,18 @@
+"description": |
+  The code below demonstrates the functionality of several `Tool` events,
+  including `Class.Tool.Activated`, `Class.Tool.Deactivated`, and
+  `Class.Tool.Unequipped`.
+
+  The code, when placed in a `LocalScript` in the
+  `StarterPlayer`.`StarterCharacterScripts` folder inserts and controls a tool
+  in the `Class.Players.LocalPlayer|LocalPlayer's` `Class.Backpack` that allows
+  the player to fly through the sky when used.
+
+  In order to ensure that the player stops flying when the player unequips the
+  tool, the code uses the tool's Unequipped event to turn set the `fly` boolean
+  to true and turn stop flying until the tool is reequipped and activated again.
+"display_name": |-
+  Player Fly Tool
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

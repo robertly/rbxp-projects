@@ -1,0 +1,7 @@
+"description": |
+  The following example prints "true" if the player is verified.
+"display_name": |-
+  Using IsVerified
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

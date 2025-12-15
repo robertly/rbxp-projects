@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Keyframe-Reset-Poses",
+		"tree": {
+			"Keyframe-Reset-Poses": {
+				"$path": "demo"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "teleport-all-players-in-the-server",
+		"tree": {
+			"teleport-all-players-in-the-server": {
+				"$path": "demo"
+			}
+		}
+	}
+}

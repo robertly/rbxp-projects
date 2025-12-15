@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "server-teleportdata-example",
+		"tree": {
+			"server-teleportdata-example": {
+				"$path": "demo"
+			}
+		}
+	}
+}

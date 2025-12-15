@@ -1,0 +1,12 @@
+"description": |
+  This sample demonstrates how Sound.TimePosition can be used to jump to
+  particular points in an audio file both before and during Sound playback.
+
+  A Sound is created in the Workspace and set to start at 30 seconds in. During
+  playback, it jumps forwards to 100 seconds and then back to the start (0
+  seconds).
+"display_name": |-
+  Sound TimePosition
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

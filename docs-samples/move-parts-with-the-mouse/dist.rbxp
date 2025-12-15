@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "move-parts-with-the-mouse",
+		"tree": {
+			"move-parts-with-the-mouse": {
+				"$path": "demo"
+			}
+		}
+	}
+}

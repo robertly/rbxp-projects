@@ -1,0 +1,5 @@
+game:BindToClose(function()
+	print(2 * 2)
+	task.wait(3)
+	print("Done")
+end)

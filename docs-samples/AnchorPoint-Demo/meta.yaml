@@ -1,0 +1,9 @@
+"description": |
+  This code sample moves a UI element to different sides of the parent element.
+  It starts at the top-left and ends at the bottom-right. Paste into a
+  LocalScript in a Frame, within a ScreenGui.
+"display_name": |-
+  AnchorPoint Demo
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

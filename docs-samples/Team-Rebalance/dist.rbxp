@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Team-Rebalance",
+		"tree": {
+			"Team-Rebalance": {
+				"$path": "demo"
+			}
+		}
+	}
+}

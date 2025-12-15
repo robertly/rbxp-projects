@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "how-to-use-color3value-changed",
+		"tree": {
+			"how-to-use-color3value-changed": {
+				"$path": "demo"
+			}
+		}
+	}
+}

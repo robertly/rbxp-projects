@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "unequip-tool-keybind",
+		"tree": {
+			"unequip-tool-keybind": {
+				"$path": "demo"
+			}
+		}
+	}
+}

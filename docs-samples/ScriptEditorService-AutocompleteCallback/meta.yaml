@@ -1,0 +1,9 @@
+"description": |-
+  ScriptEditorService:RegisterAutocompleteCallback
+  ScriptEditorService:DeregisterAutocompleteCallback
+"display_name": |-
+  ScriptEditorService:RegisterAutocompleteCallback
+  ScriptEditorService:DeregisterAutocompleteCallback
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

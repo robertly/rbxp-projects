@@ -1,0 +1,8 @@
+"description": |
+  This code sample gives custom colors to an ImageButton of a backpack while it
+  is hovered and pressed.
+"display_name": |-
+  ImageButton Press Color
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

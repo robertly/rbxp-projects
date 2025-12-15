@@ -1,0 +1,12 @@
+"description": |
+  The code sample below demonstrates how to use the
+  `Class.GuiButton.MouseButton1Click` and `Class.GuiButton.MouseButton2Click`
+  events to handle user left and right mouse button input on a `GuiButton`.
+
+  For the example to work expected, the `LocalScript` containing the code should
+  be a child of the GUI button.
+"display_name": |-
+  Handling User Clicks on a GUI Button
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

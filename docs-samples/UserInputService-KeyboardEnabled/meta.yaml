@@ -1,0 +1,9 @@
+"description": |
+  This example prints "The user's device has an available keyboard!" if
+  **KeyboardEnabled** is _true_ and "The user's device does not have an
+  available keyboard!" if **KeyboardEnabled** is _false_.
+"display_name": |-
+  Check if Keyboard is Enabled
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

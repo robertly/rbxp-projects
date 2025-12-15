@@ -1,0 +1,17 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "humanoid-action-evens",
+		"tree": {
+			"GetCurrentSeat": {
+				"ClientScript": {
+					"$path": "sample.client.lua",
+					"$className": "Script"
+				},
+				"Chair": {
+					"$path": "demo/chair.rbxmx"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,10 @@
+"description": |
+  A basic example that shows how you can listen to changes in the user's
+  settings. With this code pasted into a LocalScript running in the
+  StarterPlayerScripts, you can change settings in Roblox's game menu, and see
+  their values appear in the output as detected changes.
+"display_name": |-
+  UserGameSettings Listener
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

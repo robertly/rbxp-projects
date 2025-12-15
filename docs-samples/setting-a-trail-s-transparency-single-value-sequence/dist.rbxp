@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "setting-a-trail-s-transparency-single-value-sequence",
+		"tree": {
+			"setting-a-trail-s-transparency-single-value-sequence": {
+				"$path": "demo"
+			}
+		}
+	}
+}

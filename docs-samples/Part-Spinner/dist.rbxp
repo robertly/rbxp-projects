@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Part-Spinner",
+		"tree": {
+			"Part-Spinner": {
+				"$path": "demo"
+			}
+		}
+	}
+}

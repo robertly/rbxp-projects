@@ -1,0 +1,8 @@
+"description": |
+  The following example attempts to decode launch data, using `pcall` to prevent
+  an error in case the data is corrupt.
+"display_name": |-
+  Decoding JSON Launch Data
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

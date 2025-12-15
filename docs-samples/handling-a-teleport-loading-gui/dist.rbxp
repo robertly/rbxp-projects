@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "handling-a-teleport-loading-gui",
+		"tree": {
+			"handling-a-teleport-loading-gui": {
+				"$path": "demo"
+			}
+		}
+	}
+}

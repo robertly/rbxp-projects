@@ -1,0 +1,13 @@
+"description": |
+  The code in this sample, when placed inside a `LocalScript` within
+  `StarterPlayerScripts` will draw a red laser beam between the character's head
+  and `Class.Mouse.Hit` at all times.
+
+  Note, this beam will pass directly through obstructions in third person as the
+  `Mouse`'s raycasting is done from the `Class.Workspace.CurrentCamera` not the
+  head.
+"display_name": |-
+  Mouse.Hit Laser Beam
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

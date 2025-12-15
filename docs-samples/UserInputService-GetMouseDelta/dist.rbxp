@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "UserInputService-GetMouseDelta",
+		"tree": {
+			"UserInputService-GetMouseDelta": {
+				"$path": "demo"
+			}
+		}
+	}
+}

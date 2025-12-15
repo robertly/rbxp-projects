@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"instanceHierarchy": {
+		"name": "Dialog-GetCurrentPlayers1",
+		"tree": {
+			"Dialog-GetCurrentPlayers1": {
+				"$path": "demo"
+			}
+		}
+	}
+}

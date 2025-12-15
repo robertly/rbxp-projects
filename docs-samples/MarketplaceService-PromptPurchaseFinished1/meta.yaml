@@ -1,0 +1,10 @@
+"description": |
+  The below example would print 'Telamon bought an item with AssetID: 1111' to
+  the output, if they were to complete a transaction in (your) game with an item
+  that had an AssetID of 1111. Alternatively, it would print 'Telamon didn't buy
+  an item with AssetID: 1111' if the opposite was true.
+"display_name": |-
+  Handling PromptPurchaseFinished Event
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample

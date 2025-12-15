@@ -1,0 +1,8 @@
+"description": |
+  This example prints the number of selected items whenever SelectionChanged is
+  fired:
+"display_name": |-
+  Selection.SelectionChanged
+"expected_output": ""
+"highlight_lines": ""
+"category": Docs Sample
