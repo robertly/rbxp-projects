@@ -1,9 +1,0 @@
-"description": |
-  The following example is a function that converts a table into a string you
-  can use as launch data. The provided data is JSON encoded, checked for valid
-  character length, and escaped with percent signs.
-"display_name": |-
-  Using a Table as Launch Data
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

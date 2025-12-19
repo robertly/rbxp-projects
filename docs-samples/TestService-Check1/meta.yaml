@@ -1,7 +1,0 @@
-"description": |
-  This code would print Check failed: example to the output, in red text.
-"display_name": |-
-  TestService:Check
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

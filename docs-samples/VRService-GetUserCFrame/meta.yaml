@@ -1,7 +1,0 @@
-"description": |
-  This example positions a part at the player's left hand, assuming Camera.HeadLocked = true
-"display_name": |-
-  VRService:GetUserCFrame
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

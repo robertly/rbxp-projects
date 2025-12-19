@@ -1,9 +1,0 @@
-"description": |
-  If you want to reset the bubble chat to its default look, you can call this
-  function with an empty table, because any setting you omit from the argument
-  will result in it returning to its default value:
-"display_name": |-
-  Restore default settings
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

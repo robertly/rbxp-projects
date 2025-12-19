@@ -1,8 +1,0 @@
-"description": |
-  The following sample will create a SpawnLocation in the Workspace that will
-  become semi-transparent when it is disabled.
-"display_name": |-
-  SpawnLocation Enabled
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

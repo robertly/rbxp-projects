@@ -1,4 +1,0 @@
-display_name: Raycasting
-description: |
-  Casts a ray and returns the first collision with a `Class.BasePart` or `Class.Terrain`. Prints the properties of the RaycastResult if a result was hit.
-category: Raycasting

@@ -1,8 +1,0 @@
-"description": |
-  The code in this sample spawns a `Part` in the Workspace that includes a
-  texture of the given group's emblem.
-"display_name": |-
-  Load Group Emblem
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

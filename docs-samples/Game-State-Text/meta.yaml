@@ -1,8 +1,0 @@
-"description": |
-  This code sample mirrors the contents of a StringValue into a TextLabel,
-  updating and setting the color of the text as it changes.
-"display_name": |-
-  Game State Text
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

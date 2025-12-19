@@ -1,7 +1,0 @@
-"description": |
-  The example below prints the number of players on each Team.
-"display_name": |-
-  Teams GetTeams
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

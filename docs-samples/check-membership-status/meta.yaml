@@ -1,8 +1,0 @@
-"description": |
-  The following example checks whether a player has [Premium](https://www.roblox.com/premium/membership) membership.
-"display_name": |-
-  Check Player Membership Status
-"expected_output": ""
-"highlight_lines": |
-  4
-"category": Docs Sample

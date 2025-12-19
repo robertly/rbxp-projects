@@ -1,8 +1,0 @@
-"description": |
-  This code sample demonstrates the different ScaleType options - Stretch, Tile
-  and Slice. It does this by resizing an ImageLabel/ImageButton in a circle.
-"display_name": |-
-  Image ScaleType Demo
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

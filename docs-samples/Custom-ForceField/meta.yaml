@@ -1,9 +1,0 @@
-"description": |
-  This sample includes a function that will replace the default ForceField
-  particle effect with an effect using ParticleEmitters that can be modified by
-  the developer.
-"display_name": |-
-  Custom ForceField Effect
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

@@ -1,9 +1,0 @@
-"description": |
-  This code sample constructs a pyramid by stacking parts that get progressively
-  smaller. It also colors the parts so they blend between a start color and end
-  color.
-"display_name": |-
-  Pyramid Builder
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

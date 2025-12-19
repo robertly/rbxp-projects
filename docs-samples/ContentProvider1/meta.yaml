@@ -1,8 +1,0 @@
-"description": |
-  In this example a Decal and Sound are preloaded into a game. Once they have
-  finished loading the script will print a message to the output.
-"display_name": |-
-  ContentProvider
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

@@ -1,9 +1,0 @@
-"description": |
-  This code sample prints out all the asset ids and types of the accessories in
-  the HumanoidDescription.
-"display_name": |-
-  Get Accessories
-"expected_output": |-
-  When run, all the asset ids and types are printed out for the accessories in the HumanoidDescription.
-"highlight_lines": ""
-"category": Docs Sample

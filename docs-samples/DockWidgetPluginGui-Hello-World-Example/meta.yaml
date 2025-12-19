@@ -1,8 +1,0 @@
-"description": |
-  This code, when ran inside a `Plugin`, creates a `DockWidgetPluginGui` with a
-  simple `TextButton`.
-"display_name": |-
-  Widget GUI Text Button
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

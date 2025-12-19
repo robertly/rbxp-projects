@@ -1,8 +1,0 @@
-"description": |
-  The code sample below demonstrates how to create and play a `VideoFrame` with
-  _SomeValidAssetID_ once the video has loaded.
-"display_name": |-
-  Creating and Playing a Video
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

@@ -1,7 +1,0 @@
-description: |
-  This code gets the music assets returned by the keyword "happy" and prints out their titles.
-display_name: |-
-  Getting Music Search Titles
-expected_output: ""
-highlight_lines: ""
-category: Docs Sample

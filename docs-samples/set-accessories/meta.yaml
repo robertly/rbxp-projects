@@ -1,8 +1,0 @@
-"description": |
-  This code sample adds two accessories to a HumanoidDescription.
-"display_name": |-
-  Set Accessories
-"expected_output": |-
-  When run, the HumanoidDescription will have two accessories.
-"highlight_lines": ""
-"category": Docs Sample

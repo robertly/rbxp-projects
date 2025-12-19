@@ -1,7 +1,0 @@
-display_name: Create, Copy and Paste Terrain
-description: |
-  Creates some terrain, copies it, then pastes it using the following API:
-    - `Class.Terrain:FillRegion()`
-    - `Class.Terrain:CopyRegion()`
-    - `Class.Terrain:PasteRegion()`
-category: Terrain

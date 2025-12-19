@@ -1,8 +1,0 @@
-"description": |
-  When an error occurs, this example prints the name of the script that errored,
-  the reason it errored, and a trace of the error.
-"display_name": |-
-  ScriptContext.Error
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

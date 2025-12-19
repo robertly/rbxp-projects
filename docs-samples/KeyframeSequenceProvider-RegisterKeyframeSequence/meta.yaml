@@ -1,8 +1,0 @@
-"description": |
-  This code sample contains a simple function to generate an Animation with a
-  generated hash ID to preview a KeyframeSequence locally.
-"display_name": |-
-  Create temporary animation
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

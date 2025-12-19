@@ -1,9 +1,0 @@
-"description": |
-  The example shown below will print "A tool was equipped" each time the tool is
-  equipped by the player. Please note that the below example assumes that you've
-  already defined what "Tool" is.
-"display_name": |-
-  Print when a Player Equips a Tool
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

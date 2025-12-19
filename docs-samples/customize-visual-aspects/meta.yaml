@@ -1,9 +1,0 @@
-"description": |
-  When run from a `LocalScript`, this snippet will make all the chat bubbles
-  appear with bigger text under a different font and a light blue background.
-  Note that all the other settings will keep their default value.
-"display_name": |-
-  Customize visual aspects
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

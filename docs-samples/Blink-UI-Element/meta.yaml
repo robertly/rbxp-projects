@@ -1,8 +1,0 @@
-"description": |
-  This code sample blinks a UI element on/off, much like HTML's beloved <blink>
-  tag. They still have that, right?
-"display_name": |-
-  Blink UI Element
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

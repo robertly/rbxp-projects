@@ -1,9 +1,0 @@
-"description": |
-  The following script waits for any player to enter the game and checks if they
-  own a specific badge. This is useful for creating a restricted area with [collision filtering](/workspace/collision-filtering) or a [teleporter](/projects/teleporting) that only works if a player owns a special badge.
-"display_name": |-
-  Checking Earned Badges
-"expected_output": ""
-"highlight_lines": |
-  9
-"category": Docs Sample

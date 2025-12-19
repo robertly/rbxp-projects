@@ -1,9 +1,0 @@
-"description": |
-  This code sample includes a simple function that will play an AnimationTrack
-  if it is not playing, or otherwise adjust its speed and weight to match the
-  new parameters given.
-"display_name": |-
-  AnimationTrack IsPlaying
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

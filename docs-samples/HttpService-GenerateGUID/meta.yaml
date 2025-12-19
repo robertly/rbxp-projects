@@ -1,8 +1,0 @@
-"description": |
-  This example uses HttpService's GenerateGUI method to generate and print a
-  universally unique identifier.
-"display_name": |-
-  HttpService GenerateGUID
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

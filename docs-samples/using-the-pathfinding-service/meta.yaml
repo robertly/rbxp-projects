@@ -1,8 +1,0 @@
-"description": |
-  The code sample below explores how to move an NPC along a more complex path or
-  around obstacles. This is known as <strong>pathfinding</strong>.
-"display_name": |-
-  Using the Pathfinding Service
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

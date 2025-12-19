@@ -1,9 +1,0 @@
-"description": |
-  This code sample demonstrates constructing a Ray, storing the Ray within a
-  RayValue and Raycasting to find other parts between two parts named "PartA"
-  and "PartB".
-"display_name": |-
-  Rays, RayValue and Raycasting
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

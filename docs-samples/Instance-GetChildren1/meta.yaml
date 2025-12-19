@@ -1,7 +1,0 @@
-"description": |
-  The below would print the name of all objects currently in Workspace when ran.
-"display_name": |-
-  Instance:GetChildren
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

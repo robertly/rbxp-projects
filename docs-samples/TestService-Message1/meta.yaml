@@ -1,7 +1,0 @@
-"description": |
-  This code would print Test message: example to the output, in blue text.
-"display_name": |-
-  TestService:Message
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

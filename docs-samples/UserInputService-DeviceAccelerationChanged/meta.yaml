@@ -1,9 +1,0 @@
-"description": |
-  This example uses the accelerometer to move the player character when a mobile
-  device is accelerated. The character will move along the axis that the device
-  was moved.
-"display_name": |-
-  Control Players Using the Accelerometer
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

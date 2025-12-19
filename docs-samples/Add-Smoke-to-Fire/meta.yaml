@@ -1,9 +1,0 @@
-"description": |
-  This code sample adds a `Smoke` object to every `Fire` object in the
-  `Workspace`. It does this by using a recursive search.
-"display_name": |-
-  Add Smoke to All Fire
-"expected_output": |-
-  When run, you should see every Fire object in the workspace have a Smoke sibling object (if it did not have one before).
-"highlight_lines": ""
-"category": Docs Sample

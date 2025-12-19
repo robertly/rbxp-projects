@@ -1,6 +1,0 @@
-display_name: Monitoring AssetFetchStatus
-description: |
-  Retrieves the initial `Enum.AssetFetchStatus` of an asset with `Class.ContentProvider:GetAssetFetchStatus()`.
-
-  Listens for future updates after preloading with `ContentProvider:GetAssetFetchStatusChangedSignal()`.
-category: Content

@@ -1,6 +1,0 @@
-display_name: Model TranslateBy
-description: |
-  Demonstrates moving a model with `Class.Model:TranslateBy()`
-
-  TranslateBy moves a model relative to its current position and will move it to the relative postions regardless of any obstruction there. After a short amount of time, 'Model' is moved inside of 'Obstruction'.
-category: Model

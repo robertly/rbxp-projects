@@ -1,8 +1,0 @@
-"description": |
-  This sample contains a simple function that will get the length of a
-  KeyframeSequence by finding the Keyframe with the highest Keyframe.Time value.
-"display_name": |-
-  Get KeyframeSequence Length
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

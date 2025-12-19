@@ -1,8 +1,0 @@
-"description": |
-  This example prints the path to the newly reference instance when
-  the ObjectValue's `Class.ObjectValue.Value|value` property is changed.
-"display_name": |-
-  ObjectValue Changed
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

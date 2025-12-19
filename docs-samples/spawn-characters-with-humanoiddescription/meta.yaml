@@ -1,9 +1,0 @@
-"description": |
-  To create a `HumanoidDescription` and then spawn a character with that
-  description applied, add a `Script` (not a `LocalScript`) to the workspace and
-  add this code to it.
-"display_name": |-
-  Spawn Characters With HumanoidDescription
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

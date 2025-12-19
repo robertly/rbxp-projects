@@ -1,8 +1,0 @@
-"description": |
-  This sample demonstrates the subtleties of the Changed event on normal objects
-  and "-Value" objects.
-"display_name": |-
-  Changed Event
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

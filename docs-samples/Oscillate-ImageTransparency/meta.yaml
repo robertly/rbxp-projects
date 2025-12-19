@@ -1,8 +1,0 @@
-"description": |
-  This code sample oscillates the ImageTransparency of an ImageLabel/ImageButton
-  from 0 to 1 using a sine wave.
-"display_name": |-
-  Oscillate ImageTransparency
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

@@ -1,8 +1,0 @@
-"description": |
-  This example sets `Enum.UserInputType|Gamepad1` as a navigation gamepad by
-  passing _Enum.UserInputType.Gamepad1_ and _true_ as arguments.
-"display_name": |-
-  UserInputService:SetNavigationGamepad
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

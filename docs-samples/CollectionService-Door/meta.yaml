@@ -1,9 +1,0 @@
-"description": |
-  This code sample uses an object-oriented programming style to create a Door
-  class, then uses the Door class and CollectionService to listen for "Door"
-  tags.
-"display_name": |-
-  CollectionService Door
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

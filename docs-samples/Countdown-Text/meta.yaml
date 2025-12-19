@@ -1,8 +1,0 @@
-"description": |
-  This code sample makes a TextLabel or TextButton count backwards from 10,
-  setting the text color as it does so.
-"display_name": |-
-  Countdown Text
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

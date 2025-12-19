@@ -1,9 +1,0 @@
-"description": |
-  This code sample includes a simple day/night cycle script. The speed time goes
-  at and the initial time can be changed using the TIME_SPEED and START_TIME
-  parameters.
-"display_name": |-
-  Day/Night Cycle
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

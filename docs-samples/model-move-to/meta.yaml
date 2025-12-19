@@ -1,6 +1,0 @@
-display_name: Model MoveTo
-description: |
-  Demonstrates moving a model using `Class.Model:MoveTo()`.
-
-  After a short amount of time, MoveTo is called on a model to move to the position of another obstruction part. MoveTo will not move a model inside of an obstruction; the Model is moved up on the Y axis and placed above the obstruction.
-category: Model

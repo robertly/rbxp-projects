@@ -1,8 +1,0 @@
-"description": |
-  The following, when executed in a plugin, will open the
-  `Class.BasePart|BasePart API page` in the context help.
-"display_name": |-
-  Plugin:OpenWikiPage
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

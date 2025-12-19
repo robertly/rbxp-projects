@@ -1,9 +1,0 @@
-"description": |
-  This code sample will toggle the `Class.GuiObject.BackgroundTransparency` of a
-  UI element, like a `Frame`, when it is tapped on a touch-enabled device.
-"display_name": |-
-  Tap Transparency Toggle
-"expected_output": |-
-  Upon briefly tapping the UI element, it should toggle the BackgroundTransparency.
-"highlight_lines": ""
-"category": Docs Sample

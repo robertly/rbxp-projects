@@ -1,8 +1,0 @@
-"description": |
-  The following code, when ran from the command bar or a plugin, would limit
-  bandwidth to 1KBPS.
-"display_name": |-
-  NetworkPeer:SetOutgoingKBPSLimit
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

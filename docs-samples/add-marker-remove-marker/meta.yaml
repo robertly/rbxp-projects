@@ -1,9 +1,0 @@
-"description": |
-  This example demonstrates the `Class.Keyframe:AddMarker()` and
-  `Class.Keyframe:RemoveMarker()` functions. Note these are functionally
-  equivalent to `Class.Instance.Parent|parenting` and un-parenting the markers.
-"display_name": |-
-  Add Marker/Remove Marker
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

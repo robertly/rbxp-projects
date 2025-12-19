@@ -1,8 +1,0 @@
-"description": |
-  The following code waits for an instance named "Part" to be added to
-  Workspace.
-"display_name": |-
-  Instance:WaitForChild
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

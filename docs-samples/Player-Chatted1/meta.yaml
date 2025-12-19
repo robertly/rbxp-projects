@@ -1,9 +1,0 @@
-"description": |
-  Setting chatted for all players. There is an easy way to make the Chatted
-  event registered on all players. Simply use the `Class.Players.PlayerAdded`
-  event in combination with this event.
-"display_name": |-
-  Player.Chatted
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

@@ -1,7 +1,0 @@
-"description": |
-  The example prints the currently logged in user's ID.
-"display_name": |-
-  StudioService:GetUserId
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

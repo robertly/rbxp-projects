@@ -1,8 +1,0 @@
-"description": |-
-  This example demonstrates one basic use of collision groups. It assigns
-  **BallPart** to `"CollisionGroupBall"` and **DoorPart** to
-  `"CollisionGroupDoor"`, then makes the two groups non-collidable using
-  `Class.PhysicsService:CollisionGroupSetCollidable()`.
-"display_name": |-
-  PhysicsService:RegisterCollisionGroup
-"category": Docs Sample

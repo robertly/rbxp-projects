@@ -1,9 +1,0 @@
-"description": |
-  The function in the code sample runs after the game server confirms a player's
-  membership has changed. It demonstrates how you can grant players access to
-  Premium benefits (or revoke them) when their membership status changes.
-"display_name": |-
-  Handling Premium Membership Changes
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

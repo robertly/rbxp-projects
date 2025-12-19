@@ -1,8 +1,0 @@
-"description": |
-  This code sample causes a parent Frame to loop through all colors of the
-  rainbow using Color3.fromHSV.
-"display_name": |-
-  Rainbow Frame
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

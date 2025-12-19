@@ -1,8 +1,0 @@
-"description": |
-  This code sample demonstrates the constraints of IntValues, as well as the
-  integer overflow phenomenon.
-"display_name": |-
-  IntValue Limits and Integer Overflow
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

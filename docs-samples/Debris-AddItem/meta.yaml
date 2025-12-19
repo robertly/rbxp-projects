@@ -1,8 +1,0 @@
-"description": |
-  Creates parts on a loop and parents them to the Workspace, then uses
-  Debris.AddItem to clean them up.
-"display_name": |-
-  Debris AddItem
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

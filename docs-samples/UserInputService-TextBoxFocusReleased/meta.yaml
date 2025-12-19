@@ -1,9 +1,0 @@
-"description": |
-  This example prints the "The name of the released focus TextBox is " followed
-  by the name of the TextBox which is released from focus when a client escapes
-  text entry for a TextBox, usually by clicking/tapping elsewhere on the screen.
-"display_name": |-
-  TextBoxFocusReleased
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

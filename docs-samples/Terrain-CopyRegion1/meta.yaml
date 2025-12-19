@@ -1,8 +1,0 @@
-"description": |
-  The following code will copy the whole Terrain and clear it. After 5 seconds
-  it will paste the terrain back.
-"display_name": |-
-  Terrain:CopyRegion
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

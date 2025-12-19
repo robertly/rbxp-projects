@@ -1,9 +1,0 @@
-"description": |
-  The following code sample gives an example of a 'met the creator' badge
-  system. This script will award a specified badge (BADGE_ID) to anyone who is
-  in a server at the same time as the user associated with OWNER_ID.
-"display_name": |-
-  Met the Creator Badge
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

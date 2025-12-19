@@ -1,8 +1,0 @@
-"description": |
-  The following example determines the change in health, printing it to the
-  output. It will only work in a LocalScript.
-"display_name": |-
-  Humanoid.HealthChanged
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

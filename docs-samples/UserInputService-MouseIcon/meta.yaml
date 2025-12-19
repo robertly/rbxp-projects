@@ -1,9 +1,0 @@
-"description": |
-  This example changes the user mouse icon to look like the dragon image shown below.
-
-  ![Dragon mouse icon](/assets/legacy/DragonIcon.png)
-"display_name": |-
-  UserInputService.MouseIcon
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

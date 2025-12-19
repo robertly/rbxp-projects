@@ -1,6 +1,0 @@
-display_name: Instance:Destroy()
-description: |
-  Demonstrates destroying a Part using the `Class.Instance:Destroy()` function.
-
-  This function is the correct way to dispose of objects that are no longer required.
-category: Basic

@@ -1,7 +1,0 @@
-"description": |
-  This example prints the position of the player's on-screen keyboard.
-"display_name": |-
-  UserInputService.OnScreenKeyboardPosition
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

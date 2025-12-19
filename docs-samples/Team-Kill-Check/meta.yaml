@@ -1,9 +1,0 @@
-"description": |
-  This code sample includes a quick function that can be added to weapons in a
-  place to prevent them from team killing. It will return false when the two
-  players are on different teams or if either of them is neutral.
-"display_name": |-
-  Team Kill Check
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

@@ -1,8 +1,0 @@
-"description": |
-  This code sample uses the concept of recursion to unlock all parts that are a
-  descendant of a model.
-"display_name": |-
-  Recursive Unlock
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

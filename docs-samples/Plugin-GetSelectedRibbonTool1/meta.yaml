@@ -1,9 +1,0 @@
-"description": |
-  This code must be run from a plugin. This code selects the move tool, checks
-  which tool is selected, then prints out to the console which tool is selected.
-  SelectRibbonTool will not return the value until the next frame.
-"display_name": |-
-  Plugin:GetSelectedRibbonTool
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

@@ -1,8 +1,0 @@
-"description": |
-  The function in this code sample plays an animationTrack and yields until
-  it has stopped and ended, printing at each step along the way.
-"display_name": |-
-  AnimationTrack Ended
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

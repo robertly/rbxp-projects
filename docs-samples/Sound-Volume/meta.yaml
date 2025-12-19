@@ -1,8 +1,0 @@
-"description": |
-  This sample includes a demonstration of how a Sound's volume can be set using
-  the Sound.Volume property.
-"display_name": |-
-  Sound Volume
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

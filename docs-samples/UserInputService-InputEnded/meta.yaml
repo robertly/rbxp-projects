@@ -1,8 +1,0 @@
-"description": |
-  The following example demonstrates one of many usage examples of handling user
-  input from InputEnded depending on its type.
-"display_name": |-
-  Handling InputEnded
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

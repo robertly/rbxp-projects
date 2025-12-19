@@ -1,8 +1,0 @@
-display_name: Instance:IsA()
-description: |
-  Demonstrates determining the class of Workspace using `Class.Instance:IsA()`
-
-  Workspace is of class 'Workspace', so the first statement is true.
-  Workspace is not of class 'BasePart', so the second statement is false.
-  Workspace inherits from Instance and therefore is of class 'Instance', so the third statement is true.
-category: Basic

@@ -1,9 +1,0 @@
-"description": |
-  This code sample will print information on all of the groups a player is a
-  member of when they join the game, using
-  `Class.GroupService:GetGroupsAsync()`.
-"display_name": |-
-  Getting the Groups that a User is A Member Of
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

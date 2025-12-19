@@ -1,8 +1,0 @@
-"description": |
-  This code sample includes a function that can be used to play an animation on
-  a locally controlled model (such as a player character) from the server.
-"display_name": |-
-  Animating a Model Locally
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

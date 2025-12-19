@@ -1,8 +1,0 @@
-"description": |
-  The following example demonstrates how to tween an `EnumItem` property, such
-  as a `Class.Part.Shape|part's shape`.
-"display_name": |-
-  Tween an EnumItem
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

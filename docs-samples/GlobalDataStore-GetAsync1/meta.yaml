@@ -1,9 +1,0 @@
-"description": |
-  This code sample retrieves a player's saved gold from a data store and puts
-  the returned value onto the leaderboard. Note that this sample does not save
-  players' gold&nbsp;&mdash; it only loads it.
-"display_name": |-
-  Data Store to Leaderboard
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

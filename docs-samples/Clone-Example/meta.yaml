@@ -1,3 +1,0 @@
-display_name: Cloning an Instance
-description: Demonstrates cloning a model using `Class.Instance:Clone()`.
-category: Basic

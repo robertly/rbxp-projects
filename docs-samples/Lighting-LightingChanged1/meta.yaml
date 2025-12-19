@@ -1,8 +1,0 @@
-"description": |
-  The following code would print Skybox has changed whenever you changed the
-  Lighting's SkyBox. The opposite will be printed when the adverse is true.
-"display_name": |-
-  Lighting.LightingChanged
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

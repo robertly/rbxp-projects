@@ -1,7 +1,0 @@
-"description": |-
-  ScriptDocument:GetSelectionStart() and :GetSelectionEnd()
-"display_name": |-
-  ScriptDocument:GetSelectionStart() and :GetSelectionEnd()
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

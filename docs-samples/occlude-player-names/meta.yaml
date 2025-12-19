@@ -1,9 +1,0 @@
-"description": |
-  In the below example, `Player|Players` will not be able to see each other's
-  `Class.Player.Character` names when they are obscured behind
-  `BasePart|BaseParts`.
-"display_name": |-
-  Occlude Player Names
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

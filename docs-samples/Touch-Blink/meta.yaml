@@ -1,9 +1,0 @@
-"description": |
-  This code sample causes a part to blink its Reflectance and a PointLight every
-  time it is touched. It uses a pattern that prevents multiple concurrent
-  function calls from fighting with each other.
-"display_name": |-
-  Touch Blink
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

@@ -1,8 +1,0 @@
-"description": |
-  A Lua port of the Humanoid's BuildRigFromAttachments function, so that the
-  recursive behavior of the function can be seen.
-"display_name": |-
-  Lua Port of BuildRigFromAttachments
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

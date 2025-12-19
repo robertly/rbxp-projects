@@ -1,8 +1,0 @@
-"description": |
-  The below example would print the name, price, ID, description and icon
-  AssetId for all of the developer products which belong to the current game.
-"display_name": |-
-  MarketplaceService:GetDeveloperProductsAsync
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

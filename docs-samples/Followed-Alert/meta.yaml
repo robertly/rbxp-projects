@@ -1,9 +1,0 @@
-"description": |
-  This code sample alerts players if a new player follows the local player into
-  the game. It does so using a `Hint`. Place this in a `LocalScript` in
-  `StarterPlayerScripts`.
-"display_name": |-
-  Followed Alert
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

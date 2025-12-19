@@ -1,8 +1,0 @@
-"description": |
-  This sample includes a function that will create an Explosion but replace the
-  default Explosion visuals but those of a ParticleEmitter.
-"display_name": |-
-  Explosion Custom Visuals
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

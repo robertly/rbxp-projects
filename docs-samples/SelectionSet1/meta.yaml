@@ -1,8 +1,0 @@
-"description": |
-  This code sample will select every `BasePart` in the workspace that is Bright
-  red.
-"display_name": |-
-  Selection Set
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

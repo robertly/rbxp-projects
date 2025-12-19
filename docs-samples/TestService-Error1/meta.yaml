@@ -1,7 +1,0 @@
-"description": |
-  This will print TestService: "This is an error" to the output.
-"display_name": |-
-  TestService:Error
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

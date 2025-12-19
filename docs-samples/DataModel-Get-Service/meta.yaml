@@ -1,4 +1,0 @@
-display_name: DataModel (game) GetService
-description: |
-  Demonstrates using 'game', the root instance of the DataModel, to get services such as Workspace and Lighting.
-category: Basic

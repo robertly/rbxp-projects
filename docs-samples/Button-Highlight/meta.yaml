@@ -1,8 +1,0 @@
-"description": |
-  This code sample causes the border of a parent GuiObject to highlight when the
-  user hovers their mouse over the element.
-"display_name": |-
-  Button Highlight
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

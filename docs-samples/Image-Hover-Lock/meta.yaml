@@ -1,8 +1,0 @@
-"description": |
-  This code sample causes an ImageLabel/ImageButton to display a red padlock.
-  When the mouse is hovered, it changes to a green unlocked padlock.
-"display_name": |-
-  Image Hover Lock
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

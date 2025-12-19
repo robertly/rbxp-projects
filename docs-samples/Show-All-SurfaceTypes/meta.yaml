@@ -1,9 +1,0 @@
-"description": |
-  This code sample shows what each SurfaceType looks like on a part. In
-  addition, it creates a BillboardGui label on the part with a TextLabel that
-  reflects the name of the current SurfaceType.
-"display_name": |-
-  Show All SurfaceTypes
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

@@ -1,9 +1,0 @@
-"description": "\u200B\u200BThis example indicates whether the UserCFrame.Head VR\
-  \ device is enabled or\ndisabled for the user. If the device is enabled, this prints\
-  \ \"VR device is\nenabled!\". If the device is disabled, this prints \"VR device\
-  \ is disabled!\".\n"
-"display_name": |-
-  VRService:GetUserCFrameEnabled
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

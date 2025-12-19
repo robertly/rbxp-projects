@@ -1,7 +1,0 @@
-"description": |
-  This example will print how long a player, named Player, has been idle for.
-"display_name": |-
-  Player.Idled1
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

@@ -1,8 +1,0 @@
-"description": |
-  This example creates a Part and adds a few sparkle objects to the part. Then
-  it calls Part:ClearAllChildren() to remove all of the children.
-"display_name": |-
-  Instance:ClearAllChildren
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

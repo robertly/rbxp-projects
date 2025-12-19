@@ -1,9 +1,0 @@
-"description": |
-  This example demonstrates how to combine the geometry of one `Class.BasePart`
-  with the geometry of other part(s) to form a `Class.UnionOperation`.
-"display_name": |-
-  BasePart:UnionAsync()
-"expected_output": ""
-"highlight_lines": |-
-  5-7, 11, 12
-"category": Docs Sample

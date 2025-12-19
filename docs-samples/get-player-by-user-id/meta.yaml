@@ -1,4 +1,0 @@
-display_name: GetPlayerByUserId
-description: |
-  Demonstrates finding a player in the game based on a UserId by using `Class.Players:GetPlayerByUserId()`
-category: Player

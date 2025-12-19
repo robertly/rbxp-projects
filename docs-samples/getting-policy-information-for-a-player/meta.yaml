@@ -1,8 +1,0 @@
-"description": |
-  This code sample gets policy information for the local player and warns if
-  they cannot interact with paid random item generators.
-"display_name": |-
-  Getting Policy Information for a Player
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

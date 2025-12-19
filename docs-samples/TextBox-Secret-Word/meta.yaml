@@ -1,8 +1,0 @@
-"description": |
-  This code sample creates a password-like interface for a TextBox, giving
-  visual feedback on the player's input.
-"display_name": |-
-  TextBox Secret Word
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

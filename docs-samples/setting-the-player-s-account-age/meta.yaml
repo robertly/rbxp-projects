@@ -1,9 +1,0 @@
-"description": |
-  This example demonstrates how the `Class.Player:SetAccountAge()` function
-  would be used if it was accessible. It sets the local player's account age to
-  100 days.
-"display_name": |-
-  Setting the Player's Account Age
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

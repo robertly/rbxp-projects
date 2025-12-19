@@ -1,8 +1,0 @@
-"description": |
-  The code shown below will force the client to unfocus the 'TextBox' 5 seconds
-  after it's selected:
-"display_name": |-
-  TextBox:ReleaseFocus
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

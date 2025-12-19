@@ -1,8 +1,0 @@
-"description": |
-  This example uses LayoutOrder within a UIGridLayout to change the order of
-  images.
-"display_name": |-
-  Ordering Images with a UIGridLayout
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

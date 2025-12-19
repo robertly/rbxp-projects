@@ -1,9 +1,0 @@
-"description": |
-  The following code would reserve one server, if it hasn't be reserved before.
-  Whenever someone says "reserved", they will be teleported to the private
-  server.
-"display_name": |-
-  TeleportService: Teleport to a Reserved Server via Chat
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

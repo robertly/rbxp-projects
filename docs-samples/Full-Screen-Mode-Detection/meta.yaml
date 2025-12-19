@@ -1,8 +1,0 @@
-"description": |
-  A LocalScript that demonstrates how you can detect whether a game is in full
-  screen or not.
-"display_name": |-
-  Full Screen Mode Detection
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

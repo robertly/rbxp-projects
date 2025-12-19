@@ -1,9 +1,0 @@
-"description": |
-  This sample demonstrates quickly the Keyframe.AddPose, Keyframe.RemovePose and
-  Pose.AddSubPose and Pose.RemoveSubPose functions. Note these are functionally
-  equivalent to parenting and un-parenting the poses.
-"display_name": |-
-  Keyframe Add/Remove Pose
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

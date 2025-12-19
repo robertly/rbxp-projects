@@ -1,6 +1,0 @@
-display_name: Detect change in player's health
-description: |
-  Demonstrates running a function when a player's health changes using the `Class.Humanoid.HealthChanged` event.
-
-  'onHealthChanged' will print the value of the player's health when it changes. The player's health will decrease overtime until it reaches 0. Each time the player's health decreases, 'onHealthChanged' runs.
-category: Player

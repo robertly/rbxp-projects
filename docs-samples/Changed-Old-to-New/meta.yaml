@@ -1,8 +1,0 @@
-"description": |
-  This code sample demonstrates how to save a value before a changed event fires
-  on it in order to get more information about a change.
-"display_name": |-
-  Old-to-New Values with Changed
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

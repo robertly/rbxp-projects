@@ -1,9 +1,0 @@
-"description": |
-  The code below will print the name of the rank that the player is currently a
-  part of, in a specific group. In this instance we're checking what rank the
-  player is within a group which has a group ID of 2.
-"display_name": |-
-  How to Check a Player's Role in a Group
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

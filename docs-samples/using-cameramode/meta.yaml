@@ -1,8 +1,0 @@
-description: |
-  This example demonstrates how to change the character's CameraMode to first
-  person using the LockFirstPerson value of the `Enum.CameraMode` enum.
-display_name: |-
-  Playing in First Person
-expected_output: ""
-highlight_lines: ""
-category: Docs Sample

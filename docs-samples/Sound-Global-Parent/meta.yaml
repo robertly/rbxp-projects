@@ -1,9 +1,0 @@
-"description": |
-  This sample gives a simple example of how a Sound that is not parented to a
-  Part or Attachment will play at a constant volume throughout the place. A
-  sound is instanced and parented to the Workspace, and then played.
-"display_name": |-
-  Sound in the Workspace
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

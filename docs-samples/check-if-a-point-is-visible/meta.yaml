@@ -1,8 +1,0 @@
-"description": |
-  The following function returns true if a `Datatype.Vector3` is visible on
-  screen and unobscured by `BasePart|BaseParts` and `Terrain`.
-"display_name": |-
-  Check if a point is visible
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

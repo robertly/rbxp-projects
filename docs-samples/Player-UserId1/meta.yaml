@@ -1,7 +1,0 @@
-"description": |
-  The below example would print the UserId of every user who entered a game.
-"display_name": |-
-  Player.UserId
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

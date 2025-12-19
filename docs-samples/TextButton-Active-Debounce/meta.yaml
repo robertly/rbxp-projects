@@ -1,8 +1,0 @@
-"description": |
-  This code sample demonstrates the usage of the Active property as a debounce
-  for the Activated event.
-"display_name": |-
-  TextButton Active Debounce
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

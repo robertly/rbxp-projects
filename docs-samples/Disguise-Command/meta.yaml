@@ -1,9 +1,0 @@
-"description": |
-  This code sample allows players to chat "/disguise xyz", where xyz is a user
-  ID or username, and they will respawn appearing like that account's avatar.
-  Try typing "/disguise 261" or "/disguise Shedletsky"!
-"display_name": |-
-  Disguise Command
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

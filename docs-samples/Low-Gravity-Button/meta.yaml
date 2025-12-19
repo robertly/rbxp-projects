@@ -1,9 +1,0 @@
-"description": |
-  This script creates a touch pad in the workspace that, when touched, will
-  reduce the game's gravity. Activating the pad again will switch back to normal
-  gravity.
-"display_name": |-
-  Low Gravity Button
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

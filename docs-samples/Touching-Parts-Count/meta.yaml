@@ -1,8 +1,0 @@
-"description": |
-  This code sample creates a BillboardGui on a part that displays the number of
-  parts presently touching it.
-"display_name": |-
-  Touching Parts Count
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

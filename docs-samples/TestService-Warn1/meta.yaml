@@ -1,8 +1,0 @@
-"description": |
-  This code would print "Warning: this action is invalid" to the output, in
-  yellow text.
-"display_name": |-
-  TestService:Warn
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

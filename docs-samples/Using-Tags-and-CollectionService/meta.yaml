@@ -1,9 +1,0 @@
-"description": |
-  This code sample demonstrates adding, removing and querying a tag from an
-  object using `CollectionService`.
-"display_name": |-
-  Using Tags and CollectionService
-"expected_output": |-
-  When run, you should see "Workspace.Part is deadly" followed by "The object Workspace.Part has tags: Deadly" in the Output.
-"highlight_lines": ""
-"category": Docs Sample

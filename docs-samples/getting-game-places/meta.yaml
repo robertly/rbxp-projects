@@ -1,8 +1,0 @@
-description: |
-  The following code goes through each page of games in the universe and prints
-  the Name and PlaceId.
-display_name: |-
-  AssetService:GetGamePlacesAsync
-expected_output: ""
-highlight_lines: ""
-category: Docs Sample

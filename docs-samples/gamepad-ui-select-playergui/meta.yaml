@@ -1,8 +1,0 @@
-"description": |
-  This example shows how to use `Class.GuiService:Select()` to start gamepad UI
-  selection programmatically that doesn't need to specify a button to select.
-"display_name": |-
-  Start Gamepad Selection
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

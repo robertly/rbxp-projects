@@ -1,8 +1,0 @@
-"description": |
-  This code sample demonstrates TextWrap by spelling out a long chunk of text
-  progressively. If the text doesn't fit, it turns a different color.
-"display_name": |-
-  Long Text Wrapping
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

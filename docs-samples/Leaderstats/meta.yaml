@@ -1,9 +1,0 @@
-"description": |
-  This code sample demonstrates the creation of leaderboard stat values in
-  Roblox's default player list UI. It creates a "Score" leaderstat that starts
-  at 0.
-"display_name": |-
-  Leaderstats
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

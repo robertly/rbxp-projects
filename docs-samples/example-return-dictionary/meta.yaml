@@ -1,9 +1,0 @@
-"description": |
-  Sometimes it is best to see an example of the returned dictionary structure in
-  pure Lua. Here is one such example of a player whose avatar uses a package and
-  wears several hats. Can you guess who it is?
-"display_name": |-
-  Example Return Character Appearance Dictionary
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

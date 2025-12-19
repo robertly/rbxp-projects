@@ -1,7 +1,0 @@
-"description": |-
-  ScriptDocument:HasSelectedText() and :GetSelectedText()
-"display_name": |-
-  ScriptDocument:HasSelectedText() and :GetSelectedText()
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

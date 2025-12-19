@@ -1,9 +1,0 @@
-"description": |
-  In this example a Sound is played in the Workspace. The PlaybackSpeed property
-  is increased and decreased at intervals to demonstrate its impact on the
-  playback of the Sound.
-"display_name": |-
-  Sound PlaybackSpeed
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

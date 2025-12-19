@@ -1,1 +1,0 @@
-plugin:CreateToolbar("ExampleToolbar")

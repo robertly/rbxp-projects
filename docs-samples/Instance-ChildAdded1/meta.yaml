@@ -1,7 +1,0 @@
-"description": |
-  This snippet prints the names of objects as they are added to the Workspace:
-"display_name": |-
-  Instance.ChildAdded
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

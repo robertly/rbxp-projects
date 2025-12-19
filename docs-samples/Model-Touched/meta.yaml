@@ -1,8 +1,0 @@
-"description": |
-  This code sample demonstrates how to connect the Touched event of multiple
-  parts in a Model to one function.
-"display_name": |-
-  Model Touched
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

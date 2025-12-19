@@ -1,9 +1,0 @@
-"description": |
-  This code sample colors a player's entire character based on how much health
-  they have. It generates a color based on their max health, then sets the color
-  properties of objects within their character, removing any extra objects.
-"display_name": |-
-  Character Health Body Color
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

@@ -1,9 +1,0 @@
-"description": |
-  This code sample dynamically resizes a TextLabel, TextButton or TextBox to
-  match the size of its TextBounds. Try changing the minimum width/height and
-  pasting into a LocalScript in a TextBox.
-"display_name": |-
-  Dynamic TextBox Size
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

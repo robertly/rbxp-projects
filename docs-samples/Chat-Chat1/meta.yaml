@@ -1,8 +1,0 @@
-"description": |
-  The below example would create a part in Workspace and cause it to exclaim
-  "Blame John!"
-"display_name": |-
-  Chat:Chat
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

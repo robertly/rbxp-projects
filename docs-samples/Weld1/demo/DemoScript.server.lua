@@ -1,1 +1,0 @@
--- weld.Part0.CFrame * weld.C0 = weld.Part1.CFrame * weld.C1

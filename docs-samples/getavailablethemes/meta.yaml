@@ -1,8 +1,0 @@
-"description": |
-  The code below retrieves an array of all available themes and then iterates
-  through them.
-"display_name": |-
-  Output Studio Themes
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

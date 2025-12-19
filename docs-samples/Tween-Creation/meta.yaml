@@ -1,9 +1,0 @@
-"description": |
-  In this example a Tween is created to animate the position and color of a
-  Part. Because the position and color are part of the same tween, they will
-  change at the exact same rate and will reach their goal at the same time.
-"display_name": |-
-  Tween Creation
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

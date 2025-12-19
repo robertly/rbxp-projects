@@ -1,9 +1,0 @@
-"description": |
-  This code sample creates a Humanoid Model to match the avatar of the passed in
-  User ID, and parents the Model to the Workspace.
-"display_name": |-
-  Create Humanoid Model From A User ID
-"expected_output": |-
-  When run, a Model is created and parented to the Workspace.
-"highlight_lines": ""
-"category": Docs Sample

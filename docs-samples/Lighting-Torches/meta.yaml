@@ -1,9 +1,0 @@
-"description": |
-  This code sample adds `Fire` to all `BasePart` in the `Workspace` named
-  "Torch".
-"display_name": |-
-  Lighting Torches
-"expected_output": |-
-  When run, parts in the workspace named "Torch" should each have a Fire object parented to them. The fire should be about the size of the part, and about the same color too.
-"highlight_lines": ""
-"category": Docs Sample

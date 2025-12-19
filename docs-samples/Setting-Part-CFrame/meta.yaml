@@ -1,9 +1,0 @@
-"description": |
-  This code sample demonstrates setting a part's CFrame in many different ways.
-  It showcases how to create and compose CFrame values. It references a sibling
-  part called "OtherPart" for demonstrating relative positioning.
-"display_name": |-
-  Setting Part CFrame
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

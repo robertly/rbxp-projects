@@ -1,8 +1,0 @@
-"description": |
-  This sample creates and plays a sound locally when a button in a custom Studio
-  plugin is pressed.
-"display_name": |-
-  Play Local Sound
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

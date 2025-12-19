@@ -1,9 +1,0 @@
-display_name: Throwing Dice
-description: |
-  Demonstrates throwing two dice using `Class.BasePart:ApplyAngularImpulse()` and `Class.BasePart:ApplyImpulse()`
-
-  `Class.BasePart:ApplyAngularImpulse()|ApplyAngularImpulse` applies an angular force, while `Class.BasePart:ApplyImpulse()|ApplyImpulse` applies a linear force. 
-  The amount of force depends on the Vector3 value passed into these functions. 
-
-  A random angular impulse, and an upward linear impulse are applied to each die, moving them as if the dice were thrown. Then the dice will reset their position and be thrown again in an endless loop.
-category: Impulse

@@ -1,7 +1,0 @@
-"description": |
-  This example prints the BoolValue's new value each time it changes.
-"display_name": |-
-  BoolValue.Changed
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

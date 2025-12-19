@@ -1,9 +1,0 @@
-display_name: Connecting to ScriptDocument.ViewportChanged
-description: |
-  Demonstrates using `Class.ScriptDocument.ViewportChanged` to print the start and end line of the script's viewport when it changes.
-
-  To run:
-      1. Ensure Output view is open
-      2. Run the below code in the Command Bar
-      3. Scroll up and down in the opened Script window
-category: Script Editor

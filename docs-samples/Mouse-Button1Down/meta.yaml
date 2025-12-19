@@ -1,9 +1,0 @@
-"description": |
-  The following code sample, when placed in `StarterPlayerScripts` will create a
-  tool in the player's backpack that, once equipped, will change the
-  `Class.BasePart.BrickColor` of every `BasePart` the player clicks on.
-"display_name": |-
-  Color Randomizer Tool
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

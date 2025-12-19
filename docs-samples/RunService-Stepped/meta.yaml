@@ -1,9 +1,0 @@
-"description": |
-  This code sample uses RunService's Stepped event to create a Part that flies
-  in a direction given a start position and speed. It uses a BodyPosition to
-  move the Part, and calculates the new position of the Part each frame.
-"display_name": |-
-  RunService Stepped
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

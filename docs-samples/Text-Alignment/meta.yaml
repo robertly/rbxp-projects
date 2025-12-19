@@ -1,9 +1,0 @@
-"description": |
-  This code sample shows all the different text alignment combinations by
-  iterating over each enum item. It is meant to be placed within a TextLabel,
-  TextButton or TextBox.
-"display_name": |-
-  Text Alignment
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

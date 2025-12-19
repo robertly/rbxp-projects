@@ -1,9 +1,0 @@
-"description": |
-  Since the below code is listening for a `Class.RemoteEvent.OnServerEvent` to
-  fire to the Server from a Client. Place this script somewhere on the Server
-  such as within ServerStorage.
-"display_name": |-
-  Script (Server)
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

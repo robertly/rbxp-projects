@@ -1,8 +1,0 @@
-"description": |
-  This snippet prints the names of objects as they are removed from the
-  Workspace:
-"display_name": |-
-  Instance.ChildRemoved
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

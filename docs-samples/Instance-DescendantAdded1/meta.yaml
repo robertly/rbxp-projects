@@ -1,8 +1,0 @@
-"description": |
-  This following example will print the name of any object that is added to the
-  Workspace:
-"display_name": |-
-  Instance.DescendantAdded
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

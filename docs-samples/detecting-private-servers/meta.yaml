@@ -1,9 +1,0 @@
-"description": |
-  `Class.DataModel.PrivateServerId` and `Class.DataModel.PrivateServerOwnerId`
-  can be used to detect if the current server instance is a standard server, a
-  VIP server or a reserved server.
-"display_name": |-
-  Detecting Private Servers
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

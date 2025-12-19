@@ -1,7 +1,0 @@
-"description": |
-  This code creates a toolbar with the name "ExampleToolbar".
-"display_name": |-
-  Plugin:CreateToolbar
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

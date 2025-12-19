@@ -1,8 +1,0 @@
-"description": |
-  This code sample demonstrates the equivalence of the `Changed` event and event
-  returned by `GetPropertyChangedSignal`.
-"display_name": |-
-  Changed and GetPropertyChangedSignal
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

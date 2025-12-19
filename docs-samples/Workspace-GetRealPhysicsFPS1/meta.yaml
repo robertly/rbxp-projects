@@ -1,9 +1,0 @@
-"description": |
-  Speed exploiters commonly increase their local physics FPS in order to
-  increase their character speed. This can be detected from a LocalScript by
-  checking if the player's physics FPS is over the maximum:
-"display_name": |-
-  Workspace:GetRealPhysicsFPS
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

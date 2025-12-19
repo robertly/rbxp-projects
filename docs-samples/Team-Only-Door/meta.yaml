@@ -1,8 +1,0 @@
-"description": |
-  The following code sample will create a door in the Workspace that can only be
-  walked through by Players on the Bright red team.
-"display_name": |-
-  Team Only Door
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

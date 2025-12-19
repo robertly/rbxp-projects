@@ -1,9 +1,0 @@
-"description": |-
-  The following code will print "[PlayerName] hovered over my parent!" when a player's cursor hovers over the `Class.ClickDetector` parent. It will also print "[PlayerName] hovered off my parent!" when the player's cursor moves off the `Class.ClickDetector` parent.
-
-  In order for this example to work as expected, it must be placed in a `Script` or `LocalScript` whose parent is a `Class.ClickDetector`.
-"display_name": |-
-  Hovering Over and Off a ClickDetector
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

@@ -1,7 +1,0 @@
-"description": |
-  This example demonstrates how mouse events are passed during each frame
-"display_name": |-
-  Mouse.Idle
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

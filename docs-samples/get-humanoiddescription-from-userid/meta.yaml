@@ -1,9 +1,0 @@
-"description": |
-  This code sample shows how to use GetHumanoidDescriptionFromUserId() to create
-  a Humanoid Model.
-"display_name": |-
-  Get HumanoidDescription From User ID
-"expected_output": |-
-  When run, a Humanoid Model is placed in the Workspace.
-"highlight_lines": ""
-"category": Docs Sample

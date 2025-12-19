@@ -1,8 +1,0 @@
-"description": |
-  This example prints the name of the UserCFrame VR device making the request,
-  and the CFrame coordinates passed.
-"display_name": |-
-  VRService.NavigationRequested
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample

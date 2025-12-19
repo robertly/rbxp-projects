@@ -1,9 +1,0 @@
-"description": |
-  This code will teleport a player to Crossroads, and if there is a spawn named
-  "TeleportSpawn" then the player would spawn on it. This assumes it's being
-  used in a `Class.LocalScript`.
-"display_name": |-
-  TeleportService:TeleportToSpawnByName
-"expected_output": ""
-"highlight_lines": ""
-"category": Docs Sample
